@@ -23,6 +23,40 @@ export interface ProcessedQuestion {
   originalQuestion: QuizQuestion
 }
 
+// Fallback quiz data in case external files fail to load
+const fallbackQuizData: QuizQuestion[] = [
+  {
+    index: 1,
+    questionId: "fallback_1",
+    question: "What is the capital of France?",
+    answers: ["London", "Berlin", "Paris", "Madrid"],
+    correctAnswers: ["Paris"],
+    selectedAnswer: "Paris",
+    isCorrect: true,
+    bank: "Fallback Quiz - General Knowledge"
+  },
+  {
+    index: 2,
+    questionId: "fallback_2",
+    question: "Which planet is known as the Red Planet?",
+    answers: ["Venus", "Mars", "Jupiter", "Saturn"],
+    correctAnswers: ["Mars"],
+    selectedAnswer: "Mars",
+    isCorrect: true,
+    bank: "Fallback Quiz - General Knowledge"
+  },
+  {
+    index: 3,
+    questionId: "fallback_3",
+    question: "What is 2 + 2?",
+    answers: ["3", "4", "5", "6"],
+    correctAnswers: ["4"],
+    selectedAnswer: "4",
+    isCorrect: true,
+    bank: "Fallback Quiz - General Knowledge"
+  }
+]
+
 // Function to load quiz data from JSON files
 export const loadQuizData = async (): Promise<QuizBank[]> => {
   try {
@@ -70,7 +104,19 @@ export const loadQuizData = async (): Promise<QuizBank[]> => {
     
     for (const fileName of quizFiles) {
       try {
-        const response = await fetch(`/quizzes/${fileName}`)
+        // Try different paths for development vs production
+        let response = await fetch(`/quizzes/${fileName}`)
+        
+        // If that fails, try the public path
+        if (!response.ok) {
+          response = await fetch(`/StudyTool/quizzes/${fileName}`)
+        }
+        
+        // If that also fails, try relative path
+        if (!response.ok) {
+          response = await fetch(`./quizzes/${fileName}`)
+        }
+        
         if (response.ok) {
           const quizData: QuizQuestion[] = await response.json()
           if (quizData.length > 0) {
@@ -83,16 +129,34 @@ export const loadQuizData = async (): Promise<QuizBank[]> => {
               questions: quizData
             })
           }
+        } else {
+          console.warn(`Failed to load quiz file: ${fileName} - Status: ${response.status}`)
         }
       } catch (error) {
         console.warn(`Failed to load quiz file: ${fileName}`, error)
       }
     }
 
+    // If no quiz files were loaded, add fallback data
+    if (quizBanks.length === 0) {
+      console.log('No quiz files loaded, using fallback data')
+      quizBanks.push({
+        id: 'fallback',
+        name: 'Fallback Quiz - General Knowledge',
+        questions: fallbackQuizData
+      })
+    }
+
+    console.log(`Successfully loaded ${quizBanks.length} quiz banks`)
     return quizBanks
   } catch (error) {
     console.error('Error loading quiz data:', error)
-    return []
+    // Return fallback data if everything fails
+    return [{
+      id: 'fallback',
+      name: 'Fallback Quiz - General Knowledge',
+      questions: fallbackQuizData
+    }]
   }
 }
 

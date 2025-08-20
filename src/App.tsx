@@ -2,15 +2,54 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import { loadQuizData, createComprehensiveReview, ProcessedQuestion, QuizBank } from './utils/quizUtils'
 
+// Local storage keys
+const STORAGE_KEYS = {
+  SELECTED_QUIZ: 'studytool_selected_quiz',
+  CURRENT_QUESTION_INDEX: 'studytool_current_question_index',
+  SCORE: 'studytool_score',
+  COMPLETED_QUESTIONS: 'studytool_completed_questions',
+  QUIZ_HISTORY: 'studytool_quiz_history'
+}
+
+// Load data from localStorage
+const loadFromStorage = (key: string, defaultValue: any) => {
+  try {
+    const item = localStorage.getItem(key)
+    return item ? JSON.parse(item) : defaultValue
+  } catch (error) {
+    console.warn(`Failed to load from localStorage: ${key}`, error)
+    return defaultValue
+  }
+}
+
+// Save data to localStorage
+const saveToStorage = (key: string, value: any) => {
+  try {
+    localStorage.setItem(key, JSON.stringify(value))
+  } catch (error) {
+    console.warn(`Failed to save to localStorage: ${key}`, error)
+  }
+}
+
 function App() {
   const [quizBanks, setQuizBanks] = useState<QuizBank[]>([])
-  const [selectedQuiz, setSelectedQuiz] = useState<string>('')
+  const [selectedQuiz, setSelectedQuiz] = useState<string>(() => 
+    loadFromStorage(STORAGE_KEYS.SELECTED_QUIZ, 'comprehensive')
+  )
   const [currentQuestions, setCurrentQuestions] = useState<ProcessedQuestion[]>([])
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0)
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(() => 
+    loadFromStorage(STORAGE_KEYS.CURRENT_QUESTION_INDEX, 0)
+  )
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null)
   const [showResult, setShowResult] = useState(false)
-  const [score, setScore] = useState(0)
+  const [score, setScore] = useState<number>(() => 
+    loadFromStorage(STORAGE_KEYS.SCORE, 0)
+  )
   const [isLoading, setIsLoading] = useState(true)
+  const [completedQuestions, setCompletedQuestions] = useState<Set<number>>(() => {
+    const saved = loadFromStorage(STORAGE_KEYS.COMPLETED_QUESTIONS, [])
+    return new Set(saved)
+  })
 
   // Load quiz data on component mount
   useEffect(() => {
@@ -20,10 +59,8 @@ function App() {
         const banks = await loadQuizData()
         setQuizBanks(banks)
         if (banks.length > 0) {
-          // Set default to comprehensive review
-          setSelectedQuiz('comprehensive')
-          const comprehensiveQuestions = createComprehensiveReview(banks)
-          setCurrentQuestions(comprehensiveQuestions)
+          // Load questions based on selected quiz
+          handleQuizChange(selectedQuiz, banks)
         }
       } catch (error) {
         console.error('Failed to load quizzes:', error)
@@ -35,19 +72,38 @@ function App() {
     loadQuizzes()
   }, [])
 
+  // Save progress to localStorage whenever it changes
+  useEffect(() => {
+    saveToStorage(STORAGE_KEYS.SELECTED_QUIZ, selectedQuiz)
+  }, [selectedQuiz])
+
+  useEffect(() => {
+    saveToStorage(STORAGE_KEYS.CURRENT_QUESTION_INDEX, currentQuestionIndex)
+  }, [currentQuestionIndex])
+
+  useEffect(() => {
+    saveToStorage(STORAGE_KEYS.SCORE, score)
+  }, [score])
+
+  useEffect(() => {
+    saveToStorage(STORAGE_KEYS.COMPLETED_QUESTIONS, Array.from(completedQuestions))
+  }, [completedQuestions])
+
   // Handle quiz selection change
-  const handleQuizChange = (quizId: string) => {
+  const handleQuizChange = (quizId: string, banks?: QuizBank[]) => {
+    const quizBanksToUse = banks || quizBanks
     setSelectedQuiz(quizId)
     setCurrentQuestionIndex(0)
     setSelectedAnswer(null)
     setShowResult(false)
     setScore(0)
+    setCompletedQuestions(new Set())
 
     if (quizId === 'comprehensive') {
-      const comprehensiveQuestions = createComprehensiveReview(quizBanks)
+      const comprehensiveQuestions = createComprehensiveReview(quizBanksToUse)
       setCurrentQuestions(comprehensiveQuestions)
     } else {
-      const selectedBank = quizBanks.find(bank => bank.id === quizId)
+      const selectedBank = quizBanksToUse.find(bank => bank.id === quizId)
       if (selectedBank) {
         const processedQuestions = selectedBank.questions.map((q, index) => ({
           id: index + 1,
@@ -74,6 +130,9 @@ function App() {
       setScore(score + 1)
     }
 
+    // Mark this question as completed
+    setCompletedQuestions(prev => new Set([...prev, currentQuestionIndex]))
+
     setShowResult(true)
   }
 
@@ -90,7 +149,13 @@ function App() {
     setSelectedAnswer(null)
     setShowResult(false)
     setScore(0)
+    setCompletedQuestions(new Set())
   }
+
+  // Calculate progress percentage
+  const progressPercentage = currentQuestions.length > 0 
+    ? Math.round((completedQuestions.size / currentQuestions.length) * 100)
+    : 0
 
   if (isLoading) {
     return (
@@ -144,6 +209,14 @@ function App() {
 
           <div className="progress">
             Question {currentQuestionIndex + 1} of {currentQuestions.length}
+            {progressPercentage > 0 && (
+              <span className="progress-bar">
+                <div 
+                  className="progress-fill" 
+                  style={{ width: `${progressPercentage}%` }}
+                ></div>
+              </span>
+            )}
           </div>
           <div className="score">Score: {score}</div>
         </header>
