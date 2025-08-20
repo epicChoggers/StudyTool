@@ -9,13 +9,16 @@ A modern, mobile-friendly quiz application built with React, TypeScript, and Vit
 - **Interactive Quiz**: Multiple choice questions with immediate feedback
 - **Progress Tracking**: Shows current question and score
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile
+- **Quiz Selector**: Choose from individual quiz banks or comprehensive review
+- **Comprehensive Review**: Randomized questions from all available quizzes
 
 ## Tech Stack
 
 - **Frontend**: React 18 with TypeScript
 - **Build Tool**: Vite
 - **Styling**: CSS3 with modern features (CSS Grid, Flexbox, CSS Variables)
-- **State Management**: React Hooks (useState)
+- **State Management**: React Hooks (useState, useEffect)
+- **Deployment**: GitHub Pages with GitHub Actions
 
 ## Getting Started
 
@@ -58,8 +61,13 @@ StudyTool/
 │   ├── App.tsx          # Main application component
 │   ├── App.css          # Application styles
 │   ├── main.tsx         # Application entry point
-│   └── index.css        # Global styles
-├── public/              # Static assets
+│   ├── index.css        # Global styles
+│   └── utils/
+│       └── quizUtils.ts # Quiz data utilities
+├── public/
+│   └── quizzes/         # Quiz JSON files
+├── .github/
+│   └── workflows/       # GitHub Actions deployment
 ├── index.html           # HTML entry point
 ├── vite.config.ts       # Vite configuration
 ├── tsconfig.json        # TypeScript configuration
@@ -91,6 +99,28 @@ The application uses modern CSS with:
 - CSS Variables for consistent theming
 - Smooth transitions and animations
 - Mobile-first responsive design
+
+## Deployment
+
+### GitHub Pages
+
+This project is configured for automatic deployment to GitHub Pages using GitHub Actions.
+
+1. **Push to GitHub**: Push your code to a GitHub repository
+2. **Enable GitHub Pages**: Go to repository Settings > Pages
+3. **Set Source**: Select "GitHub Actions" as the source
+4. **Automatic Deployment**: Every push to the `main` branch will trigger a deployment
+
+The application will be available at: `https://<username>.github.io/StudyTool/`
+
+### Manual Deployment
+
+To deploy manually:
+
+```bash
+npm run build
+# Upload the contents of the 'dist' folder to your web server
+```
 
 ## Future Enhancements
 
