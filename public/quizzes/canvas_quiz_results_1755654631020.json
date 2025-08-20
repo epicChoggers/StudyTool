@@ -14,7 +14,8 @@
     ],
     "selectedAnswer": "Mallory-Weiss tear.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 2,
@@ -31,7 +32,8 @@
     ],
     "selectedAnswer": "protect her airway from aspiration.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 3,
@@ -48,7 +50,8 @@
     ],
     "selectedAnswer": "acute cholecystitis.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 4,
@@ -65,7 +68,8 @@
     ],
     "selectedAnswer": "be alert for signs and symptoms of shock.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 5,
@@ -82,7 +86,8 @@
     ],
     "selectedAnswer": "administer oxygen and prepare for immediate transport.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 6,
@@ -99,7 +104,8 @@
     ],
     "selectedAnswer": "aortic aneurysm.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 7,
@@ -116,7 +122,8 @@
     ],
     "selectedAnswer": "encourage the patient to remain in a supine position.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 8,
@@ -133,7 +140,8 @@
     ],
     "selectedAnswer": "is often caused by hypertension or diabetes.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 9,
@@ -150,7 +158,8 @@
     ],
     "selectedAnswer": "consume a lot of alcohol.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 10,
@@ -167,7 +176,8 @@
     ],
     "selectedAnswer": "secretion of bile and filtration of toxic substances.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 11,
@@ -184,7 +194,8 @@
     ],
     "selectedAnswer": "leakage of contents into the abdominal cavity.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 12,
@@ -201,7 +212,8 @@
     ],
     "selectedAnswer": "lie on their side with their knees drawn into the abdomen.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 13,
@@ -218,7 +230,8 @@
     ],
     "selectedAnswer": "age-related deterioration of their sensory systems.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 14,
@@ -235,7 +248,8 @@
     ],
     "selectedAnswer": "appendicitis.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 15,
@@ -252,7 +266,8 @@
     ],
     "selectedAnswer": "substances in the stomach increase the risk of aspiration.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 16,
@@ -269,7 +284,8 @@
     ],
     "selectedAnswer": "peritonitis.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 17,
@@ -286,7 +302,8 @@
     ],
     "selectedAnswer": "ask the patient to point to the area of pain or tenderness and assess for rebound tenderness over that specific area.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 18,
@@ -303,7 +320,8 @@
     ],
     "selectedAnswer": "Cystitis",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 19,
@@ -320,7 +338,8 @@
     ],
     "selectedAnswer": "continue transporting and alert the receiving hospital.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   },
   {
     "index": 20,
@@ -337,6 +356,7 @@
     ],
     "selectedAnswer": "place him in a supine position, elevate his lower extremities, and transport at once.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "Abdominal",
+    "title": "Abdominal"
   }
 ]

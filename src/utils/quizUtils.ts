@@ -7,6 +7,7 @@ export interface QuizQuestion {
   selectedAnswer: string
   isCorrect: boolean
   bank: string
+  title?: string
 }
 
 export interface QuizBank {
@@ -120,7 +121,8 @@ export const loadQuizData = async (): Promise<QuizBank[]> => {
         if (response.ok) {
           const quizData: QuizQuestion[] = await response.json()
           if (quizData.length > 0) {
-            const bankName = quizData[0].bank
+            // Use the title field if available, otherwise fall back to bank name
+            const bankName = quizData[0].title || quizData[0].bank || 'Unknown Topic'
             const bankId = fileName.replace('.json', '')
             
             quizBanks.push({

@@ -14,7 +14,8 @@
     ],
     "selectedAnswer": "provide rescue breathing, remove his wet clothing, immobilize his entire spine, keep him warm, and transport carefully.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 2,
@@ -31,7 +32,8 @@
     ],
     "selectedAnswer": "open his airway and give two rescue breaths.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 3,
@@ -48,7 +50,8 @@
     ],
     "selectedAnswer": "transporting only with close, continuous monitoring.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 4,
@@ -65,7 +68,8 @@
     ],
     "selectedAnswer": "administer oxygen and epinephrine and prepare for rapid transport.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 5,
@@ -82,7 +86,8 @@
     ],
     "selectedAnswer": "coral snake.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 6,
@@ -99,7 +104,8 @@
     ],
     "selectedAnswer": "the diver holds his or her breath during a rapid ascent.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 7,
@@ -116,7 +122,8 @@
     ],
     "selectedAnswer": "90°F (32°C).",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 8,
@@ -133,7 +140,8 @@
     ],
     "selectedAnswer": "superficial.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 9,
@@ -150,7 +158,8 @@
     ],
     "selectedAnswer": "hot, dry skin.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 10,
@@ -167,7 +176,8 @@
     ],
     "selectedAnswer": "it must evaporate from the body.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 11,
@@ -184,7 +194,8 @@
     ],
     "selectedAnswer": "exhibit poor thermoregulation.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 12,
@@ -201,7 +212,8 @@
     ],
     "selectedAnswer": "warm air is exhaled into the atmosphere.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 13,
@@ -218,7 +230,8 @@
     ],
     "selectedAnswer": "the body's heat-eliminating mechanisms are overwhelmed.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 14,
@@ -235,7 +248,8 @@
     ],
     "selectedAnswer": "can cause paralysis and cardiorespiratory collapse.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 15,
@@ -252,7 +266,8 @@
     ],
     "selectedAnswer": "has a bite that usually produces local pain but no systemic signs or symptoms.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 16,
@@ -269,7 +284,8 @@
     ],
     "selectedAnswer": "too rapid of an ascent.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 17,
@@ -286,7 +302,8 @@
     ],
     "selectedAnswer": "joint pain.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 18,
@@ -303,7 +320,8 @@
     ],
     "selectedAnswer": "possible spinal injury.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 19,
@@ -320,7 +338,8 @@
     ],
     "selectedAnswer": "abdominal or joint pain.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 20,
@@ -337,6 +356,7 @@
     ],
     "selectedAnswer": "conduction.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   }
 ]

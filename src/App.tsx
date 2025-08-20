@@ -198,12 +198,14 @@ function App() {
               onChange={(e) => handleQuizChange(e.target.value)}
               className="quiz-dropdown"
             >
-              <option value="comprehensive">📚 Comprehensive Review (All Questions)</option>
-              {quizBanks.map((bank) => (
-                <option key={bank.id} value={bank.id}>
-                  📝 {bank.name}
-                </option>
-              ))}
+              <option value="comprehensive">📚 Comprehensive Review (All Topics)</option>
+              <optgroup label="Individual Topic Quizzes">
+                {quizBanks.map((bank) => (
+                  <option key={bank.id} value={bank.id}>
+                    📝 {bank.name}
+                  </option>
+                ))}
+              </optgroup>
             </select>
           </div>
 

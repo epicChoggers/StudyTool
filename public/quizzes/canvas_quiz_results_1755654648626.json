@@ -14,7 +14,8 @@
     ],
     "selectedAnswer": "transport only with close, continuous monitoring en route.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 2,
@@ -31,7 +32,8 @@
     ],
     "selectedAnswer": "has a low blood glucose level.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 3,
@@ -48,7 +50,8 @@
     ],
     "selectedAnswer": "provide ventilatory support.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 4,
@@ -65,7 +68,8 @@
     ],
     "selectedAnswer": "assist the patient's ventilations with a bag-valve mask.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 5,
@@ -82,7 +86,8 @@
     ],
     "selectedAnswer": "acidosis and dehydration.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 6,
@@ -99,7 +104,8 @@
     ],
     "selectedAnswer": "administer high-flow oxygen, perform a detailed secondary assessment at the scene, and transport promptly.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 7,
@@ -116,7 +122,8 @@
     ],
     "selectedAnswer": "Hypotension and tachycardia",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 8,
@@ -133,7 +140,8 @@
     ],
     "selectedAnswer": "Pulmonary embolism",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 9,
@@ -150,7 +158,8 @@
     ],
     "selectedAnswer": "hypoglycemia",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 10,
@@ -167,7 +176,8 @@
     ],
     "selectedAnswer": "open and maintain her airway and assess breathing.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 11,
@@ -184,7 +194,8 @@
     ],
     "selectedAnswer": "cool, clammy skin; weakness; tachycardia; and rapid respirations.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 12,
@@ -201,7 +212,8 @@
     ],
     "selectedAnswer": "cool, clammy skin.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 13,
@@ -218,7 +230,8 @@
     ],
     "selectedAnswer": "insulin is not available in the body.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 14,
@@ -235,7 +248,8 @@
     ],
     "selectedAnswer": "deep vein thrombosis.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 15,
@@ -252,7 +266,8 @@
     ],
     "selectedAnswer": "polyphagia.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 16,
@@ -269,7 +284,8 @@
     ],
     "selectedAnswer": "commonly results in excess water retention.",
     "isCorrect": false,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 17,
@@ -286,7 +302,8 @@
     ],
     "selectedAnswer": "is caused by resistance to insulin at the cellular level.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 18,
@@ -303,7 +320,8 @@
     ],
     "selectedAnswer": "has an altered mental status and a history of diabetes.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 19,
@@ -320,7 +338,8 @@
     ],
     "selectedAnswer": "fat metabolization when glucose is unavailable.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   },
   {
     "index": 20,
@@ -337,6 +356,7 @@
     ],
     "selectedAnswer": "excess glucose in the blood is excreted by the kidneys.",
     "isCorrect": true,
-    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)",
+    "title": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
   }
 ]
