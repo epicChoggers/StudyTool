@@ -26,6 +26,10 @@ const loadFromStorage = (key: string, defaultValue: any) => {
 const saveToStorage = (key: string, value: any) => {
   try {
     localStorage.setItem(key, JSON.stringify(value))
+    // Force immediate save for critical data
+    if (key === STORAGE_KEYS.SCORE || key === STORAGE_KEYS.COMPLETED_QUESTIONS) {
+      localStorage.getItem(key) // Force write
+    }
   } catch (error) {
     console.warn(`Failed to save to localStorage: ${key}`, error)
   }
@@ -107,7 +111,7 @@ function App() {
       if (selectedBank) {
         const processedQuestions = selectedBank.questions.map((q, index) => ({
           id: index + 1,
-          text: q.question,
+          text: q.question.charAt(0).toUpperCase() + q.question.slice(1),
           options: q.answers,
           correctAnswer: q.answers.findIndex(answer => q.correctAnswers.includes(answer)),
           originalQuestion: q
@@ -281,7 +285,7 @@ function App() {
             <div className="score-display">
               <div className="score-text">Quiz Complete!</div>
               <div className="score-percentage">
-                {Math.round((score / completedQuestions.size) * 100)}%
+                {Math.round((score / currentQuestions.length) * 100)}%
               </div>
               <div className="navigation">
                 <button

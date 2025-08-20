@@ -191,7 +191,7 @@ export const loadQuizData = async (): Promise<QuizBank[]> => {
 export const processQuizQuestions = (questions: QuizQuestion[]): ProcessedQuestion[] => {
   return questions.map((q, index) => ({
     id: index + 1,
-    text: q.question,
+    text: capitalizeFirstLetter(q.question),
     options: q.answers,
     correctAnswer: q.answers.findIndex(answer => q.correctAnswers.includes(answer)),
     originalQuestion: q
