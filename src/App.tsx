@@ -209,79 +209,90 @@ function App() {
             </select>
           </div>
 
-          <div className="progress">
-            Question {currentQuestionIndex + 1} of {currentQuestions.length}
-            {progressPercentage > 0 && (
-              <span className="progress-bar">
-                <div 
-                  className="progress-fill" 
-                  style={{ width: `${progressPercentage}%` }}
-                ></div>
-              </span>
-            )}
+          <div className="progress-container">
+            <div className="progress-bar" style={{ width: `${progressPercentage}%` }}></div>
+            <div className="progress-text">
+              Question {currentQuestionIndex + 1} of {currentQuestions.length}
+            </div>
           </div>
           <div className="score">Score: {score}</div>
         </header>
 
         <main className="main">
-          <div className="question-card">
-            <h2 className="question-text">{currentQuestion.text}</h2>
-            
-            <div className="options">
-              {currentQuestion.options.map((option, index) => (
-                <button
-                  key={index}
-                  className={`option ${selectedAnswer === index ? 'selected' : ''} ${
-                    showResult 
-                      ? index === currentQuestion.correctAnswer 
-                        ? 'correct' 
-                        : selectedAnswer === index && index !== currentQuestion.correctAnswer
+          {currentQuestionIndex < currentQuestions.length ? (
+            /* Quiz Content */
+            <div className="quiz-content">
+              <div className="question">
+                {currentQuestions[currentQuestionIndex]?.text}
+              </div>
+              
+              <div className="answers">
+                {currentQuestions[currentQuestionIndex]?.options.map((option, index) => (
+                  <button
+                    key={index}
+                    className={`answer-option ${
+                      selectedAnswer === index ? 'selected' : ''
+                    } ${
+                      showResult && index === currentQuestions[currentQuestionIndex]?.correctAnswer
+                        ? 'correct'
+                        : showResult && selectedAnswer === index && selectedAnswer !== currentQuestions[currentQuestionIndex]?.correctAnswer
                         ? 'incorrect'
                         : ''
-                      : ''
-                  }`}
-                  onClick={() => !showResult && handleAnswerSelect(index)}
-                  disabled={showResult}
-                >
-                  {option}
-                </button>
-              ))}
-            </div>
-
-            {!showResult && (
-              <button
-                className="submit-btn"
-                onClick={handleSubmit}
-                disabled={selectedAnswer === null}
-              >
-                Submit Answer
-              </button>
-            )}
-
-            {showResult && (
-              <div className="result">
-                <div className={`result-message ${selectedAnswer === currentQuestion.correctAnswer ? 'correct' : 'incorrect'}`}>
-                  {selectedAnswer === currentQuestion.correctAnswer ? 'Correct!' : 'Incorrect!'}
-                </div>
-                <div className="correct-answer">
-                  Correct answer: {currentQuestion.options[currentQuestion.correctAnswer]}
-                </div>
-                {currentQuestionIndex < currentQuestions.length - 1 ? (
-                  <button className="next-btn" onClick={handleNext}>
-                    Next Question
+                    }`}
+                    onClick={() => !showResult && handleAnswerSelect(index)}
+                    disabled={showResult}
+                  >
+                    {option}
+                  </button>
+                ))}
+              </div>
+              
+              <div className="navigation">
+                {!showResult ? (
+                  <button
+                    className="nav-button primary"
+                    onClick={handleSubmit}
+                    disabled={selectedAnswer === null}
+                  >
+                    Submit Answer
                   </button>
                 ) : (
-                  <div className="quiz-complete">
-                    <h3>Quiz Complete!</h3>
-                    <p>Final Score: {score} out of {currentQuestions.length}</p>
-                    <button className="restart-btn" onClick={handleRestart}>
-                      Restart Quiz
-                    </button>
-                  </div>
+                  <>
+                    {currentQuestionIndex < currentQuestions.length - 1 ? (
+                      <button
+                        className="nav-button primary"
+                        onClick={handleNext}
+                      >
+                        Next Question
+                      </button>
+                    ) : (
+                      <button
+                        className="nav-button success"
+                        onClick={handleRestart}
+                      >
+                        Finish Quiz
+                      </button>
+                    )}
+                  </>
                 )}
               </div>
-            )}
-          </div>
+            </div>
+          ) : (
+            <div className="score-display">
+              <div className="score-text">Quiz Complete!</div>
+              <div className="score-percentage">
+                {Math.round((score / completedQuestions.size) * 100)}%
+              </div>
+              <div className="navigation">
+                <button
+                  className="nav-button primary"
+                  onClick={handleRestart}
+                >
+                  Restart Quiz
+                </button>
+              </div>
+            </div>
+          )}
         </main>
       </div>
     </div>

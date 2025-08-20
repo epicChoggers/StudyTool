@@ -58,6 +58,18 @@ const fallbackQuizData: QuizQuestion[] = [
   }
 ]
 
+// Function to extract chapter number from title for sorting
+export const extractChapterNumber = (title: string): number => {
+  const match = title.match(/Chapter\s+(\d+)/i)
+  return match ? parseInt(match[1], 10) : 999 // Put non-chapter items at the end
+}
+
+// Function to capitalize first letter of a string
+export const capitalizeFirstLetter = (str: string): string => {
+  if (!str) return str
+  return str.charAt(0).toUpperCase() + str.slice(1)
+}
+
 // Function to load quiz data from JSON files
 export const loadQuizData = async (): Promise<QuizBank[]> => {
   try {
@@ -125,10 +137,16 @@ export const loadQuizData = async (): Promise<QuizBank[]> => {
             const bankName = quizData[0].title || quizData[0].bank || 'Unknown Topic'
             const bankId = fileName.replace('.json', '')
             
+            // Capitalize first letter of each question
+            const processedQuestions = quizData.map(q => ({
+              ...q,
+              question: capitalizeFirstLetter(q.question)
+            }))
+            
             quizBanks.push({
               id: bankId,
               name: bankName,
-              questions: quizData
+              questions: processedQuestions
             })
           }
         } else {
@@ -138,6 +156,13 @@ export const loadQuizData = async (): Promise<QuizBank[]> => {
         console.warn(`Failed to load quiz file: ${fileName}`, error)
       }
     }
+
+    // Sort quiz banks by chapter number
+    quizBanks.sort((a, b) => {
+      const chapterA = extractChapterNumber(a.name)
+      const chapterB = extractChapterNumber(b.name)
+      return chapterA - chapterB
+    })
 
     // If no quiz files were loaded, add fallback data
     if (quizBanks.length === 0) {
