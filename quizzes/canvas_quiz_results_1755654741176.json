@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_204942_1",
+    "question": "Activities such as walking, talking, and writing are regulated by the:",
+    "answers": [
+      "central nervous system.",
+      "autonomic nervous system.",
+      "somatic nervous system.",
+      "involuntary nervous system."
+    ],
+    "correctAnswers": [
+      "somatic nervous system."
+    ],
+    "selectedAnswer": "somatic nervous system.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_204942_2",
+    "question": "Anterior to the knee is a specialized bone called the:",
+    "answers": [
+      "tibia.",
+      "femur.",
+      "calcaneus.",
+      "patella."
+    ],
+    "correctAnswers": [
+      "patella."
+    ],
+    "selectedAnswer": "patella.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_204942_3",
+    "question": "Contraction of the right ventricle causes:",
+    "answers": [
+      "ejection of blood into the systemic circulation.",
+      "blood to flow into the pulmonary circulation.",
+      "closure of the mitral and aortic valves.",
+      "a return of blood from the pulmonary veins."
+    ],
+    "correctAnswers": [
+      "blood to flow into the pulmonary circulation."
+    ],
+    "selectedAnswer": "blood to flow into the pulmonary circulation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_204942_4",
+    "question": "Deoxygenated blood from the abdomen, pelvis, and lower extremities is returned to the right atrium via the:",
+    "answers": [
+      "inferior vena cava.",
+      "coronary sinus vein.",
+      "superior vena cava.",
+      "common iliac vein."
+    ],
+    "correctAnswers": [
+      "inferior vena cava."
+    ],
+    "selectedAnswer": "inferior vena cava.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_204942_5",
+    "question": "Negative-pressure breathing involves:",
+    "answers": [
+      "relaxing the respiratory muscles.",
+      "pushing or forcing air into the lungs.",
+      "increasing airway resistance during breathing.",
+      "a drop in pressure within the chest cavity."
+    ],
+    "correctAnswers": [
+      "a drop in pressure within the chest cavity."
+    ],
+    "selectedAnswer": "a drop in pressure within the chest cavity.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_204942_6",
+    "question": "Stimulation of the parasympathetic nervous system would result in:",
+    "answers": [
+      "vasoconstriction.",
+      "tachycardia.",
+      "a strong pulse.",
+      "a slower heart rate."
+    ],
+    "correctAnswers": [
+      "a slower heart rate."
+    ],
+    "selectedAnswer": "a slower heart rate.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_204942_7",
+    "question": "The air you breathe is _______ oxygen, and the air you exhale is _______ oxygen.",
+    "answers": [
+      "25%; 32%",
+      "16%; 25%",
+      "21%; 16%",
+      "21%; 35%"
+    ],
+    "correctAnswers": [
+      "21%; 16%"
+    ],
+    "selectedAnswer": "21%; 16%",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_204942_8",
+    "question": "The average adult has approximately ___________ of blood in his or her vascular system.",
+    "answers": [
+      "5 L",
+      "4 L",
+      "6 L",
+      "3 L"
+    ],
+    "correctAnswers": [
+      "6 L"
+    ],
+    "selectedAnswer": "5 L",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_204942_9",
+    "question": "The bones of the forearm are called the:",
+    "answers": [
+      "radius and ulna.",
+      "humerus and ulna.",
+      "tibia and radius.",
+      "radius and humerus."
+    ],
+    "correctAnswers": [
+      "radius and ulna."
+    ],
+    "selectedAnswer": "radius and ulna.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_204942_10",
+    "question": "The bones that constitute the fingers and toes are called:",
+    "answers": [
+      "phalanges.",
+      "metacarpals.",
+      "metatarsals",
+      "carpals."
+    ],
+    "correctAnswers": [
+      "phalanges."
+    ],
+    "selectedAnswer": "phalanges.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_204942_11",
+    "question": "The carpal bones form the:",
+    "answers": [
+      "ankle.",
+      "wrist.",
+      "hand.",
+      "foot."
+    ],
+    "correctAnswers": [
+      "wrist."
+    ],
+    "selectedAnswer": "wrist.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_204942_12",
+    "question": "The diaphragm and intercostal muscles contract during:",
+    "answers": [
+      "inhalation.",
+      "exhalation.",
+      "ventilation.",
+      "respiration."
+    ],
+    "correctAnswers": [
+      "inhalation."
+    ],
+    "selectedAnswer": "inhalation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_204942_13",
+    "question": "The firm cartilaginous ring that forms the inferior portion of the larynx is called the:",
+    "answers": [
+      "cricoid cartilage.",
+      "costal cartilage.",
+      "thyroid cartilage.",
+      "tracheal cartilage."
+    ],
+    "correctAnswers": [
+      "cricoid cartilage."
+    ],
+    "selectedAnswer": "cricoid cartilage.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_204942_14",
+    "question": "The kidneys and pancreas are called retroperitoneal organs because they:",
+    "answers": [
+      "lie just anterior to the costovertebral angle.",
+      "sit in front of the liver, spleen, and stomach.",
+      "are protected by the anterior rib cage.",
+      "are located behind the abdominal cavity."
+    ],
+    "correctAnswers": [
+      "are located behind the abdominal cavity."
+    ],
+    "selectedAnswer": "are located behind the abdominal cavity.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_204942_15",
+    "question": "The leaf-shaped flap of cartilage that prevents food and liquid from entering the trachea during swallowing is called the:",
+    "answers": [
+      "epiglottis.",
+      "vallecula.",
+      "uvula.",
+      "pharynx."
+    ],
+    "correctAnswers": [
+      "epiglottis."
+    ],
+    "selectedAnswer": "epiglottis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_204942_16",
+    "question": "The part of the brain that controls the left side of the body is the:",
+    "answers": [
+      "left parietal lobe.",
+      "left-side cerebrum.",
+      "right-side cerebrum.",
+      "right temporal lobe."
+    ],
+    "correctAnswers": [
+      "right-side cerebrum."
+    ],
+    "selectedAnswer": "right-side cerebrum.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_204942_17",
+    "question": "The primary organ responsible for absorption of products of digestion is the:",
+    "answers": [
+      "gallbladder.",
+      "large intestine.",
+      "small intestine.",
+      "pancreas."
+    ],
+    "correctAnswers": [
+      "small intestine."
+    ],
+    "selectedAnswer": "small intestine.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_204942_18",
+    "question": "The three bones that make up the shoulder girdle are the:",
+    "answers": [
+      "clavicle, scapula, and humerus.",
+      "acromion, humerus, and clavicle.",
+      "acromion, scapula, and humerus.",
+      "acromion, clavicle, and scapula."
+    ],
+    "correctAnswers": [
+      "clavicle, scapula, and humerus."
+    ],
+    "selectedAnswer": "clavicle, scapula, and humerus.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_204942_19",
+    "question": "The waste products of aerobic metabolism include:",
+    "answers": [
+      "glucose and lactic acid.",
+      "ATP and glucose.",
+      "carbon dioxide and water.",
+      "uric acid and nitrogen."
+    ],
+    "correctAnswers": [
+      "carbon dioxide and water."
+    ],
+    "selectedAnswer": "carbon dioxide and water.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_204942_20",
+    "question": "What happens when blood volume is lost from the body?",
+    "answers": [
+      "The arteries contract to increase the blood pressure.",
+      "Widespread vasodilation causes blood pressure to decrease.",
+      "The veins dilate to increase systemic perfusion.",
+      "Arterial blood is diverted to the skin and muscles."
+    ],
+    "correctAnswers": [
+      "The arteries contract to increase the blood pressure."
+    ],
+    "selectedAnswer": "The arteries contract to increase the blood pressure.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

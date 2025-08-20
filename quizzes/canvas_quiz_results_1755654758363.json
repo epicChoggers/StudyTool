@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_207367_1",
+    "question": "An infant or small child's airway can be occluded if it is overextended or overflexed because:",
+    "answers": [
+      "the tongue is proportionately small and can fall back into the throat.",
+      "the back of the head is flat, which prevents a neutral position.",
+      "the occiput is proportionately large, and the trachea is flexible.",
+      "he or she has a long neck, which makes the trachea prone to collapse."
+    ],
+    "correctAnswers": [
+      "the occiput is proportionately large, and the trachea is flexible."
+    ],
+    "selectedAnswer": "the occiput is proportionately large, and the trachea is flexible.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_207367_2",
+    "question": "An infant's blood pressure typically increases with age because:",
+    "answers": [
+      "blood pressure directly corresponds to body weight.",
+      "the infant's total blood volume decreases with age.",
+      "as the infant gets older, his or her blood vessels dilate.",
+      "his or her normal heart rate usually increases with age."
+    ],
+    "correctAnswers": [
+      "blood pressure directly corresponds to body weight."
+    ],
+    "selectedAnswer": "as the infant gets older, his or her blood vessels dilate.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_207367_3",
+    "question": "Breathing is often more difficult in older adults because the:",
+    "answers": [
+      "elasticity of the lungs decreases.",
+      "surface area of the alveoli increases.",
+      "diaphragm and intercostal muscles enlarge.",
+      "overall size of the airway decreases."
+    ],
+    "correctAnswers": [
+      "elasticity of the lungs decreases."
+    ],
+    "selectedAnswer": "elasticity of the lungs decreases.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_207367_4",
+    "question": "Factors that contribute to a decline in the vital capacity of an elderly patient include all of the following, except:",
+    "answers": [
+      "increased stiffness of the thoracic cage.",
+      "decreased residual volume.",
+      "increased surface area available for air exchange.",
+      "a loss of respiratory muscle mass."
+    ],
+    "correctAnswers": [
+      "increased surface area available for air exchange."
+    ],
+    "selectedAnswer": "decreased residual volume.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_207367_5",
+    "question": "Infants are often referred to as \"belly breathers\" because:",
+    "answers": [
+      "their diaphragm does not receive impulses from the brain.",
+      "their intercostal muscles are not functional.",
+      "their rib cage is less rigid, and the ribs sit horizontally.",
+      "an infant's ribs are brittle and are less able to expand."
+    ],
+    "correctAnswers": [
+      "their rib cage is less rigid, and the ribs sit horizontally."
+    ],
+    "selectedAnswer": "their rib cage is less rigid, and the ribs sit horizontally.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_207367_6",
+    "question": "In late adults, the amount of air left in the lungs after expiration of the maximum amount of air:",
+    "answers": [
+      "decreases, resulting in widespread collapsing of the alveoli and impaired diffusion of gases.",
+      "increases, which hampers diffusion of gases because of the stagnant air that remains in the alveoli.",
+      "remains unchanged because the lungs have become accustomed to years of breathing pollution.",
+      "decreases, which increases diffusion in the lungs and causes an accumulation of carbon dioxide."
+    ],
+    "correctAnswers": [
+      "increases, which hampers diffusion of gases because of the stagnant air that remains in the alveoli."
+    ],
+    "selectedAnswer": "increases, which hampers diffusion of gases because of the stagnant air that remains in the alveoli.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_207367_7",
+    "question": "The anterior fontanelle fuses together between the ages of:",
+    "answers": [
+      "7 and 14 months.",
+      "3 and 4 months.",
+      "6 and 8 months.",
+      "9 and 18 months."
+    ],
+    "correctAnswers": [
+      "9 and 18 months."
+    ],
+    "selectedAnswer": "9 and 18 months.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_207367_8",
+    "question": "The average pulse rate of persons between 19 and 40 years of age is typically:",
+    "answers": [
+      "70 beats/min.",
+      "80 beats/min.",
+      "60 beats/min.",
+      "90 beats/min."
+    ],
+    "correctAnswers": [
+      "70 beats/min."
+    ],
+    "selectedAnswer": "70 beats/min.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_207367_9",
+    "question": "The pulse rate of a child from ages 6 to 12 years is approximately:",
+    "answers": [
+      "60 to 100 beats/min.",
+      "100 to 150 beats/min.",
+      "90 to 140 beats/min.",
+      "70 to 120 beats/min."
+    ],
+    "correctAnswers": [
+      "70 to 120 beats/min."
+    ],
+    "selectedAnswer": "70 to 120 beats/min.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_207367_10",
+    "question": "When assessing an 80-year-old patient in shock, it is important to remember that:",
+    "answers": [
+      "it is common to see a more significant increase in heart rate than what would be expected in younger adults.",
+      "the patient's cardiac output is able to increase by nearly 200% in response to the decrease in perfusion.",
+      "age-related changes in the cardiovascular system might make the patient less able to compensate for decreased perfusion.",
+      "in older adults, it is especially common to observe a significant decrease in heart rate in response to shock."
+    ],
+    "correctAnswers": [
+      "age-related changes in the cardiovascular system might make the patient less able to compensate for decreased perfusion."
+    ],
+    "selectedAnswer": "age-related changes in the cardiovascular system might make the patient less able to compensate for decreased perfusion.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_207367_11",
+    "question": "Which of the following are noticeable characteristics of a 9-month-old infant?",
+    "answers": [
+      "Knows his or her name, can walk without any assistance",
+      "Responds to his or her name, crawls around efficiently",
+      "Walks without help, becomes frustrated with restrictions",
+      "Places objects in the mouth, pulls himself or herself up"
+    ],
+    "correctAnswers": [
+      "Places objects in the mouth, pulls himself or herself up"
+    ],
+    "selectedAnswer": "Responds to his or her name, crawls around efficiently",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_207367_12",
+    "question": "Which of the following is not a common factor that would affect a 75-year-old patient's vital signs?",
+    "answers": [
+      "Overall health",
+      "Medical conditions",
+      "Increased weight",
+      "Medications"
+    ],
+    "correctAnswers": [
+      "Increased weight"
+    ],
+    "selectedAnswer": "Increased weight",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_207367_13",
+    "question": "Which of the following statements regarding an infant's vital signs is correct?",
+    "answers": [
+      "An infant's heart rate generally ranges between 70 and 110 beats/min.",
+      "An infant's normal heart rate increases by 10 beats/min each month.",
+      "An infant's normal body temperature is typically higher than a preschooler's normal body temperature.",
+      "By six months of age, an infant's normal tidal volume is 2 to 4 mL/kg."
+    ],
+    "correctAnswers": [
+      "An infant's normal body temperature is typically higher than a preschooler's normal body temperature."
+    ],
+    "selectedAnswer": "An infant's normal body temperature is typically higher than a preschooler's normal body temperature.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_207367_14",
+    "question": "Which of the following statements regarding toddlers and preschoolers is correct?",
+    "answers": [
+      "Toddlers and preschoolers have well-developed lung musculature, even though they have less lung tissue.",
+      "Toddlers and preschoolers commonly experience upper respiratory infections because of the loss of passive immunity.",
+      "Muscle mass and bone density decrease in toddlers and preschoolers because of increased physical activity.",
+      "The normal respiratory rate in toddlers and preschoolers is between 12 and 20 breaths/min."
+    ],
+    "correctAnswers": [
+      "Toddlers and preschoolers commonly experience upper respiratory infections because of the loss of passive immunity."
+    ],
+    "selectedAnswer": "Toddlers and preschoolers commonly experience upper respiratory infections because of the loss of passive immunity.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_207367_15",
+    "question": "Why does the incidence of diabetes mellitus increase with age?",
+    "answers": [
+      "Increased physical activity, increased food intake, and increased insulin production",
+      "Decreased physical activity, increased weight gain, and decreased insulin production",
+      "Decreased food intake, decreased weight gain, and decreased blood sugar levels",
+      "Decreased physical activity, increased weight gain, and decreased blood sugar levels"
+    ],
+    "correctAnswers": [
+      "Decreased physical activity, increased weight gain, and decreased insulin production"
+    ],
+    "selectedAnswer": "Decreased physical activity, increased weight gain, and decreased insulin production",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_207367_16",
+    "question": "Why do middle adults commonly experience financial concerns?",
+    "answers": [
+      "They are typically receiving social security and must budget with a fixed income.",
+      "They are preparing for retirement but must still manage everyday financial demands.",
+      "The majority of middle adults still have small children who live at home with them.",
+      "Most people in the middle adult age group have chronic illnesses and cannot work."
+    ],
+    "correctAnswers": [
+      "They are preparing for retirement but must still manage everyday financial demands."
+    ],
+    "selectedAnswer": "They are preparing for retirement but must still manage everyday financial demands.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_207367_17",
+    "question": "With increasing age, the heart must work harder to move the blood effectively because:",
+    "answers": [
+      "diastolic blood pressure decreases.",
+      "the arteries dilate significantly.",
+      "the blood vessels become stiff.",
+      "the blood thickens as a person ages."
+    ],
+    "correctAnswers": [
+      "the blood vessels become stiff."
+    ],
+    "selectedAnswer": "the blood vessels become stiff.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_207367_18",
+    "question": "You are assessing a 13-month-old female who is running a fever and has been vomiting. While you are performing your physical examination on this child, you will most likely find that she:",
+    "answers": [
+      "has bulging fontanelles secondary to severe dehydration.",
+      "is unable to track your movements with her eyes.",
+      "will readily allow you to separate her from her mother.",
+      "responds to her name but is fearful of your presence."
+    ],
+    "correctAnswers": [
+      "responds to her name but is fearful of your presence."
+    ],
+    "selectedAnswer": "responds to her name but is fearful of your presence.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_207367_19",
+    "question": "You are dispatched to a call for a 4-month-old infant with respiratory distress. While you prepare to take care of this child, you must remember that:",
+    "answers": [
+      "the infant's proportionately small tongue often causes an airway obstruction.",
+      "an infant's head should be placed in a flexed position to prevent obstruction.",
+      "assisted ventilations in infants often need to be forceful to inflate their lungs.",
+      "small infants are nose breathers and require clear nasal passages at all times."
+    ],
+    "correctAnswers": [
+      "small infants are nose breathers and require clear nasal passages at all times."
+    ],
+    "selectedAnswer": "small infants are nose breathers and require clear nasal passages at all times.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_207367_20",
+    "question": "You suspect that a 75-year-old man has internal injuries after he fell and struck his ribs and abdomen on the corner of a table. When assessing and treating an injured patient of this age, you must recall that:",
+    "answers": [
+      "his ability to physiologically compensate for his injury might be impaired due to an inability to increase cardiac output.",
+      "functional blood volume in patients of this age steadily increases due to increased production of red blood cells.",
+      "blood pressure is usually adequately maintained because the blood vessels of older people can contract easily.",
+      "it is not uncommon to observe heart rates in excess of 150 beats/min in elderly patients with internal injuries."
+    ],
+    "correctAnswers": [
+      "his ability to physiologically compensate for his injury might be impaired due to an inability to increase cardiac output."
+    ],
+    "selectedAnswer": "his ability to physiologically compensate for his injury might be impaired due to an inability to increase cardiac output.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

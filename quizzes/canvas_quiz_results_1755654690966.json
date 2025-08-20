@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_215504_1",
+    "question": "A 19-year-old female was stung multiple times on the legs by fire ants. She states that she is allergic to fire ants, but does not carry her own epinephrine. The patient is conscious and alert and complains of pain to the area of the bites. Her blood pressure is 122/70 mm Hg, her pulse is 100 beats/min and strong, and her respirations are 18 breaths/min and unlabored. You should:",
+    "answers": [
+      "advise her to see her physician as soon as possible.",
+      "request a paramedic unit to administer epinephrine.",
+      "position her legs well above the level of her heart.",
+      "administer oxygen and transport her to the hospital."
+    ],
+    "correctAnswers": [
+      "administer oxygen and transport her to the hospital."
+    ],
+    "selectedAnswer": "advise her to see her physician as soon as possible.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_215504_2",
+    "question": "A 38-year-old woman was bitten by fire ants while at the park. Your primary assessment reveals that she is semiconscious; has labored breathing; and has a rapid, thready pulse. She has a red rash on her entire body, and her face is swollen. You should:",
+    "answers": [
+      "perform a rapid secondary assessment.",
+      "assist her ventilations with 100% oxygen.",
+      "place her supine with her legs elevated.",
+      "locate the area where the fire ants bit her."
+    ],
+    "correctAnswers": [
+      "assist her ventilations with 100% oxygen."
+    ],
+    "selectedAnswer": "assist her ventilations with 100% oxygen.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_215504_3",
+    "question": "A 50-year-old male was stung by a honeybee approximately 15 minutes ago. He presents with respiratory distress, facial swelling, and hypotension. After placing him on oxygen and administering his epinephrine via auto-injector, you note that his breathing has improved. Additionally, his facial swelling is resolving and his blood pressure is stable. Your next action should be to:",
+    "answers": [
+      "record the time and dose of the injection and transport promptly.",
+      "visualize his airway to assess for oropharyngeal swelling.",
+      "reassess his breathing and blood pressure in 15 minutes.",
+      "notify medical control of the patient's response to your treatment."
+    ],
+    "correctAnswers": [
+      "record the time and dose of the injection and transport promptly."
+    ],
+    "selectedAnswer": "record the time and dose of the injection and transport promptly.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_215504_4",
+    "question": "A 73-year-old man presents with a generalized rash, which he thinks may have been caused by an antibiotic that he recently began taking. He has a history of coronary artery disease, hypertension, and emphysema. He is conscious and alert, his blood pressure is 144/94 mm Hg, and his pulse is 64 beats/min and regular. You auscultate his breath sounds and hear scattered wheezing, although he is not experiencing respiratory distress. You should:",
+    "answers": [
+      "avoid the use of epinephrine because of his cardiac history, even if his symptoms become severe.",
+      "begin transport and request to administer epinephrine if his systolic blood pressure falls below 110 mm Hg.",
+      "ask him if he has epinephrine and request approval from medical control to administer it to the patient.",
+      "administer oxygen if needed, transport the patient, and monitor him for signs of deterioration."
+    ],
+    "correctAnswers": [
+      "administer oxygen if needed, transport the patient, and monitor him for signs of deterioration."
+    ],
+    "selectedAnswer": "administer oxygen if needed, transport the patient, and monitor him for signs of deterioration.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_215504_5",
+    "question": "After administering 0.3 mg of epinephrine via auto-injector to a 22-year-old female with an allergic reaction, you note improvement in her breathing and resolution of her hives. However, she is still anxious and tachycardic. You should:",
+    "answers": [
+      "contact medical control and obtain authorization to administer another 0.3 mg of epinephrine.",
+      "monitor her closely but recall that anxiety and tachycardia are side effects of epinephrine.",
+      "transport her rapidly, because it is obvious that she is having a severe reaction to the epinephrine.",
+      "consider administering 0.15 mg of epinephrine to completely resolve her allergic reaction."
+    ],
+    "correctAnswers": [
+      "monitor her closely but recall that anxiety and tachycardia are side effects of epinephrine."
+    ],
+    "selectedAnswer": "monitor her closely but recall that anxiety and tachycardia are side effects of epinephrine.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_215504_6",
+    "question": "Anaphylaxis is MOST accurately defined as a(n):",
+    "answers": [
+      "allergic reaction that causes bronchodilation and vasoconstriction.",
+      "extreme allergic reaction that may affect multiple body systems.",
+      "moderate allergic reaction that primarily affects the vasculature.",
+      "severe allergic reaction that typically resolves without treatment."
+    ],
+    "correctAnswers": [
+      "extreme allergic reaction that may affect multiple body systems."
+    ],
+    "selectedAnswer": "extreme allergic reaction that may affect multiple body systems.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_215504_7",
+    "question": "A raised, swollen, well-defined area on the skin that is the result of an insect bite or sting is called:",
+    "answers": [
+      "a pustule.",
+      "urticaria.",
+      "a wheal.",
+      "purpura."
+    ],
+    "correctAnswers": [
+      "a wheal."
+    ],
+    "selectedAnswer": "a wheal.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_215504_8",
+    "question": "Common side effects of epinephrine include all of the following, EXCEPT:",
+    "answers": [
+      "headache.",
+      "drowsiness.",
+      "dizziness.",
+      "tachycardia."
+    ],
+    "correctAnswers": [
+      "drowsiness."
+    ],
+    "selectedAnswer": "drowsiness.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_215504_9",
+    "question": "Epinephrine is indicated for patients with an allergic reaction when:",
+    "answers": [
+      "the patient is anxious and tachycardic.",
+      "wheezing and hypotension are present.",
+      "the reaction produces severe urticaria.",
+      "a paramedic is present at the scene."
+    ],
+    "correctAnswers": [
+      "wheezing and hypotension are present."
+    ],
+    "selectedAnswer": "wheezing and hypotension are present.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_215504_10",
+    "question": "The adult epinephrine auto-injector delivers ______ mg of epinephrine, and the infant-child auto-injector delivers ______ mg.",
+    "answers": [
+      "0.03; 0.3",
+      "0.01; 0.1",
+      "0.1; 0.01",
+      "0.3; 0.15"
+    ],
+    "correctAnswers": [
+      "0.3; 0.15"
+    ],
+    "selectedAnswer": "0.3; 0.15",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_215504_11",
+    "question": "The foreign substance responsible for causing an allergic reaction is called a(n):",
+    "answers": [
+      "histamine.",
+      "leukotriene.",
+      "allergen.",
+      "antibody."
+    ],
+    "correctAnswers": [
+      "allergen."
+    ],
+    "selectedAnswer": "histamine.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_215504_12",
+    "question": "Urticaria is the medical term for:",
+    "answers": [
+      "swelling.",
+      "hives.",
+      "a wheal.",
+      "burning."
+    ],
+    "correctAnswers": [
+      "hives."
+    ],
+    "selectedAnswer": "hives.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_215504_13",
+    "question": "Which of the following medications blocks the release of histamines?",
+    "answers": [
+      "Diphenhydramine (Benadryl)",
+      "Epinephrine (Adrenalin)",
+      "Albuterol (Ventolin)",
+      "Acetaminophen (Tylenol)"
+    ],
+    "correctAnswers": [
+      "Diphenhydramine (Benadryl)"
+    ],
+    "selectedAnswer": "Diphenhydramine (Benadryl)",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_215504_14",
+    "question": "Which of the following statements regarding fire ants is correct?",
+    "answers": [
+      "Most people are allergic to fire ant toxin.",
+      "Fire ant bites rarely cause anaphylaxis.",
+      "Fire ant bites typically occur on the face.",
+      "Fire ants often bite a person repeatedly."
+    ],
+    "correctAnswers": [
+      "Fire ants often bite a person repeatedly."
+    ],
+    "selectedAnswer": "Fire ants often bite a person repeatedly.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_215504_15",
+    "question": "Which of the following would MOST likely provide clues regarding the source of a patient's allergic reaction?",
+    "answers": [
+      "The time of year in which the exposure occurred",
+      "The environment in which the patient is found",
+      "The patient's family history",
+      "The patient's general physical appearance"
+    ],
+    "correctAnswers": [
+      "The environment in which the patient is found"
+    ],
+    "selectedAnswer": "The environment in which the patient is found",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_215504_16",
+    "question": "While auscultating breath sounds of a patient who was stung multiple times by a yellow jacket, you hear bilateral wheezing over all lung fields. This indicates:",
+    "answers": [
+      "a significant amount of fluid in the alveoli.",
+      "narrowing of the bronchioles in the lungs.",
+      "enlargement of the bronchioles in the lungs.",
+      "rapid swelling of the upper airway tissues."
+    ],
+    "correctAnswers": [
+      "narrowing of the bronchioles in the lungs."
+    ],
+    "selectedAnswer": "narrowing of the bronchioles in the lungs.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_215504_17",
+    "question": "You are assessing a young male who was stung on the leg by a scorpion. He is conscious and alert, his breathing is regular and unlabored, and his blood pressure is 122/64 mm Hg. Assessment of his leg reveals a wheal surrounded by an area of redness. He states that he had a \"bad reaction\" the last time he was stung by a scorpion, and carries his own epinephrine auto-injector. You should:",
+    "answers": [
+      "apply high-flow oxygen, obtain approval from medical control to assist him with his epinephrine, and transport.",
+      "assess his ABCs and vital signs in 15 minutes and allow him to drive himself to the hospital if he remains stable.",
+      "apply oxygen as needed, clean the area with soap and water or a mild antiseptic, and transport him to the hospital.",
+      "apply high-flow oxygen, apply a chemical cold pack directly to the injection site, and transport at once."
+    ],
+    "correctAnswers": [
+      "apply oxygen as needed, clean the area with soap and water or a mild antiseptic, and transport him to the hospital."
+    ],
+    "selectedAnswer": "apply oxygen as needed, clean the area with soap and water or a mild antiseptic, and transport him to the hospital.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_215504_18",
+    "question": "You have administered one dose of epinephrine to a 40-year-old female to treat an allergic reaction that she developed after being stung by a scorpion. Your reassessment reveals that she is still having difficulty breathing, has a decreasing mental status, and has a blood pressure of 80/50 mm Hg. You should:",
+    "answers": [
+      "crush up an antihistamine tablet and place it in between her cheek and gum.",
+      "monitor her en route to the hospital and call medical control if she worsens.",
+      "administer a nebulized bronchodilator to improve the status of her breathing.",
+      "request permission from medical control to give another dose of epinephrine."
+    ],
+    "correctAnswers": [
+      "request permission from medical control to give another dose of epinephrine."
+    ],
+    "selectedAnswer": "monitor her en route to the hospital and call medical control if she worsens.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_215504_19",
+    "question": "You respond to the residence of a 55-year-old woman with a possible allergic reaction to peanuts that she ate approximately 30 minutes ago. The patient is conscious and alert, but has diffuse urticaria and the feeling that she has a lump in her throat. As your partner applies oxygen to the patient, you should:",
+    "answers": [
+      "ask her if she has prescribed epinephrine.",
+      "ascertain if she has a family history of allergies.",
+      "obtain a complete set of baseline vital signs.",
+      "ask her when her last allergic reaction occurred."
+    ],
+    "correctAnswers": [
+      "ask her if she has prescribed epinephrine."
+    ],
+    "selectedAnswer": "ask her if she has prescribed epinephrine.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_215504_20",
+    "question": "Common signs and symptoms of an allergic reaction include all of the following, EXCEPT:",
+    "answers": [
+      "persistent dry cough.",
+      "abdominal cramps.",
+      "drying of the eyes.",
+      "flushing of the skin."
+    ],
+    "correctAnswers": [
+      "drying of the eyes."
+    ],
+    "selectedAnswer": "abdominal cramps.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_213291_1",
+    "question": "A 52-year-old male presents with a fever of 102.5°F and a severe headache. As you assess him, you note the presence of multiple blisters on his face and chest, which are all identical in shape and size. This patient's clinical presentation is most consistent with:",
+    "answers": [
+      "yellow fever virus.",
+      "sarin toxicity.",
+      "smallpox.",
+      "cutaneous anthrax."
+    ],
+    "correctAnswers": [
+      "smallpox."
+    ],
+    "selectedAnswer": "smallpox.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_213291_2",
+    "question": "A disease vector is defined as:",
+    "answers": [
+      "the ability of a virus or bacterium to be spread.",
+      "the spectrum of signs that define a disease.",
+      "any agent that acts as a carrier or transporter.",
+      "the period of time between exposure and illness."
+    ],
+    "correctAnswers": [
+      "any agent that acts as a carrier or transporter."
+    ],
+    "selectedAnswer": "any agent that acts as a carrier or transporter.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_213291_3",
+    "question": "After eating at a local restaurant, a 20-year-old male complains of blurred vision, difficulty speaking, and difficulty breathing. He is conscious; however, his respirations are profoundly labored and producing minimal tidal volume. You should:",
+    "answers": [
+      "request a paramedic to administer atropine.",
+      "assist his ventilations with high-flow oxygen.",
+      "apply oxygen via a nonrebreathing mask.",
+      "position him supine and elevate his legs."
+    ],
+    "correctAnswers": [
+      "assist his ventilations with high-flow oxygen."
+    ],
+    "selectedAnswer": "assist his ventilations with high-flow oxygen.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_213291_4",
+    "question": "All of the following are vesicant agents, except:",
+    "answers": [
+      "phosgene oxime.",
+      "sulfur mustard.",
+      "lewisite.",
+      "sarin."
+    ],
+    "correctAnswers": [
+      "sarin."
+    ],
+    "selectedAnswer": "sarin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_213291_5",
+    "question": "All of the following biologic agents or diseases can be transmitted from person to person, except:",
+    "answers": [
+      "smallpox.",
+      "pneumonic plague.",
+      "viral hemorrhagic fevers.",
+      "ricin."
+    ],
+    "correctAnswers": [
+      "ricin."
+    ],
+    "selectedAnswer": "ricin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_213291_6",
+    "question": "An attack on an abortion clinic would most likely be carried out by a(n):",
+    "answers": [
+      "violent religious group.",
+      "doomsday cult.",
+      "extremist political group.",
+      "single-issue group."
+    ],
+    "correctAnswers": [
+      "single-issue group."
+    ],
+    "selectedAnswer": "single-issue group.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_213291_7",
+    "question": "As you and your partner report for duty, you check your ambulance and begin talking about the possibility of a terrorist attack. The most effective and appropriate way to determine the likelihood of this happening is to:",
+    "answers": [
+      "check with local businesses to see if they have received any terrorist threats.",
+      "know the current threat level issued by the Department of Homeland Security.",
+      "ascertain the current situation overseas regarding the number of casualties.",
+      "ask your immediate supervisor if he or she has been watching the local news."
+    ],
+    "correctAnswers": [
+      "know the current threat level issued by the Department of Homeland Security."
+    ],
+    "selectedAnswer": "know the current threat level issued by the Department of Homeland Security.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_213291_8",
+    "question": "A weapon of mass destruction is most accurately defined as:",
+    "answers": [
+      "any agent used to bring about mass death, casualties, or massive infrastructural damage.",
+      "any device used for the express purpose of creating carnage to make a particular point.",
+      "a nuclear or chemical weapon that can be launched from one country to another country.",
+      "a device or agent used to destroy a specific area or region within a given geographic location."
+    ],
+    "correctAnswers": [
+      "any agent used to bring about mass death, casualties, or massive infrastructural damage."
+    ],
+    "selectedAnswer": "any agent used to bring about mass death, casualties, or massive infrastructural damage.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_213291_9",
+    "question": "Botulinum is:",
+    "answers": [
+      "a disease of the leukocytes.",
+      "rarely associated with death.",
+      "a potent bacterial neurotoxin.",
+      "an acute viral infection."
+    ],
+    "correctAnswers": [
+      "a potent bacterial neurotoxin."
+    ],
+    "selectedAnswer": "a potent bacterial neurotoxin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_213291_10",
+    "question": "Continual reassessment of the scene at a suspected terrorist or weapon of mass destruction incident is most important because:",
+    "answers": [
+      "bystanders might destroy the evidence.",
+      "a secondary explosive device might detonate.",
+      "weather conditions might change quickly.",
+      "terrorists are often at the scene after an attack."
+    ],
+    "correctAnswers": [
+      "a secondary explosive device might detonate."
+    ],
+    "selectedAnswer": "a secondary explosive device might detonate.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_213291_11",
+    "question": "Cross-contamination occurs when:",
+    "answers": [
+      "an EMT has direct contact with a chemical agent at a terrorist incident.",
+      "an EMT is exposed to a victim who has not yet been decontaminated.",
+      "two EMTs are exposed to the same agent after being decontaminated.",
+      "an EMT provides care to a victim after the victim has been decontaminated."
+    ],
+    "correctAnswers": [
+      "an EMT is exposed to a victim who has not yet been decontaminated."
+    ],
+    "selectedAnswer": "an EMT is exposed to a victim who has not yet been decontaminated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_213291_12",
+    "question": "Early signs and symptoms of smallpox include all of the following, except:",
+    "answers": [
+      "headaches.",
+      "skin blisters.",
+      "high fever.",
+      "body aches."
+    ],
+    "correctAnswers": [
+      "skin blisters."
+    ],
+    "selectedAnswer": "skin blisters.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_213291_13",
+    "question": "Exposure to _________ would most likely result in immediate respiratory distress.",
+    "answers": [
+      "lewisite",
+      "soman",
+      "chlorine",
+      "tabun"
+    ],
+    "correctAnswers": [
+      "chlorine"
+    ],
+    "selectedAnswer": "chlorine",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_213291_14",
+    "question": "If the incident command system is already established at the scene of a terrorist attack, the EMT should:",
+    "answers": [
+      "begin triaging patients and start treating the most critical ones.",
+      "locate the medical staging officer to obtain his or her assignment.",
+      "remain in the rehabilitation area until he or she is assigned a task.",
+      "contact the EMS medical director and obtain further instructions."
+    ],
+    "correctAnswers": [
+      "locate the medical staging officer to obtain his or her assignment."
+    ],
+    "selectedAnswer": "locate the medical staging officer to obtain his or her assignment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_213291_15",
+    "question": "In determining the potential for a terrorist attack, you should routinely observe all of the following on every call, except:",
+    "answers": [
+      "the location type.",
+      "weather conditions.",
+      "the type of call.",
+      "victim's statements."
+    ],
+    "correctAnswers": [
+      "weather conditions."
+    ],
+    "selectedAnswer": "weather conditions.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_213291_16",
+    "question": "Initial signs and symptoms associated with viral hemorrhagic fevers include:",
+    "answers": [
+      "acute onset of double vision.",
+      "severe abdominal muscle spasms.",
+      "headache and sore throat.",
+      "joint pain and unequal pupils."
+    ],
+    "correctAnswers": [
+      "headache and sore throat."
+    ],
+    "selectedAnswer": "headache and sore throat.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_213291_17",
+    "question": "Most cases of anthrax begin with:",
+    "answers": [
+      "pulmonary edema.",
+      "flulike symptoms.",
+      "signs of shock.",
+      "respiratory distress."
+    ],
+    "correctAnswers": [
+      "flulike symptoms."
+    ],
+    "selectedAnswer": "flulike symptoms.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_213291_18",
+    "question": "Multiple people in a small town began experiencing abdominal cramps, excessive salivation and urination, and muscle twitching shortly after a small crop duster plane made several passes over the community. As you are assessing the patients, you further determine that most of them are bradycardic and have miosis. In addition to high-flow oxygen, the most appropriate treatment for these patients includes:",
+    "answers": [
+      "amyl nitrate and naloxone.",
+      "epinephrine and hyperbaric oxygen.",
+      "atropine and pralidoxime chloride.",
+      "activated charcoal and glucose."
+    ],
+    "correctAnswers": [
+      "atropine and pralidoxime chloride."
+    ],
+    "selectedAnswer": "atropine and pralidoxime chloride.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_213291_19",
+    "question": "Phosgene (CG) has an odor that resembles:",
+    "answers": [
+      "cut grass.",
+      "garlic.",
+      "almonds.",
+      "bleach."
+    ],
+    "correctAnswers": [
+      "cut grass."
+    ],
+    "selectedAnswer": "cut grass.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_213291_20",
+    "question": "__________ rays easily penetrate through the human body and require lead or several inches of concrete to prevent penetration.",
+    "answers": [
+      "Beta",
+      "Neutron",
+      "Gamma",
+      "Alpha"
+    ],
+    "correctAnswers": [
+      "Gamma"
+    ],
+    "selectedAnswer": "Gamma",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

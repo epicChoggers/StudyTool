@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_204939_1",
+    "question": "A 17-year-old male was shot in the right anterior chest during an altercation. As your partner is applying oxygen, you perform a rapid assessment and find an open chest wound with a small amount of blood bubbling from it. You should:",
+    "answers": [
+      "apply an occlusive dressing to the wound and continue your assessment.",
+      "control the bleeding from the wound and prepare to transport at once.",
+      "direct your partner to assist the patient's ventilations with a bag-mask device.",
+      "place a sterile dressing over the wound and apply direct pressure."
+    ],
+    "correctAnswers": [
+      "apply an occlusive dressing to the wound and continue your assessment."
+    ],
+    "selectedAnswer": "apply an occlusive dressing to the wound and continue your assessment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_204939_2",
+    "question": "A 21-year-old male was working in an auto repair shop and sustained radiator burns to the anterior aspect of both arms and to his anterior chest. According to the rule of nines, this patient has burns that cover _____ of his body surface area.",
+    "answers": [
+      "27%",
+      "45%",
+      "18%",
+      "36%"
+    ],
+    "correctAnswers": [
+      "18%"
+    ],
+    "selectedAnswer": "18%",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_204939_3",
+    "question": "A 30-year-old male experienced a crushing injury when his forearm was trapped between the back of a truck and a loading dock. Upon your arrival, the man's arm has been freed. Your assessment reveals that his arm is obviously deformed and swollen and is cold and pale. Further assessment reveals an absent radial pulse. You should be most concerned that this patient has:",
+    "answers": [
+      "compartment syndrome.",
+      "internal hemorrhage.",
+      "a severe closed fracture.",
+      "damage to the radial nerve."
+    ],
+    "correctAnswers": [
+      "compartment syndrome."
+    ],
+    "selectedAnswer": "compartment syndrome.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_204939_4",
+    "question": "A 33-year-old male sustained an abdominal evisceration to the left lower quadrant of his abdomen after he was cut with a large knife. After appropriately managing his ABCs and assessing him for other life-threatening injuries, how should you care for his wound?",
+    "answers": [
+      "Irrigate it with sterile water and cover it with a dry dressing.",
+      "Carefully replace the exposed bowel into the abdomen and transport.",
+      "Cover the exposed bowel and keep his legs in a straight position.",
+      "Cover it with moist, sterile gauze and secure with an occlusive dressing."
+    ],
+    "correctAnswers": [
+      "Cover it with moist, sterile gauze and secure with an occlusive dressing."
+    ],
+    "selectedAnswer": "Cover it with moist, sterile gauze and secure with an occlusive dressing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_204939_5",
+    "question": "A 38-year-old male was electrocuted while attempting to wire a house. Your assessment reveals that he is unresponsive, pulseless, and apneic. A coworker has shut off the power to the house. You should:",
+    "answers": [
+      "begin CPR and transport at once.",
+      "fully immobilize his spinal column.",
+      "begin CPR and apply the AED.",
+      "assess for entry and exit wounds."
+    ],
+    "correctAnswers": [
+      "begin CPR and apply the AED."
+    ],
+    "selectedAnswer": "begin CPR and apply the AED.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_204939_6",
+    "question": "A 39-year-old male was struck in the head by a baseball during a game. He is confused and has slurred speech. He has a large hematoma in the center of his forehead and cannot remember the events preceding the injury. After manually stabilizing his head and assessing his airway, you should:",
+    "answers": [
+      "perform a neurologic exam.",
+      "apply ice to the hematoma.",
+      "palpate his radial pulses.",
+      "administer high-flow oxygen."
+    ],
+    "correctAnswers": [
+      "administer high-flow oxygen."
+    ],
+    "selectedAnswer": "administer high-flow oxygen.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_204939_7",
+    "question": "A 56-year-old male has an incomplete avulsion to his right forearm. After controlling any bleeding from the wound, you should:",
+    "answers": [
+      "carefully remove the avulsed flap and wrap it in a moist, sterile trauma dressing.",
+      "thoroughly irrigate the wound with sterile water and cover it with a sterile dressing.",
+      "carefully probe the wound to determine if the bleeding is venous or arterial.",
+      "replace the avulsed flap to its original position and cover it with a sterile dressing."
+    ],
+    "correctAnswers": [
+      "replace the avulsed flap to its original position and cover it with a sterile dressing."
+    ],
+    "selectedAnswer": "replace the avulsed flap to its original position and cover it with a sterile dressing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_204939_8",
+    "question": "A 5-year-old female pulled a pot of boiling water from the stove. She has superficial and partial-thickness burns to her head, face, and anterior trunk. What percentage of her body surface area has been burned?",
+    "answers": [
+      "18%",
+      "36%",
+      "30%",
+      "27%"
+    ],
+    "correctAnswers": [
+      "30%"
+    ],
+    "selectedAnswer": "36%",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_204939_9",
+    "question": "A burn that is characterized by redness and pain is classified as a:",
+    "answers": [
+      "superficial burn.",
+      "full-thickness burn.",
+      "second-degree burn.",
+      "partial-thickness burn."
+    ],
+    "correctAnswers": [
+      "superficial burn."
+    ],
+    "selectedAnswer": "superficial burn.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_204939_10",
+    "question": "According to the rule of palm method for estimating the extent of a patient's burns, the palm of the patient's hand is equal to _____ of his or her total body surface area.",
+    "answers": [
+      "1%",
+      "4%",
+      "2%",
+      "6%"
+    ],
+    "correctAnswers": [
+      "1%"
+    ],
+    "selectedAnswer": "1%",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_204939_11",
+    "question": "A construction worker fell approximately 30 feet and landed in a pile of steel rods. Your assessment reveals that he is pulseless and apneic and has a 10-foot steel rod impaled in his left leg. You should:",
+    "answers": [
+      "control the bleeding, carefully remove the steel rod, begin CPR, and transport as soon as possible.",
+      "control the bleeding, begin CPR, stabilize the steel rod, immobilize his spine, and transport immediately.",
+      "stabilize the steel rod, control the bleeding, begin CPR, and rapidly transport to a trauma center.",
+      "remove the steel rod, control the bleeding, apply an automated external defibrillator, begin CPR, and transport to a trauma center."
+    ],
+    "correctAnswers": [
+      "control the bleeding, begin CPR, stabilize the steel rod, immobilize his spine, and transport immediately."
+    ],
+    "selectedAnswer": "stabilize the steel rod, control the bleeding, begin CPR, and rapidly transport to a trauma center.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_204939_12",
+    "question": "A hematoma develops when:",
+    "answers": [
+      "cells and small vessels in the dermis are damaged.",
+      "severe swelling compromises arterial circulation.",
+      "large blood vessels beneath the skin are damaged.",
+      "small amounts of blood leak into the epidermis."
+    ],
+    "correctAnswers": [
+      "large blood vessels beneath the skin are damaged."
+    ],
+    "selectedAnswer": "large blood vessels beneath the skin are damaged.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_204939_13",
+    "question": "A laceration:",
+    "answers": [
+      "is a jagged cut caused by a sharp object or blunt force trauma.",
+      "rarely penetrates through the subcutaneous tissue to the muscle.",
+      "is an injury that separates various layers of soft tissue.",
+      "is a sharp, smooth cut that is made by a surgical scalpel."
+    ],
+    "correctAnswers": [
+      "is a jagged cut caused by a sharp object or blunt force trauma."
+    ],
+    "selectedAnswer": "is a jagged cut caused by a sharp object or blunt force trauma.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_204939_14",
+    "question": "An abdominal evisceration:",
+    "answers": [
+      "should be covered with bulky dry, sterile dressings.",
+      "is most commonly the result of blunt force trauma.",
+      "often causes severe hypothermia because of heat loss.",
+      "occurs when organs protrude through an open wound."
+    ],
+    "correctAnswers": [
+      "occurs when organs protrude through an open wound."
+    ],
+    "selectedAnswer": "occurs when organs protrude through an open wound.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_204939_15",
+    "question": "A partial-thickness burn involves the outer layer of skin and a portion of the:",
+    "answers": [
+      "fatty layer.",
+      "dermal layer.",
+      "epidermis.",
+      "muscle fascia."
+    ],
+    "correctAnswers": [
+      "dermal layer."
+    ],
+    "selectedAnswer": "dermal layer.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_204939_16",
+    "question": "As you approach a young male who was involved in an industrial accident, you note that his eyes are closed and that he is not moving. You can see several large contusions to his arms, a laceration to his forehead with minimal bleeding, and a closed deformity to his right leg. You should:",
+    "answers": [
+      "assess his pulse for rate, regularity, and quality.",
+      "apply high-flow oxygen and assess his injuries.",
+      "perform an immediate head-to-toe assessment.",
+      "open his airway and assess his breathing status."
+    ],
+    "correctAnswers": [
+      "open his airway and assess his breathing status."
+    ],
+    "selectedAnswer": "open his airway and assess his breathing status.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_204939_17",
+    "question": "A teenage boy who was involved in a bicycle accident has a puncture wound where the bicycle kickstand impaled his leg. The most appropriate method for treating this injury is to:",
+    "answers": [
+      "cut the kickstand off just above the skin, and stabilize it with sterile dressings.",
+      "leave the kickstand attached to the bike until the physician can remove it safely.",
+      "unbolt the kickstand from the bike frame and stabilize it with bulky dressings.",
+      "remove the kickstand in a circular motion and apply a dry, sterile dressing."
+    ],
+    "correctAnswers": [
+      "unbolt the kickstand from the bike frame and stabilize it with bulky dressings."
+    ],
+    "selectedAnswer": "unbolt the kickstand from the bike frame and stabilize it with bulky dressings.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_204939_18",
+    "question": "A utility worker was trimming branches and was electrocuted when he accidentally cut a high-power line. He fell approximately 20 feet and is lying unresponsive on the ground; the power line is lying across his chest. You should:",
+    "answers": [
+      "apply insulated gloves and assume manual control of his cervical spine.",
+      "manually stabilize his head as your partner assesses for breathing.",
+      "quickly but carefully move the patient away from the power line.",
+      "rapidly assess the patient after ensuring that the power line is not live."
+    ],
+    "correctAnswers": [
+      "rapidly assess the patient after ensuring that the power line is not live."
+    ],
+    "selectedAnswer": "rapidly assess the patient after ensuring that the power line is not live.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_204939_19",
+    "question": "Burns to pediatric patients are generally considered more serious than burns to adults because:",
+    "answers": [
+      "pediatric patients have a proportionately larger volume of blood.",
+      "most burns in children are the result of child abuse.",
+      "pediatric patients have more surface area relative to total body mass.",
+      "pediatric patients are more prone to hyperthermia."
+    ],
+    "correctAnswers": [
+      "pediatric patients have more surface area relative to total body mass."
+    ],
+    "selectedAnswer": "pediatric patients have more surface area relative to total body mass.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_204939_20",
+    "question": "During your assessment of a 22-year-old male who was assaulted, you note widespread contusions and abrasions to his face, chest, and abdomen. His pulse is rapid and weak, and his skin is cool and clammy. You should:",
+    "answers": [
+      "conclude that he is experiencing intracranial bleeding.",
+      "administer oxygen and prepare for rapid transport.",
+      "place him in a sitting position and give him oxygen.",
+      "perform a focused physical exam of his abdomen."
+    ],
+    "correctAnswers": [
+      "administer oxygen and prepare for rapid transport."
+    ],
+    "selectedAnswer": "administer oxygen and prepare for rapid transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

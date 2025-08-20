@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_202099_1",
+    "question": "A 29-year-old male with a head injury opens his eyes when you speak to him, is confused as to the time and date, and is able to move all of his extremities on command. His Glasgow Coma Scale (GCS) score is:",
+    "answers": [
+      "10.",
+      "12.",
+      "14.",
+      "13."
+    ],
+    "correctAnswers": [
+      "13."
+    ],
+    "selectedAnswer": "13.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_202099_2",
+    "question": "A 39-year-old male sustained a stab wound to the groin during an altercation at a bar. As you approach the patient, you note that he is conscious, is screaming in pain, and is attempting to control the bleeding, which is bright red and spurting from his groin area. You should:",
+    "answers": [
+      "administer 100% supplemental oxygen.",
+      "ensure that his airway is patent.",
+      "apply direct pressure to the wound.",
+      "elevate his legs and keep him warm."
+    ],
+    "correctAnswers": [
+      "apply direct pressure to the wound."
+    ],
+    "selectedAnswer": "apply direct pressure to the wound.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_202099_3",
+    "question": "A 40-year-old male crashed his motorcycle into a tree. He is semiconscious, has snoring respirations, and has a laceration to the forearm with minimal bleeding. You should:",
+    "answers": [
+      "open his airway with the jaw-thrust maneuver.",
+      "apply a pressure dressing to the patient's arm.",
+      "apply a cervical collar and suction his airway.",
+      "tilt the patient's head back and lift up on his chin."
+    ],
+    "correctAnswers": [
+      "open his airway with the jaw-thrust maneuver."
+    ],
+    "selectedAnswer": "open his airway with the jaw-thrust maneuver.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_202099_4",
+    "question": "A 40-year-old male presents with pain to the right upper quadrant of his abdomen. He is conscious and alert with stable vital signs. During your assessment, you note that his skin and sclera are jaundiced. You should suspect:",
+    "answers": [
+      "liver dysfunction.",
+      "acute pancreatitis.",
+      "gallbladder disease.",
+      "renal insufficiency."
+    ],
+    "correctAnswers": [
+      "liver dysfunction."
+    ],
+    "selectedAnswer": "liver dysfunction.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_202099_5",
+    "question": "A 50-year-old male presents with altered mental status. His wife tells you that he had a \"small stroke\" 3 years ago but has otherwise been in good health. The patient is responsive but unable to follow commands. After administering oxygen if needed, you should:",
+    "answers": [
+      "perform a head-to-toe assessment.",
+      "repeat the primary assessment.",
+      "inquire about his family history.",
+      "prepare for immediate transport."
+    ],
+    "correctAnswers": [
+      "prepare for immediate transport."
+    ],
+    "selectedAnswer": "prepare for immediate transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_202099_6",
+    "question": "A 71-year-old female slipped on a rug and fell. She is conscious but confused and complains of severe pelvic pain. Her respirations are 22 breaths/min and her heart rate is 120 beats/min. What should you do?",
+    "answers": [
+      "Transport her in a seated position",
+      "Treat her for possible shock",
+      "Gently palpate her pelvis",
+      "Transport her on her left side"
+    ],
+    "correctAnswers": [
+      "Treat her for possible shock"
+    ],
+    "selectedAnswer": "Treat her for possible shock",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_202099_7",
+    "question": "A blood pressure cuff that is too small for a patient's arm will give a:",
+    "answers": [
+      "falsely high systolic but low diastolic reading.",
+      "falsely high systolic and diastolic reading.",
+      "falsely low systolic and diastolic reading.",
+      "falsely low systolic but high diastolic reading."
+    ],
+    "correctAnswers": [
+      "falsely high systolic and diastolic reading."
+    ],
+    "selectedAnswer": "falsely high systolic and diastolic reading.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_202099_8",
+    "question": "After performing a primary assessment, a rapid exam of the body should be performed to:",
+    "answers": [
+      "look specifically for signs and symptoms of inadequate perfusion.",
+      "find and treat injuries or conditions that do not pose a threat to life.",
+      "determine the need for spinal motion restriction precautions.",
+      "identify less-obvious injuries that require immediate treatment."
+    ],
+    "correctAnswers": [
+      "identify less-obvious injuries that require immediate treatment."
+    ],
+    "selectedAnswer": "identify less-obvious injuries that require immediate treatment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_202099_9",
+    "question": "An adult patient who is NOT experiencing difficulty breathing will:",
+    "answers": [
+      "have a respiratory rate that is between 20 and 24 breaths/min.",
+      "exhibit an indentation above the clavicles and in between the ribs.",
+      "be able to speak in complete sentences without unusual pauses.",
+      "assume a position that will facilitate effective and easy breathing."
+    ],
+    "correctAnswers": [
+      "be able to speak in complete sentences without unusual pauses."
+    ],
+    "selectedAnswer": "be able to speak in complete sentences without unusual pauses.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_202099_10",
+    "question": "An elderly patient has fallen and hit her head. You assess her level of consciousness as unresponsive using the AVPU scale. Your initial care should focus on:",
+    "answers": [
+      "airway, breathing, and circulation.",
+      "obtaining baseline vital signs.",
+      "gathering medical history data.",
+      "providing immediate transport."
+    ],
+    "correctAnswers": [
+      "airway, breathing, and circulation."
+    ],
+    "selectedAnswer": "airway, breathing, and circulation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_202099_11",
+    "question": "A patient in unstable condition should be reassessed at least every:",
+    "answers": [
+      "5 minutes.",
+      "20 minutes.",
+      "10 minutes.",
+      "15 minutes."
+    ],
+    "correctAnswers": [
+      "5 minutes."
+    ],
+    "selectedAnswer": "5 minutes.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_202099_12",
+    "question": "A patient with profuse sweating is referred to as being:",
+    "answers": [
+      "plethoric.",
+      "edematous.",
+      "diaphoretic.",
+      "flushed."
+    ],
+    "correctAnswers": [
+      "diaphoretic."
+    ],
+    "selectedAnswer": "diaphoretic.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_202099_13",
+    "question": "As time progresses following a significant injury:",
+    "answers": [
+      "most patients will die secondary to internal bleeding.",
+      "the body's ability to compensate for shock decreases.",
+      "the patient's blood pressure elevates significantly.",
+      "the patient's injuries will most likely be irreparable."
+    ],
+    "correctAnswers": [
+      "the body's ability to compensate for shock decreases."
+    ],
+    "selectedAnswer": "the body's ability to compensate for shock decreases.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_202099_14",
+    "question": "As you assess the head of a patient with a suspected spinal injury, your partner should:",
+    "answers": [
+      "maintain stabilization of the head.",
+      "assess the rest of the body for bleeding.",
+      "look in the ears for gross bleeding.",
+      "prepare the immobilization equipment."
+    ],
+    "correctAnswers": [
+      "maintain stabilization of the head."
+    ],
+    "selectedAnswer": "maintain stabilization of the head.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_202099_15",
+    "question": "Clinical signs of labored breathing include all of the following, EXCEPT:",
+    "answers": [
+      "gasping attempts to breathe.",
+      "use of accessory muscles.",
+      "supraclavicular retractions.",
+      "shallow chest movement."
+    ],
+    "correctAnswers": [
+      "shallow chest movement."
+    ],
+    "selectedAnswer": "shallow chest movement.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_202099_16",
+    "question": "During your assessment of a 6-month-old male with vomiting and diarrhea, you note that his capillary refill time is approximately 4 seconds. From this information, you should conclude that the infant's:",
+    "answers": [
+      "peripheral circulation is decreased.",
+      "respiratory status is adequate.",
+      "systolic blood pressure is normal.",
+      "skin temperature is abnormally cold."
+    ],
+    "correctAnswers": [
+      "peripheral circulation is decreased."
+    ],
+    "selectedAnswer": "peripheral circulation is decreased.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_202099_17",
+    "question": "External bleeding from an extremity can usually be controlled initially by:",
+    "answers": [
+      "applying a tourniquet.",
+      "applying chemical ice packs.",
+      "elevating the extremity.",
+      "applying direct pressure."
+    ],
+    "correctAnswers": [
+      "applying direct pressure."
+    ],
+    "selectedAnswer": "applying direct pressure.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_202099_18",
+    "question": "For which of the following patients is spinal immobilization clearly indicated?",
+    "answers": [
+      "Woman in a minor motor-vehicle collision who complains of severe knee pain",
+      "Man with an arrow impaled in his leg and no pulse distal to the injury",
+      "Woman who fell from a standing position and has a deformed shoulder",
+      "Man with altered mental status after being exposed to blunt force trauma"
+    ],
+    "correctAnswers": [
+      "Man with altered mental status after being exposed to blunt force trauma"
+    ],
+    "selectedAnswer": "Man with altered mental status after being exposed to blunt force trauma",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_202099_19",
+    "question": "Jugular venous distention suggests a problem with blood returning to the heart if the patient is:",
+    "answers": [
+      "sitting up at a 45° angle.",
+      "in a prone position.",
+      "in a supine position.",
+      "in a recumbent position."
+    ],
+    "correctAnswers": [
+      "sitting up at a 45° angle."
+    ],
+    "selectedAnswer": "sitting up at a 45° angle.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_202099_20",
+    "question": "Observations made when forming a general impression of a patient would include all of the following, EXCEPT:",
+    "answers": [
+      "level of distress.",
+      "race and gender.",
+      "appearance.",
+      "pulse strength."
+    ],
+    "correctAnswers": [
+      "pulse strength."
+    ],
+    "selectedAnswer": "pulse strength.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

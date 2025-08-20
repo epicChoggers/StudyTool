@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_215538_1",
+    "question": "A 26-year-old female presents with heavy vaginal bleeding. She is conscious, but restless. Her blood pressure is 84/54 mm Hg, her pulse is 120 beats/min and weak, and her respirations are 22 breaths/min with adequate depth. She tells you that she inserted a tampon about 2 hours ago. You should:",
+    "answers": [
+      "administer high-flow oxygen, ask her to remove the tampon, perform a detailed secondary assessment, and transport promptly.",
+      "assist her ventilations with a bag-valve mask, place one sterile dressing into her vagina, perform a rapid secondary assessment, and transport.",
+      "administer high-flow oxygen, perform a detailed assessment of her vaginal area for signs of trauma, place her on her side, and transport.",
+      "administer high-flow oxygen, place a sterile pad over her vagina, keep her warm, elevate her lower extremities, and transport without delay."
+    ],
+    "correctAnswers": [
+      "administer high-flow oxygen, place a sterile pad over her vagina, keep her warm, elevate her lower extremities, and transport without delay."
+    ],
+    "selectedAnswer": "administer high-flow oxygen, place a sterile pad over her vagina, keep her warm, elevate her lower extremities, and transport without delay.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_215538_2",
+    "question": "As a woman approaches menopause:",
+    "answers": [
+      "her menstrual periods may become irregular and vary in severity.",
+      "her risk of developing pelvic inflammatory disease lowers significantly.",
+      "she cannot become pregnant because of fluctuating hormone levels.",
+      "she usually experiences abdominal cramping without vaginal bleeding."
+    ],
+    "correctAnswers": [
+      "her menstrual periods may become irregular and vary in severity."
+    ],
+    "selectedAnswer": "her menstrual periods may become irregular and vary in severity.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_215538_3",
+    "question": "Bacterial vaginosis is a condition that occurs when:",
+    "answers": [
+      "normal bacteria in the vagina are replaced by an overgrowth of other bacterial forms.",
+      "harmful bacteria infect and cause damage to the uterus, cervix, and fallopian tubes.",
+      "abnormal bacteria enter the vagina and cause damage without causing any symptoms.",
+      "numerous bacteria enter the uterus through the cervix and cause severe tissue damage."
+    ],
+    "correctAnswers": [
+      "normal bacteria in the vagina are replaced by an overgrowth of other bacterial forms."
+    ],
+    "selectedAnswer": "normal bacteria in the vagina are replaced by an overgrowth of other bacterial forms.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_215538_4",
+    "question": "During your assessment of a young female with nontraumatic vaginal bleeding, you note that her level of consciousness is decreased, her respirations are rapid and shallow, her skin is cool and moist, and her pulse is rapid and weak. You should:",
+    "answers": [
+      "perform a rapid secondary assessment.",
+      "perform a visual assessment of her vaginal area.",
+      "assess her blood pressure and elevate her legs.",
+      "assist her ventilations with a bag-mask device."
+    ],
+    "correctAnswers": [
+      "assist her ventilations with a bag-mask device."
+    ],
+    "selectedAnswer": "assist her ventilations with a bag-mask device.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_215538_5",
+    "question": "Each ovary produces an ovum in alternating months and releases it into the:",
+    "answers": [
+      "vagina.",
+      "fallopian tube.",
+      "cervical os.",
+      "uterus."
+    ],
+    "correctAnswers": [
+      "fallopian tube."
+    ],
+    "selectedAnswer": "fallopian tube.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_215538_6",
+    "question": "EMTs receive a call for a possible sexual assault. The patient is a young female who is conscious and alert and has no apparent injuries. She states, \"I can't remember anything, but I know I was raped.\" The EMTs should suspect that:",
+    "answers": [
+      "the patient knew her attacker, but is afraid to say.",
+      "the traumatic experience has created a mental block.",
+      "the patient was given a drug prior to the incident.",
+      "an underlying head injury is causing her amnesia."
+    ],
+    "correctAnswers": [
+      "the patient was given a drug prior to the incident."
+    ],
+    "selectedAnswer": "the patient was given a drug prior to the incident.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_215538_7",
+    "question": "General treatment for a woman with vaginal bleeding and shock following sexual assault includes all of the following, EXCEPT:",
+    "answers": [
+      "carefully removing any foreign bodies from the vagina.",
+      "supplemental oxygen and keeping the patient supine.",
+      "refraining from placing any dressings into the vagina.",
+      "treating external lacerations with sterile compresses."
+    ],
+    "correctAnswers": [
+      "carefully removing any foreign bodies from the vagina."
+    ],
+    "selectedAnswer": "carefully removing any foreign bodies from the vagina.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_215538_8",
+    "question": "In contrast to bleeding caused by external trauma to the vagina, bleeding caused by conditions such as polyps or cancer:",
+    "answers": [
+      "often presents with acute pain.",
+      "can be controlled in the field.",
+      "is typically not as severe.",
+      "may be relatively painless."
+    ],
+    "correctAnswers": [
+      "may be relatively painless."
+    ],
+    "selectedAnswer": "may be relatively painless.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_215538_9",
+    "question": "Law enforcement personnel request your assistance to assess a 31-year-old female who was sexually assaulted. When you arrive at the scene, you find the patient sitting on a curb outside her apartment. She is conscious, alert, and crying. When you ask her what happened, she tells you that she does not want to be treated or transported to the hospital. She further tells you that all she wants to do is clean up. You should:",
+    "answers": [
+      "defer any physical assessment so that you do not destroy potential evidence.",
+      "ask her if there is anyone you can contact, such as a friend or relative.",
+      "provide emotional support and visually assess her for obvious trauma.",
+      "advise her that she cannot clean herself up because this will destroy evidence."
+    ],
+    "correctAnswers": [
+      "provide emotional support and visually assess her for obvious trauma."
+    ],
+    "selectedAnswer": "provide emotional support and visually assess her for obvious trauma.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_215538_10",
+    "question": "Potentially life-threatening consequences of pelvic inflammatory disease (PID) include:",
+    "answers": [
+      "uterine rupture with severe bleeding.",
+      "ovarian cysts and gonorrhea.",
+      "bacterial vaginosis and chlamydia.",
+      "ovarian abscess and ectopic pregnancy."
+    ],
+    "correctAnswers": [
+      "ovarian abscess and ectopic pregnancy."
+    ],
+    "selectedAnswer": "ovarian abscess and ectopic pregnancy.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_215538_11",
+    "question": "The onset of menstruation usually occurs in females who are:",
+    "answers": [
+      "between 18 and 23 years of age.",
+      "between 11 and 16 years of age.",
+      "between 25 and 28 years of age.",
+      "between 8 and 10 years of age."
+    ],
+    "correctAnswers": [
+      "between 11 and 16 years of age."
+    ],
+    "selectedAnswer": "between 11 and 16 years of age.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_215538_12",
+    "question": "The physical examination of a sexual assault victim should be:",
+    "answers": [
+      "performed in the presence of at least two police officers.",
+      "as detailed as possible so all injuries can be documented.",
+      "deferred until the patient can be evaluated by a physician.",
+      "limited to a brief survey for life-threatening injuries."
+    ],
+    "correctAnswers": [
+      "limited to a brief survey for life-threatening injuries."
+    ],
+    "selectedAnswer": "limited to a brief survey for life-threatening injuries.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_215538_13",
+    "question": "When a woman presents with abdominal pain or other vague symptoms, the EMT is often unable to determine the nature of the problem until he or she:",
+    "answers": [
+      "has formed a general impression of the patient.",
+      "has obtained a complete set of vital signs.",
+      "has gathered patient history information.",
+      "ascertains if the patient was ever pregnant."
+    ],
+    "correctAnswers": [
+      "has gathered patient history information."
+    ],
+    "selectedAnswer": "has gathered patient history information.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_215538_14",
+    "question": "When caring for a woman who is experiencing a gynecologic emergency, the EMT's main focus should be to:",
+    "answers": [
+      "ask questions related to her gynecologic history.",
+      "maintain her ABCs and transport without delay.",
+      "determine the underlying cause of her problem.",
+      "keep assessment and treatment to a minimum."
+    ],
+    "correctAnswers": [
+      "maintain her ABCs and transport without delay."
+    ],
+    "selectedAnswer": "maintain her ABCs and transport without delay.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_215538_15",
+    "question": "When documenting a call in which a female was sexually assaulted, you should:",
+    "answers": [
+      "record your opinion only if you have reasonable proof to justify the statement.",
+      "only use quotation marks when recording any statements made by witnesses.",
+      "translate the patient's words or statements using proper medical terminology.",
+      "keep the report concise and record only what the patient stated in her own words."
+    ],
+    "correctAnswers": [
+      "keep the report concise and record only what the patient stated in her own words."
+    ],
+    "selectedAnswer": "keep the report concise and record only what the patient stated in her own words.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_215538_16",
+    "question": "Whenever possible, a female sexual assault victim should be:",
+    "answers": [
+      "encouraged to take a shower and change her clothes.",
+      "given the option of being treated by a female EMT.",
+      "thoroughly assessed, even if no signs of injury exist.",
+      "asked to provide a brief description of the perpetrator."
+    ],
+    "correctAnswers": [
+      "given the option of being treated by a female EMT."
+    ],
+    "selectedAnswer": "given the option of being treated by a female EMT.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_215538_17",
+    "question": "Which of the following conditions would MOST likely lead to pelvic inflammatory disease if left untreated?",
+    "answers": [
+      "Genital herpes",
+      "Chlamydia",
+      "Ectopic pregnancy",
+      "Ovarian cysts"
+    ],
+    "correctAnswers": [
+      "Chlamydia"
+    ],
+    "selectedAnswer": "Chlamydia",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_215538_18",
+    "question": "Which of the following drugs is commonly referred to as \"roofies\"?",
+    "answers": [
+      "Ketamine",
+      "GHB",
+      "Rohypnol",
+      "MDMA"
+    ],
+    "correctAnswers": [
+      "Rohypnol"
+    ],
+    "selectedAnswer": "Rohypnol",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_215538_19",
+    "question": "Which of the following statements regarding rape is correct?",
+    "answers": [
+      "Only a licensed physician can make a diagnosis of rape.",
+      "Rape causes more physical than emotional harm.",
+      "Rape is a legal term, not a medical diagnosis.",
+      "The EMT should try to determine if rape occurred."
+    ],
+    "correctAnswers": [
+      "Rape is a legal term, not a medical diagnosis."
+    ],
+    "selectedAnswer": "Rape is a legal term, not a medical diagnosis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_215538_20",
+    "question": "You are dispatched to a residence for a 40-year-old female who complains of lower abdominal pain, fever and chills, and a foul-smelling vaginal discharge. Which of the following additional assessment findings would increase your index of suspicion for pelvic inflammatory disease?",
+    "answers": [
+      "Vaginal passage of blood clots",
+      "Bright red blood in the urine",
+      "A history of ectopic pregnancy",
+      "A shuffling gait when walking"
+    ],
+    "correctAnswers": [
+      "A shuffling gait when walking"
+    ],
+    "selectedAnswer": "A history of ectopic pregnancy",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

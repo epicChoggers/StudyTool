@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_207363_1",
+    "question": "A 5-year-old boy has fallen and has a severe deformity of the forearm near the wrist. He has possibly sustained a fracture of the ____________ forearm.",
+    "answers": [
+      "distal",
+      "proximal",
+      "superior",
+      "dorsal"
+    ],
+    "correctAnswers": [
+      "distal"
+    ],
+    "selectedAnswer": "distal",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_207363_2",
+    "question": "A diabetic patient has polydipsia. This means that she:",
+    "answers": [
+      "is unable to swallow.",
+      "urinates frequently.",
+      "has low blood sugar.",
+      "is excessively thirsty."
+    ],
+    "correctAnswers": [
+      "is excessively thirsty."
+    ],
+    "selectedAnswer": "is excessively thirsty.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_207363_3",
+    "question": "A fracture of the humerus just above the elbow would be described as a:",
+    "answers": [
+      "distal humerus fracture.",
+      "distal forearm fracture.",
+      "proximal humerus fracture.",
+      "proximal elbow fracture."
+    ],
+    "correctAnswers": [
+      "distal humerus fracture."
+    ],
+    "selectedAnswer": "distal humerus fracture.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_207363_4",
+    "question": "After applying a tourniquet, the injury from a patient's leg stops bleeding. This is called:",
+    "answers": [
+      "hemostasis.",
+      "hemiplegia.",
+      "hematemesis.",
+      "hemolysis."
+    ],
+    "correctAnswers": [
+      "hemostasis."
+    ],
+    "selectedAnswer": "hemostasis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_207363_5",
+    "question": "An intoxicated 40-year-old male is found lying face down. How would you document his body's position?",
+    "answers": [
+      "Supine",
+      "Prone",
+      "Dorsal",
+      "Recumbent"
+    ],
+    "correctAnswers": [
+      "Prone"
+    ],
+    "selectedAnswer": "Prone",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_207363_6",
+    "question": "A patient has fractured both femurs. Anatomically, these injuries would be described as being:",
+    "answers": [
+      "bilateral.",
+      "proximal.",
+      "medial.",
+      "unilateral."
+    ],
+    "correctAnswers": [
+      "bilateral."
+    ],
+    "selectedAnswer": "bilateral.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_207363_7",
+    "question": "A patient in a semi-reclined position with the head elevated to facilitate breathing is in the ___________ position.",
+    "answers": [
+      "supine",
+      "prone",
+      "recovery",
+      "Fowler"
+    ],
+    "correctAnswers": [
+      "Fowler"
+    ],
+    "selectedAnswer": "Fowler",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_207363_8",
+    "question": "A patient with a pneumothorax has unilateral chest expansion. This means that:",
+    "answers": [
+      "his chest and his abdomen are moving in opposite directions.",
+      "only one side of his chest rises when he inhales.",
+      "both of his lungs are expanding when he inhales.",
+      "both sides of his chest are moving minimally."
+    ],
+    "correctAnswers": [
+      "only one side of his chest rises when he inhales."
+    ],
+    "selectedAnswer": "only one side of his chest rises when he inhales.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_207363_9",
+    "question": "A pregnant patient is diagnosed with hyperemesis gravidarum. This means that:",
+    "answers": [
+      "she has frequent urination.",
+      "her respiratory rate is rapid.",
+      "she has excessive vomiting.",
+      "her unborn baby is very large."
+    ],
+    "correctAnswers": [
+      "she has excessive vomiting."
+    ],
+    "selectedAnswer": "she has excessive vomiting.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_207363_10",
+    "question": "A young male jumped from a tree and landed feet first. Which aspect of his body has sustained the initial injury?",
+    "answers": [
+      "Ventral",
+      "Palmar",
+      "Plantar",
+      "Dorsal"
+    ],
+    "correctAnswers": [
+      "Plantar"
+    ],
+    "selectedAnswer": "Plantar",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_207363_11",
+    "question": "Enlargement of the liver is called:",
+    "answers": [
+      "hepatomegaly.",
+      "hydrocephalus.",
+      "pneumonitis.",
+      "nephritis."
+    ],
+    "correctAnswers": [
+      "hepatomegaly."
+    ],
+    "selectedAnswer": "hepatomegaly.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_207363_12",
+    "question": "In relation to the chest, the back is:",
+    "answers": [
+      "posterior.",
+      "anterior.",
+      "inferior.",
+      "ventral."
+    ],
+    "correctAnswers": [
+      "posterior."
+    ],
+    "selectedAnswer": "posterior.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_207363_13",
+    "question": "In relation to the wrist, the elbow is:",
+    "answers": [
+      "medial.",
+      "proximal.",
+      "distal.",
+      "lateral."
+    ],
+    "correctAnswers": [
+      "proximal."
+    ],
+    "selectedAnswer": "proximal.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_207363_14",
+    "question": "Movement or motion away from the body's midline is called:",
+    "answers": [
+      "adduction.",
+      "extension.",
+      "flexion.",
+      "abduction."
+    ],
+    "correctAnswers": [
+      "abduction."
+    ],
+    "selectedAnswer": "abduction.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_207363_15",
+    "question": "The ___________ of the heart is the inferior portion of the ventricles.",
+    "answers": [
+      "apex",
+      "septum",
+      "base",
+      "dorsum"
+    ],
+    "correctAnswers": [
+      "apex"
+    ],
+    "selectedAnswer": "apex",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_207363_16",
+    "question": "The term \"pericardiocentesis\" means:",
+    "answers": [
+      "narrowing of the arteries supplying the heart.",
+      "the removal of fluid from around the heart.",
+      "a surgical opening made in the heart.",
+      "surgical repair of the sac around the heart."
+    ],
+    "correctAnswers": [
+      "the removal of fluid from around the heart."
+    ],
+    "selectedAnswer": "the removal of fluid from around the heart.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_207363_17",
+    "question": "The term \"supraventricular tachycardia\" means:",
+    "answers": [
+      "a rapid heart rate that originates from above the ventricles.",
+      "a slow heart rate that originates from above the ventricles.",
+      "a slow heart rate that originates from within the ventricles.",
+      "a rapid heart rate that originates from within the ventricles."
+    ],
+    "correctAnswers": [
+      "a rapid heart rate that originates from above the ventricles."
+    ],
+    "selectedAnswer": "a rapid heart rate that originates from above the ventricles.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_207363_18",
+    "question": "The topographic term used to describe the location of body parts that are closer toward the midline of the body is:",
+    "answers": [
+      "lateral.",
+      "midclavicular.",
+      "midaxillary.",
+      "medial."
+    ],
+    "correctAnswers": [
+      "medial."
+    ],
+    "selectedAnswer": "medial.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_207363_19",
+    "question": "The topographic term used to describe the parts of the body that are nearer to the feet is:",
+    "answers": [
+      "superior.",
+      "internal.",
+      "dorsal.",
+      "inferior."
+    ],
+    "correctAnswers": [
+      "inferior."
+    ],
+    "selectedAnswer": "inferior.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_207363_20",
+    "question": "Which of the following anatomic terms is synonymous with the word \"dorsal\"?",
+    "answers": [
+      "Anterior",
+      "Posterior",
+      "Palmar",
+      "Medial"
+    ],
+    "correctAnswers": [
+      "Posterior"
+    ],
+    "selectedAnswer": "Posterior",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

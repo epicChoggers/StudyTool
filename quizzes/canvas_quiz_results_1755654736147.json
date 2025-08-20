@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_209313_1",
+    "question": "A 19-year-old female is found unconscious by her roommate. Your primary assessment reveals that her breathing is inadequate. As you insert an oropharyngeal airway, she begins to gag violently. You should:",
+    "answers": [
+      "continue to insert the airway as you suction her oropharynx.",
+      "select a smaller oropharyngeal airway and attempt to insert it.",
+      "insert the airway no further but leave it in place as a bite block.",
+      "remove the airway and be prepared to suction her oropharynx."
+    ],
+    "correctAnswers": [
+      "remove the airway and be prepared to suction her oropharynx."
+    ],
+    "selectedAnswer": "remove the airway and be prepared to suction her oropharynx.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_209313_2",
+    "question": "A 23-year-old male experienced severe head trauma after his motorcycle collided with an oncoming truck. He is unconscious, has agonal gasps, and has copious bloody secretions in his mouth. How should you manage his airway?",
+    "answers": [
+      "Suction his oropharynx with a rigid catheter until all secretions are removed.",
+      "Insert a nasopharyngeal airway and provide suction and assisted ventilations.",
+      "Provide continuous ventilations with a bag-mask device to minimize hypoxia.",
+      "Alternate oropharyngeal suctioning and ventilation with a bag-mask device."
+    ],
+    "correctAnswers": [
+      "Alternate oropharyngeal suctioning and ventilation with a bag-mask device."
+    ],
+    "selectedAnswer": "Suction his oropharynx with a rigid catheter until all secretions are removed.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_209313_3",
+    "question": "A 51-year-old female presents with a sudden onset of difficulty breathing. She is conscious and alert and able to speak in complete sentences. Her respirations are 22 breaths/min and regular. You should:",
+    "answers": [
+      "assist her ventilations with a bag-mask device.",
+      "insert a nasal airway in case her mental status decreases.",
+      "perform a secondary assessment and then begin treatment.",
+      "administer oxygen via a nonrebreathing mask."
+    ],
+    "correctAnswers": [
+      "administer oxygen via a nonrebreathing mask."
+    ],
+    "selectedAnswer": "administer oxygen via a nonrebreathing mask.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_209313_4",
+    "question": "A 71-year-old male is semiconscious following a sudden, severe headache. There is vomitus on his face, and his respirations are slow and shallow. The EMT must immediately:",
+    "answers": [
+      "apply oxygen via a nonrebreathing mask.",
+      "begin assisting the patient's ventilations.",
+      "insert a nasopharyngeal airway.",
+      "perform oropharyngeal suctioning."
+    ],
+    "correctAnswers": [
+      "perform oropharyngeal suctioning."
+    ],
+    "selectedAnswer": "perform oropharyngeal suctioning.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_209313_5",
+    "question": "All of the following will help minimize the risk of gastric distention when ventilating an apneic patient with a bag-mask device, EXCEPT:",
+    "answers": [
+      "ventilating the patient at the appropriate rate.",
+      "increasing the amount of delivered tidal volume.",
+      "ensuring the appropriate airway position.",
+      "delivering each breath over 1 second."
+    ],
+    "correctAnswers": [
+      "increasing the amount of delivered tidal volume."
+    ],
+    "selectedAnswer": "increasing the amount of delivered tidal volume.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_209313_6",
+    "question": "A man was found unresponsive in his bed at home. There is no evidence of injury, and the patient's medical history is not known. The patient's face is cherry red, yet the pulse oximeter reads 98%. Which of the following would MOST likely explain this?",
+    "answers": [
+      "Cold extremities",
+      "Increased body temperature",
+      "Severe pulmonary edema",
+      "Carbon monoxide poisoning"
+    ],
+    "correctAnswers": [
+      "Carbon monoxide poisoning"
+    ],
+    "selectedAnswer": "Carbon monoxide poisoning",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_209313_7",
+    "question": "A nasopharyngeal airway is inserted:",
+    "answers": [
+      "into the smaller nostril with the tip following the roof of the nose.",
+      "with the bevel facing the septum if inserted into the right nare.",
+      "into the larger nostril with the tip pointing away from the septum.",
+      "with the bevel pointing downward if inserted into the left nare."
+    ],
+    "correctAnswers": [
+      "with the bevel facing the septum if inserted into the right nare."
+    ],
+    "selectedAnswer": "with the bevel facing the septum if inserted into the right nare.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_209313_8",
+    "question": "An oxygen cylinder should be taken out of service and refilled when the pressure inside it is less than:",
+    "answers": [
+      "1,000 psi.",
+      "500 psi.",
+      "1,500 psi.",
+      "200 psi."
+    ],
+    "correctAnswers": [
+      "500 psi."
+    ],
+    "selectedAnswer": "500 psi.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_209313_9",
+    "question": "A patient who is suspected of being hypoxic and is breathing adequately should be given supplemental oxygen with a:",
+    "answers": [
+      "nonrebreathing mask.",
+      "mouth-to-mask device.",
+      "nasal cannula.",
+      "bag-mask device."
+    ],
+    "correctAnswers": [
+      "nonrebreathing mask."
+    ],
+    "selectedAnswer": "nonrebreathing mask.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_209313_10",
+    "question": "At a flow rate of 6 L/min, a nasal cannula can deliver an approximate oxygen concentration of up to:",
+    "answers": [
+      "35%.",
+      "24%.",
+      "44%.",
+      "52%."
+    ],
+    "correctAnswers": [
+      "44%."
+    ],
+    "selectedAnswer": "44%.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_209313_11",
+    "question": "Based on current guidelines, in which of the following situations should supplemental oxygen be administered?",
+    "answers": [
+      "Any elderly patient whose oxygen saturation is less than 95%",
+      "Exposure to carbon monoxide and an oxygen saturation of 94%",
+      "Any diabetic patient whose oxygen saturation is less than 98%",
+      "Signs of myocardial infarction and an oxygen saturation of 97%"
+    ],
+    "correctAnswers": [
+      "Exposure to carbon monoxide and an oxygen saturation of 94%"
+    ],
+    "selectedAnswer": "Exposure to carbon monoxide and an oxygen saturation of 94%",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_209313_12",
+    "question": "Each cell of the body combines nutrients and oxygen and produces energy and waste products through a process called:",
+    "answers": [
+      "ventilation.",
+      "metabolism.",
+      "respiration.",
+      "oxygenation."
+    ],
+    "correctAnswers": [
+      "metabolism."
+    ],
+    "selectedAnswer": "metabolism.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_209313_13",
+    "question": "How does positive-pressure ventilation affect cardiac output?",
+    "answers": [
+      "There is no effect on cardiac output because positive-pressure ventilation is the act of normal breathing.",
+      "It causes pressure in the chest to decrease, which increases stroke volume and cardiac output.",
+      "It increases intrathoracic pressure, which decreases venous return to the heart and causes a decrease in cardiac output.",
+      "It decreases intrathoracic pressure, which facilitates venous return to the heart and increases cardiac output."
+    ],
+    "correctAnswers": [
+      "It increases intrathoracic pressure, which decreases venous return to the heart and causes a decrease in cardiac output."
+    ],
+    "selectedAnswer": "It increases intrathoracic pressure, which decreases venous return to the heart and causes a decrease in cardiac output.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_209313_14",
+    "question": "In contrast to inhalation, exhalation:",
+    "answers": [
+      "requires muscular effort to effectively expel air from the lungs.",
+      "occurs when the diaphragm lowers and expels air from the lungs.",
+      "is an active process caused by decreased intrathoracic pressure.",
+      "is a passive process caused by increased intrathoracic pressure."
+    ],
+    "correctAnswers": [
+      "is a passive process caused by increased intrathoracic pressure."
+    ],
+    "selectedAnswer": "is a passive process caused by increased intrathoracic pressure.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_209313_15",
+    "question": "In the presence of oxygen, the cells convert glucose into energy through a process called:",
+    "answers": [
+      "anaerobic metabolism.",
+      "respiration.",
+      "perfusion.",
+      "aerobic metabolism."
+    ],
+    "correctAnswers": [
+      "aerobic metabolism."
+    ],
+    "selectedAnswer": "aerobic metabolism.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_209313_16",
+    "question": "In which of the following patients would the head tilt-chin lift maneuver be the MOST appropriate method of opening the airway?",
+    "answers": [
+      "A 50-year-old male who is unconscious following head trauma",
+      "A 37-year-old female who is found unconscious in her bed",
+      "A 45-year-old male who is semiconscious after falling 20 feet",
+      "A 24-year-old male who is found unconscious at the base of a tree"
+    ],
+    "correctAnswers": [
+      "A 37-year-old female who is found unconscious in her bed"
+    ],
+    "selectedAnswer": "A 37-year-old female who is found unconscious in her bed",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_209313_17",
+    "question": "Proper technique for suctioning the oropharynx of an adult patient includes:",
+    "answers": [
+      "continuously suctioning patients with copious oral secretions.",
+      "suctioning for up to 1 minute if the patient is well oxygenated.",
+      "suctioning while withdrawing the catheter from the oropharynx.",
+      "removing large, solid objects with a tonsil-tip suction catheter."
+    ],
+    "correctAnswers": [
+      "suctioning while withdrawing the catheter from the oropharynx."
+    ],
+    "selectedAnswer": "suctioning while withdrawing the catheter from the oropharynx.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_209313_18",
+    "question": "Structures of the lower airway include all of the following, EXCEPT:",
+    "answers": [
+      "bronchioles.",
+      "alveoli.",
+      "the trachea.",
+      "the epiglottis."
+    ],
+    "correctAnswers": [
+      "the epiglottis."
+    ],
+    "selectedAnswer": "the epiglottis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_209313_19",
+    "question": "The hypoxic drive is influenced by:",
+    "answers": [
+      "high blood oxygen levels.",
+      "low blood oxygen levels.",
+      "high blood carbon dioxide levels.",
+      "low blood carbon dioxide levels."
+    ],
+    "correctAnswers": [
+      "low blood oxygen levels."
+    ],
+    "selectedAnswer": "low blood oxygen levels.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_209313_20",
+    "question": "The pressure of gas in a full cylinder of oxygen is approximately _______ pounds per square inch (psi).",
+    "answers": [
+      "3,000",
+      "1,000",
+      "2,000",
+      "500"
+    ],
+    "correctAnswers": [
+      "2,000"
+    ],
+    "selectedAnswer": "2,000",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

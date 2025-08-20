@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_211555_1",
+    "question": "A 20-year-old male was accidentally shot in the right upper abdominal quadrant with an arrow during an archery contest. Prior to your arrival, the patient removed the arrow. Your assessment reveals that he is conscious and alert with stable vital signs. The entrance wound is bleeding minimally and appears to be superficial. You should:",
+    "answers": [
+      "carefully probe the wound to determine its depth.",
+      "transport only if signs of shock begin to develop.",
+      "assume that the arrow injured an internal organ.",
+      "clean the wound and apply a dry, sterile dressing."
+    ],
+    "correctAnswers": [
+      "assume that the arrow injured an internal organ."
+    ],
+    "selectedAnswer": "assume that the arrow injured an internal organ.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_211555_2",
+    "question": "A 22-year-old male was kicked in the abdomen several times. You find him lying on his left side with his knees drawn up. He is conscious and alert and complains of increased pain and nausea when he tries to straighten his legs. His blood pressure is 142/82 mm Hg, his pulse rate is 110 beats/min and strong, and his respirations are 22 breaths/min and regular. In addition to administering high-flow oxygen, you should:",
+    "answers": [
+      "keep him on his side but gently straighten his legs.",
+      "apply full spinal motion restriction precautions.",
+      "transport him in the position in which you found him.",
+      "place him supine but allow him to keep his knees bent."
+    ],
+    "correctAnswers": [
+      "transport him in the position in which you found him."
+    ],
+    "selectedAnswer": "transport him in the position in which you found him.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_211555_3",
+    "question": "A 54-year-old male experienced an avulsion to his penis when his foreskin got caught in the zipper of his pants. He was able to unzip his pants and remove the foreskin prior to your arrival. Your assessment reveals that he is in severe pain and that the avulsion is bleeding moderately. The most appropriate treatment for this patient includes:",
+    "answers": [
+      "applying direct pressure with a dry, sterile dressing.",
+      "covering the avulsion with moist, sterile dressings.",
+      "administering 100% oxygen via a nonrebreathing mask.",
+      "requesting a paramedic to administer pain medication."
+    ],
+    "correctAnswers": [
+      "applying direct pressure with a dry, sterile dressing."
+    ],
+    "selectedAnswer": "covering the avulsion with moist, sterile dressings.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_211555_4",
+    "question": "A 66-year-old male presents with dark red rectal bleeding and abdominal pain. He is conscious and alert; however, his skin is cool and clammy and his pulse is rapid. Further assessment reveals that his blood pressure is 112/60 mm Hg. Which of the following questions would be most pertinent to ask him?",
+    "answers": [
+      "Has blood soaked through your undergarments?",
+      "Do you take any over-the-counter medications?",
+      "Have you experienced recent abdominal trauma?",
+      "What does your blood pressure normally run?"
+    ],
+    "correctAnswers": [
+      "Have you experienced recent abdominal trauma?"
+    ],
+    "selectedAnswer": "What does your blood pressure normally run?",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_211555_5",
+    "question": "Accumulation of blood in the abdominal cavity will most likely cause:",
+    "answers": [
+      "nausea or vomiting.",
+      "distention.",
+      "referred pain.",
+      "diffuse bruising."
+    ],
+    "correctAnswers": [
+      "distention."
+    ],
+    "selectedAnswer": "distention.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_211555_6",
+    "question": "A football player was struck by another player in the right flank area just below the posterior rib cage. He complains of severe pain and point tenderness to the area. Your assessment reveals that there is a small amount of blood in his underwear. You should be most suspicious for:",
+    "answers": [
+      "external genitalia injury.",
+      "a ruptured urinary bladder.",
+      "blunt injury to the kidney.",
+      "a lacerated liver or spleen."
+    ],
+    "correctAnswers": [
+      "blunt injury to the kidney."
+    ],
+    "selectedAnswer": "blunt injury to the kidney.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_211555_7",
+    "question": "A man has a large laceration across his lower abdominal wall and a loop of bowel is protruding from the wound. He is conscious and alert and there is minimal bleeding from the wound. You should:",
+    "answers": [
+      "cover the bowel with a dry sterile dressing, elevate his lower extremities, and cover him with a blanket.",
+      "cover the exposed bowel with a moist sterile dressing and then secure it in place with a dry bandage.",
+      "gently irrigate the exposed bowel with sterile saline and then cover the wound with a dry sterile dressing.",
+      "make one attempt to replace the bowel back into the abdomen and then cover the wound with a sterile dressing."
+    ],
+    "correctAnswers": [
+      "cover the exposed bowel with a moist sterile dressing and then secure it in place with a dry bandage."
+    ],
+    "selectedAnswer": "cover the exposed bowel with a moist sterile dressing and then secure it in place with a dry bandage.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_211555_8",
+    "question": "A sign of kidney damage after blunt trauma is:",
+    "answers": [
+      "hematemesis.",
+      "hematuria.",
+      "hemoptysis.",
+      "hematochezia."
+    ],
+    "correctAnswers": [
+      "hematuria."
+    ],
+    "selectedAnswer": "hematuria.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_211555_9",
+    "question": "Assuming that no obvious signs of intra-abdominal injury are present, which of the following injuries would most likely cause an injury to the liver or spleen to be overlooked?",
+    "answers": [
+      "Lumbar spine fracture",
+      "Femur fracture",
+      "Pelvic fracture",
+      "Shoulder fracture"
+    ],
+    "correctAnswers": [
+      "Shoulder fracture"
+    ],
+    "selectedAnswer": "Pelvic fracture",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_211555_10",
+    "question": "Because the depth of an open abdominal wound is often difficult to determine:",
+    "answers": [
+      "the abdomen must be vigorously palpated.",
+      "prompt transport to the hospital is essential.",
+      "the EMT must perform a thorough exam.",
+      "vital signs should be monitored frequently."
+    ],
+    "correctAnswers": [
+      "prompt transport to the hospital is essential."
+    ],
+    "selectedAnswer": "prompt transport to the hospital is essential.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_211555_11",
+    "question": "Compression injuries to the abdomen that occur during a motor vehicle crash are typically the result of:",
+    "answers": [
+      "rapid vehicle deceleration.",
+      "airbag deployment.",
+      "failure to wear seat belts.",
+      "a poorly placed lap belt."
+    ],
+    "correctAnswers": [
+      "a poorly placed lap belt."
+    ],
+    "selectedAnswer": "a poorly placed lap belt.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_211555_12",
+    "question": "During your assessment of a patient who experienced blunt trauma to the abdomen, you notice bruising around the umbilicus. This is a sign of:",
+    "answers": [
+      "rupture of a hollow organ.",
+      "a ruptured spleen.",
+      "a severe liver laceration.",
+      "intra-abdominal bleeding."
+    ],
+    "correctAnswers": [
+      "intra-abdominal bleeding."
+    ],
+    "selectedAnswer": "intra-abdominal bleeding.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_211555_13",
+    "question": "Early bruising following abdominal trauma often manifests as:",
+    "answers": [
+      "gross distention.",
+      "dark purple marks.",
+      "localized pain.",
+      "red areas of skin."
+    ],
+    "correctAnswers": [
+      "red areas of skin."
+    ],
+    "selectedAnswer": "red areas of skin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_211555_14",
+    "question": "Placing a pregnant patient in a supine position during the third trimester of pregnancy:",
+    "answers": [
+      "is recommended if the patient has severe abdominal discomfort.",
+      "results in spontaneous urinary incontinence if the bladder is full.",
+      "often causes hypotension secondary to cardiac compression.",
+      "might decrease the amount of blood that returns to the heart."
+    ],
+    "correctAnswers": [
+      "might decrease the amount of blood that returns to the heart."
+    ],
+    "selectedAnswer": "might decrease the amount of blood that returns to the heart.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_211555_15",
+    "question": "The presence of tachycardia following a significant abdominal injury:",
+    "answers": [
+      "should be assumed to be a sign of shock.",
+      "indicates a state of decompensated shock.",
+      "is most commonly caused by severe pain.",
+      "is always accompanied by hypotension."
+    ],
+    "correctAnswers": [
+      "should be assumed to be a sign of shock."
+    ],
+    "selectedAnswer": "should be assumed to be a sign of shock.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_211555_16",
+    "question": "When documenting a call involving a female patient who was sexually assaulted, the EMT should:",
+    "answers": [
+      "avoid speculation and document only factual data.",
+      "include a description of the suspected perpetrator.",
+      "include the results of the internal vaginal exam.",
+      "theorize as to why the sexual assault occurred."
+    ],
+    "correctAnswers": [
+      "avoid speculation and document only factual data."
+    ],
+    "selectedAnswer": "avoid speculation and document only factual data.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_211555_17",
+    "question": "Which of the following organs would most likely bleed profusely when injured?",
+    "answers": [
+      "Stomach",
+      "Liver",
+      "Intestine",
+      "Bladder"
+    ],
+    "correctAnswers": [
+      "Liver"
+    ],
+    "selectedAnswer": "Liver",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_211555_18",
+    "question": "You are dispatched to a residence for a young female who was kicked in the abdomen. While en route to the scene, you should ask the dispatcher if:",
+    "answers": [
+      "the patient is conscious.",
+      "law enforcement is at the scene.",
+      "the severity of the injury is known.",
+      "there are other patients involved."
+    ],
+    "correctAnswers": [
+      "law enforcement is at the scene."
+    ],
+    "selectedAnswer": "law enforcement is at the scene.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_211555_19",
+    "question": "You are transporting a patient with blunt abdominal trauma. The patient is unstable and is experiencing obvious signs and symptoms of shock. Your estimated time of arrival at the hospital is less than 10 minutes. After treating the patient appropriately, you should:",
+    "answers": [
+      "closely monitor him and reassess him frequently.",
+      "forgo the hospital radio report because of his condition.",
+      "perform a comprehensive secondary assessment.",
+      "begin documenting the call on the patient care form."
+    ],
+    "correctAnswers": [
+      "closely monitor him and reassess him frequently."
+    ],
+    "selectedAnswer": "closely monitor him and reassess him frequently.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_211555_20",
+    "question": "Your presence is requested by law enforcement to assess a 33-year-old female who was sexually assaulted. The patient is conscious and obviously upset. As you are talking to her, you note an impressive amount of blood on her clothes in the groin area. Her blood pressure is 98/58 mm Hg, her pulse is 130 beats/min, and her respirations are 24 breaths/min. You should:",
+    "answers": [
+      "arrange for a rape crisis center representative to speak with the patient.",
+      "allow her to change her clothes and take a shower before you transport.",
+      "control any external bleeding, administer oxygen, and transport at once.",
+      "visualize the vaginal area and pack the vagina with sterile dressings."
+    ],
+    "correctAnswers": [
+      "control any external bleeding, administer oxygen, and transport at once."
+    ],
+    "selectedAnswer": "control any external bleeding, administer oxygen, and transport at once.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

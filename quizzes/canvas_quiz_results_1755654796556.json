@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_202102_1",
+    "question": "The energy of a moving object is called:",
+    "answers": [
+      "potential energy.",
+      "kinetic energy.",
+      "latent energy.",
+      "converted energy."
+    ],
+    "correctAnswers": [
+      "kinetic energy."
+    ],
+    "selectedAnswer": "kinetic energy.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_202102_2",
+    "question": "Which of the following statements regarding gunshot wounds is correct?",
+    "answers": [
+      "The speed of a bullet has the greatest impact on the injury produced.",
+      "The size of a bullet has the greatest impact on the injury produced.",
+      "Low-velocity bullets will cause the greatest amount of trauma.",
+      "High-velocity bullets will cause less severe internal injuries."
+    ],
+    "correctAnswers": [
+      "The speed of a bullet has the greatest impact on the injury produced."
+    ],
+    "selectedAnswer": "The speed of a bullet has the greatest impact on the injury produced.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_202102_3",
+    "question": "Which of the following is NOT one of the three types of collisions in a typical impact in a motor vehicular crash?",
+    "answers": [
+      "Collision of the internal organs against the body's solid structures",
+      "Collision of a car against another car, a tree, or another object",
+      "Collision of the passenger against the interior of the car",
+      "Collision of two passenger bodies within the same vehicle"
+    ],
+    "correctAnswers": [
+      "Collision of two passenger bodies within the same vehicle"
+    ],
+    "selectedAnswer": "Collision of two passenger bodies within the same vehicle",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_202102_4",
+    "question": "When a driver is in a car equipped with an airbag, but is not wearing a seatbelt, he or she will MOST likely strike the __________ when the airbag deploys upon impact.",
+    "answers": [
+      "steering wheel",
+      "dashboard",
+      "windshield",
+      "door"
+    ],
+    "correctAnswers": [
+      "door"
+    ],
+    "selectedAnswer": "dashboard",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_202102_5",
+    "question": "While en route to a major motor vehicle crash, an on-scene police officer advises you that a 6-year-old male who was riding in the front seat is involved. He further states that the child was only wearing a lap belt and that the airbag deployed. On the basis of this information, you should be MOST suspicious that the child has experienced:",
+    "answers": [
+      "blunt trauma to the head.",
+      "lower extremity fractures.",
+      "open abdominal trauma.",
+      "neck and facial injuries."
+    ],
+    "correctAnswers": [
+      "neck and facial injuries."
+    ],
+    "selectedAnswer": "open abdominal trauma.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_202102_6",
+    "question": "A driver involved in a rollover motor vehicle crash will MOST likely experience serious injuries or death if he or she:",
+    "answers": [
+      "experiences multiple impacts.",
+      "remains within the vehicle.",
+      "is wearing only a lap belt.",
+      "is ejected or partially ejected."
+    ],
+    "correctAnswers": [
+      "is ejected or partially ejected."
+    ],
+    "selectedAnswer": "is ejected or partially ejected.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_202102_7",
+    "question": "A small compact car was involved in a rollover crash. As you are approaching the vehicle, you note that the roof is significantly collapsed. The patient, a 29-year-old male, is complaining of severe pain in his neck and to the top of his head as well as numbness and tingling in his extremities. Witnesses who removed the patient from the vehicle state that he was wearing his seatbelt. What injury mechanism is MOST likely responsible for this patient's condition?",
+    "answers": [
+      "Impact of the head against the steering wheel",
+      "Lateral bending of the neck during the crash",
+      "Whiplash injury to the neck during the rollover",
+      "Compression of the head against the roof"
+    ],
+    "correctAnswers": [
+      "Compression of the head against the roof"
+    ],
+    "selectedAnswer": "Compression of the head against the roof",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_202102_8",
+    "question": "A 15-year-old female was struck by a small car while riding her bicycle. She was wearing a helmet and was thrown to the ground, striking her head. In addition to managing problems associated with airway, breathing, and circulation, it is MOST important for you to:",
+    "answers": [
+      "inspect the helmet for cracks.",
+      "obtain baseline vital signs.",
+      "leave her bicycle helmet on.",
+      "stabilize her entire spine."
+    ],
+    "correctAnswers": [
+      "stabilize her entire spine."
+    ],
+    "selectedAnswer": "stabilize her entire spine.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_202102_9",
+    "question": "A 12-year-old male jumped approximately 12 feet from a tree and landed on his feet. He complains of pain to his lower back. What injury mechanism is MOST likely responsible for his back pain?",
+    "answers": [
+      "Secondary fall after the initial impact",
+      "Lateral impact to the spine",
+      "Direct trauma to the spinal column",
+      "Energy transmission to the spine"
+    ],
+    "correctAnswers": [
+      "Energy transmission to the spine"
+    ],
+    "selectedAnswer": "Energy transmission to the spine",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_202102_10",
+    "question": "Factors that should be considered when assessing a patient who has fallen include all of the following, EXCEPT:",
+    "answers": [
+      "the speed of the fall.",
+      "the surface struck.",
+      "the primary impact point.",
+      "the height of the fall."
+    ],
+    "correctAnswers": [
+      "the speed of the fall."
+    ],
+    "selectedAnswer": "the speed of the fall.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_202102_11",
+    "question": "When assessing an elderly patient who fell, it is important to remember that:",
+    "answers": [
+      "bilateral hip fractures usually occur when an elderly person falls.",
+      "any fall in the elderly is considered to be high-energy trauma.",
+      "elderly patients who fall usually have a secondary head injury.",
+      "osteoporosis can cause a fracture as a result of a fall from a standing position."
+    ],
+    "correctAnswers": [
+      "osteoporosis can cause a fracture as a result of a fall from a standing position."
+    ],
+    "selectedAnswer": "osteoporosis can cause a fracture as a result of a fall from a standing position.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_202102_12",
+    "question": "Which of the following statements regarding low-energy penetrating injuries is correct?",
+    "answers": [
+      "Exit wounds are typically easy to locate with low-energy penetrating injuries.",
+      "Internal injuries caused by low-velocity bullets are usually easy to predict.",
+      "The area of injury is usually close to the path the object took through the body.",
+      "It is usually easy to differentiate between an entrance wound and an exit wound."
+    ],
+    "correctAnswers": [
+      "The area of injury is usually close to the path the object took through the body."
+    ],
+    "selectedAnswer": "The area of injury is usually close to the path the object took through the body.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_202102_13",
+    "question": "Internal injuries caused by gunshot wounds are difficult to predict because:",
+    "answers": [
+      "exit wounds caused by the bullet are usually small.",
+      "the bullet may tumble or ricochet within the body.",
+      "the area of damage is usually smaller than the bullet.",
+      "the caliber of the bullet is frequently unknown."
+    ],
+    "correctAnswers": [
+      "the bullet may tumble or ricochet within the body."
+    ],
+    "selectedAnswer": "the bullet may tumble or ricochet within the body.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_202102_14",
+    "question": "The phenomenon of pressure waves emanating from the bullet, causing damage remote from its path, is known as:",
+    "answers": [
+      "cavitation.",
+      "capitation.",
+      "congruent.",
+      "conversion."
+    ],
+    "correctAnswers": [
+      "cavitation."
+    ],
+    "selectedAnswer": "cavitation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_202102_15",
+    "question": "A young male sustained a gunshot wound to the abdomen during an altercation. As your partner is assessing and managing his airway, you should control the obvious bleeding and then:",
+    "answers": [
+      "apply a cervical collar.",
+      "obtain baseline vital signs.",
+      "assess for an exit wound.",
+      "auscultate bowel sounds."
+    ],
+    "correctAnswers": [
+      "assess for an exit wound."
+    ],
+    "selectedAnswer": "obtain baseline vital signs.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_202102_16",
+    "question": "If a person is standing near a building that explodes, which of the following injuries would he or she MOST likely experience as a result of the pressure wave?",
+    "answers": [
+      "Fractured bones",
+      "Impaled objects",
+      "Eardrum rupture",
+      "Severe burns"
+    ],
+    "correctAnswers": [
+      "Eardrum rupture"
+    ],
+    "selectedAnswer": "Eardrum rupture",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_202102_17",
+    "question": "Which of the following interventions is the MOST critical to the outcome of a patient with multisystem trauma?",
+    "answers": [
+      "Intravenous fluid administration",
+      "Early administration of oxygen",
+      "Rapid transport to a trauma center",
+      "Elevation of the lower extremities"
+    ],
+    "correctAnswers": [
+      "Rapid transport to a trauma center"
+    ],
+    "selectedAnswer": "Rapid transport to a trauma center",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_202102_18",
+    "question": "Following a blunt injury to the head, a 22-year-old female is confused and complains of a severe headache and nausea. On the basis of these signs and symptoms, you should be MOST concerned with the possibility of:",
+    "answers": [
+      "spinal cord injury.",
+      "intracranial bleeding.",
+      "a fracture of the skull.",
+      "airway compromise."
+    ],
+    "correctAnswers": [
+      "intracranial bleeding."
+    ],
+    "selectedAnswer": "intracranial bleeding.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_202102_19",
+    "question": "While assessing a young male who was struck in the chest with a steel pipe, you note that his pulse is rapid and irregular. You should be MOST suspicious for:",
+    "answers": [
+      "a lacerated coronary artery.",
+      "traumatic rupture of the aorta.",
+      "bruising of the heart muscle.",
+      "underlying cardiac disease."
+    ],
+    "correctAnswers": [
+      "bruising of the heart muscle."
+    ],
+    "selectedAnswer": "bruising of the heart muscle.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_202102_20",
+    "question": "During your assessment of a patient with a head injury, you note that he opens his eyes when you pinch his trapezius muscle, is mumbling, and has his arms curled in toward his chest. You should assign him a GCS score of:",
+    "answers": [
+      "7.",
+      "8.",
+      "10.",
+      "9."
+    ],
+    "correctAnswers": [
+      "7."
+    ],
+    "selectedAnswer": "7.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

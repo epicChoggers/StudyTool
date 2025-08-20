@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_215487_1",
+    "question": "A 31-year-old female is experiencing an acute asthma attack. She is conscious and alert, but in obvious respiratory distress. After assisting her with her prescribed MDI, you should:",
+    "answers": [
+      "check the drug's expiration date to ensure that it is still current.",
+      "contact medical control and apprise him or her of what you did.",
+      "administer another treatment in 30 seconds if she is still in distress.",
+      "reassess the patient and document her response to the medication."
+    ],
+    "correctAnswers": [
+      "reassess the patient and document her response to the medication."
+    ],
+    "selectedAnswer": "reassess the patient and document her response to the medication.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_215487_2",
+    "question": "After taking diphenhydramine (Benadryl) for an allergic reaction, a person begins experiencing drowsiness and a dry mouth. These findings are an example of a(n):",
+    "answers": [
+      "untoward effect.",
+      "adverse effect.",
+      "therapeutic effect.",
+      "unpredictable effect."
+    ],
+    "correctAnswers": [
+      "adverse effect."
+    ],
+    "selectedAnswer": "adverse effect.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_215487_3",
+    "question": "A medication with antagonistic properties is one that:",
+    "answers": [
+      "enhances the effects of another medication when given in a higher dose.",
+      "produces a cumulative effect when mixed with the same type of medication.",
+      "stimulates receptor sites and allows other chemicals to attach to them.",
+      "blocks receptor sites and prevents other chemicals from attaching to them."
+    ],
+    "correctAnswers": [
+      "blocks receptor sites and prevents other chemicals from attaching to them."
+    ],
+    "selectedAnswer": "blocks receptor sites and prevents other chemicals from attaching to them.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_215487_4",
+    "question": "Aspirin is beneficial to patients suspected of having a heart attack because it:",
+    "answers": [
+      "causes direct coronary vasodilation.",
+      "dissolves the coronary artery clot.",
+      "prevents the aggregation of platelets.",
+      "reduces the associated chest pain."
+    ],
+    "correctAnswers": [
+      "prevents the aggregation of platelets."
+    ],
+    "selectedAnswer": "prevents the aggregation of platelets.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_215487_5",
+    "question": "EMTs arrive at the scene of a patient who was \"found down.\" A family member states that she gave naloxone (Narcan) to the patient before the ambulance arrived. The EMTs should suspect that the patient:",
+    "answers": [
+      "has a low blood glucose level.",
+      "overdosed on an opioid drug.",
+      "has a history of allergic reactions.",
+      "experienced a prolonged seizure."
+    ],
+    "correctAnswers": [
+      "overdosed on an opioid drug."
+    ],
+    "selectedAnswer": "overdosed on an opioid drug.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_215487_6",
+    "question": "How is nitroglycerin usually given by the EMT?",
+    "answers": [
+      "Injected",
+      "Inhaled",
+      "Orally",
+      "Sublingually"
+    ],
+    "correctAnswers": [
+      "Sublingually"
+    ],
+    "selectedAnswer": "Sublingually",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_215487_7",
+    "question": "The process by which medications travel through body tissues until they reach the bloodstream is called:",
+    "answers": [
+      "digestion.",
+      "adsorption.",
+      "absorption.",
+      "suspension."
+    ],
+    "correctAnswers": [
+      "absorption."
+    ],
+    "selectedAnswer": "absorption.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_215487_8",
+    "question": "What medication form does oral glucose come in?",
+    "answers": [
+      "Gel",
+      "Liquid",
+      "Fine powder",
+      "Suspension"
+    ],
+    "correctAnswers": [
+      "Gel"
+    ],
+    "selectedAnswer": "Gel",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_215487_9",
+    "question": "When administering naloxone (Narcan) via the intranasal route, the EMT should administer:",
+    "answers": [
+      "at least 2 mL into each nostril.",
+      "a minimum of 2.5 mg.",
+      "a half dose into each nostril.",
+      "a maximum of 0.5 mL."
+    ],
+    "correctAnswers": [
+      "a half dose into each nostril."
+    ],
+    "selectedAnswer": "at least 2 mL into each nostril.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_215487_10",
+    "question": "When assessing an elderly male who complains of nausea and generalized weakness, you find that he takes atorvastatin (Lipitor) and amlodipine (Norvasc). These medications suggest a history of:",
+    "answers": [
+      "cardiovascular disease.",
+      "reactive airway disease.",
+      "non-insulin-dependent diabetes.",
+      "bacterial infection."
+    ],
+    "correctAnswers": [
+      "cardiovascular disease."
+    ],
+    "selectedAnswer": "cardiovascular disease.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_215487_11",
+    "question": "Which of the following clinical signs would necessitate the administration of naloxone (Narcan) in a suspected narcotic overdose?",
+    "answers": [
+      "Extreme agitation",
+      "Tachycardia",
+      "Hypertension",
+      "Slow respirations"
+    ],
+    "correctAnswers": [
+      "Slow respirations"
+    ],
+    "selectedAnswer": "Slow respirations",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_215487_12",
+    "question": "Which of the following is an example of a rules-based medication error?",
+    "answers": [
+      "The EMT administers a drug that is not approved by the medical director.",
+      "The EMT administers a drug that is contraindicated for the patient.",
+      "The EMT administers the correct drug, but gives it by the wrong route.",
+      "The EMT accidentally gives a higher drug dose than what is indicated."
+    ],
+    "correctAnswers": [
+      "The EMT administers a drug that is not approved by the medical director."
+    ],
+    "selectedAnswer": "The EMT administers a drug that is not approved by the medical director.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_215487_13",
+    "question": "Which of the following is NOT a characteristic of epinephrine?",
+    "answers": [
+      "Dilates passages in the lungs",
+      "Secreted naturally by the adrenal glands",
+      "Decreases heart rate and blood pressure",
+      "Constricts the blood vessels"
+    ],
+    "correctAnswers": [
+      "Decreases heart rate and blood pressure"
+    ],
+    "selectedAnswer": "Decreases heart rate and blood pressure",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_215487_14",
+    "question": "Which of the following is the MOST rapidly acting medication administration route?",
+    "answers": [
+      "Intravenous (IV)",
+      "Sublingual (SL)",
+      "Subcutaneous (SC)",
+      "Intramuscular (IM)"
+    ],
+    "correctAnswers": [
+      "Intravenous (IV)"
+    ],
+    "selectedAnswer": "Intravenous (IV)",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_215487_15",
+    "question": "Which of the following medication routes delivers a drug through the skin over an extended period of time, such as a nitroglycerin or fentanyl patch?",
+    "answers": [
+      "Intraosseous",
+      "Sublingual",
+      "Subcutaneous",
+      "Transcutaneous"
+    ],
+    "correctAnswers": [
+      "Transcutaneous"
+    ],
+    "selectedAnswer": "Transcutaneous",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_215487_16",
+    "question": "Which of the following statements regarding glucose is correct?",
+    "answers": [
+      "Glucose is given to patients who are suspected of being hyperglycemic.",
+      "Glucose is usually administered by the EMT via the intravenous route.",
+      "Glucose is a complex sugar that rapidly absorbs into the bloodstream.",
+      "Glucose is a simple sugar that is readily absorbed by the cells."
+    ],
+    "correctAnswers": [
+      "Glucose is a simple sugar that is readily absorbed by the cells."
+    ],
+    "selectedAnswer": "Glucose is a simple sugar that is readily absorbed by the cells.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_215487_17",
+    "question": "Which of the following statements regarding the epinephrine auto-injector is correct?",
+    "answers": [
+      "The auto-injector delivers epinephrine via the subcutaneous route.",
+      "EMTs do not need physician authorization to use the auto-injector.",
+      "The adult auto-injector delivers 0.5 to 1 mg of epinephrine.",
+      "The epinephrine auto-injector delivers a preset amount of the drug."
+    ],
+    "correctAnswers": [
+      "The epinephrine auto-injector delivers a preset amount of the drug."
+    ],
+    "selectedAnswer": "The epinephrine auto-injector delivers a preset amount of the drug.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_215487_18",
+    "question": "Which of the following statements regarding the metered-dose inhaler (MDI) is correct?",
+    "answers": [
+      "Shaking an MDI prior to use will cause deactivation of the medication.",
+      "An MDI delivers the same amount of medication every time it is used.",
+      "MDIs are most commonly used by patients with cardiovascular disease.",
+      "MDIs are contraindicated for patients with asthma or emphysema."
+    ],
+    "correctAnswers": [
+      "An MDI delivers the same amount of medication every time it is used."
+    ],
+    "selectedAnswer": "An MDI delivers the same amount of medication every time it is used.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_215487_19",
+    "question": "You are dispatched to a movie theater for a 39-year-old female with signs and symptoms of a severe allergic reaction. As you are assessing her, she pulls an epinephrine auto-injector out of her purse and hands it to you. After confirming the drug's name and expiration date, you should:",
+    "answers": [
+      "contact medical control.",
+      "request an ALS ambulance to administer the drug.",
+      "ask her if she takes other medications.",
+      "administer the drug."
+    ],
+    "correctAnswers": [
+      "contact medical control."
+    ],
+    "selectedAnswer": "administer the drug.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_215487_20",
+    "question": "You are treating a middle-aged man with chest discomfort. He has a history of three previous heart attacks and takes nitroglycerin as needed for chest pain. You have standing orders to administer aspirin to patients with suspected cardiac-related chest pain or discomfort. While your partner is preparing to give oxygen to the patient, you should:",
+    "answers": [
+      "confirm that the patient is not allergic to aspirin, give him the appropriate dose of aspirin, and document the time and dose given.",
+      "assist the patient in taking one of his prescribed nitroglycerins, assess his vital signs, and give him aspirin if he is still experiencing chest discomfort.",
+      "contact medical control, apprise him or her of the patient's chief complaint and vital signs, and request permission to give him aspirin.",
+      "ensure that the patient's systolic blood pressure is at least 100 mm Hg because aspirin dilates the blood vessels and can cause a drop in blood pressure."
+    ],
+    "correctAnswers": [
+      "confirm that the patient is not allergic to aspirin, give him the appropriate dose of aspirin, and document the time and dose given."
+    ],
+    "selectedAnswer": "confirm that the patient is not allergic to aspirin, give him the appropriate dose of aspirin, and document the time and dose given.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_215497_1",
+    "question": "A 29-year-old male complains of a severe headache and nausea that has gradually worsened over the past 12 hours. He is conscious, alert, and oriented and tells you that his physician diagnosed him with migraine headaches. He further tells you that he has taken numerous different medications, but none of them seems to help. His blood pressure is 132/74 mm Hg, his pulse is 110 beats/min and strong, and his respirations are 20 breaths/min. Treatment should include:",
+    "answers": [
+      "placing him in a supine position and transporting with lights and siren to a stroke center.",
+      "applying warm compresses to the back of his neck and transporting with lights and siren.",
+      "dimming the lights in the back of the ambulance and transporting without lights and siren.",
+      "assisting him with his migraine medication and transporting without lights and siren."
+    ],
+    "correctAnswers": [
+      "dimming the lights in the back of the ambulance and transporting without lights and siren."
+    ],
+    "selectedAnswer": "dimming the lights in the back of the ambulance and transporting without lights and siren.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_215497_2",
+    "question": "A 40-year-old patient without a history of seizures experiences a generalized (tonic-clonic) seizure. The LEAST likely cause of this seizure is:",
+    "answers": [
+      "intracranial bleeding.",
+      "a brain tumor.",
+      "a serious infection.",
+      "epilepsy."
+    ],
+    "correctAnswers": [
+      "epilepsy."
+    ],
+    "selectedAnswer": "epilepsy.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_215497_3",
+    "question": "A 58-year-old male presents with confusion, right-sided weakness, and slurred speech. His airway is patent, and his breathing is adequate. His wife is present and is very upset. Which of the following has the MOST immediately priority?",
+    "answers": [
+      "Documenting all of his current medications",
+      "Administering glucose to rule out hypoglycemia",
+      "Obtaining a complete set of baseline vital signs",
+      "Asking his wife when she noticed the symptoms"
+    ],
+    "correctAnswers": [
+      "Asking his wife when she noticed the symptoms"
+    ],
+    "selectedAnswer": "Asking his wife when she noticed the symptoms",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_215497_4",
+    "question": "An area of swelling or enlargement in a weakened arterial wall is called:",
+    "answers": [
+      "an embolism.",
+      "a thrombus.",
+      "atherosclerosis.",
+      "an aneurysm."
+    ],
+    "correctAnswers": [
+      "an aneurysm."
+    ],
+    "selectedAnswer": "an aneurysm.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_215497_5",
+    "question": "A patient who is experiencing aphasia is:",
+    "answers": [
+      "unable to produce or understand speech.",
+      "experiencing a right hemispheric stroke.",
+      "not able to swallow without choking.",
+      "usually conscious but has slurred speech."
+    ],
+    "correctAnswers": [
+      "unable to produce or understand speech."
+    ],
+    "selectedAnswer": "unable to produce or understand speech.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_215497_6",
+    "question": "A patient who is possibly experiencing a stroke is NOT eligible for thrombolytic (fibrinolytic) therapy if he or she:",
+    "answers": [
+      "has a GCS score that is less than 8.",
+      "has bleeding within the brain.",
+      "has had a prior heart attack.",
+      "is older than 60 years of age."
+    ],
+    "correctAnswers": [
+      "has bleeding within the brain."
+    ],
+    "selectedAnswer": "has bleeding within the brain.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_215497_7",
+    "question": "A transient ischemic attack (TIA) occurs when:",
+    "answers": [
+      "a small clot in a cerebral artery causes temporary symptoms.",
+      "a small cerebral artery ruptures and causes minimal damage.",
+      "medications are given to dissolve a cerebral blood clot.",
+      "signs and symptoms resolve spontaneously within 48 hours."
+    ],
+    "correctAnswers": [
+      "a small clot in a cerebral artery causes temporary symptoms."
+    ],
+    "selectedAnswer": "a small clot in a cerebral artery causes temporary symptoms.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_215497_8",
+    "question": "Components of the Cincinnati Prehospital Stroke Scale include:",
+    "answers": [
+      "arm drift, speech, and facial droop.",
+      "speech, pupil reaction, and memory.",
+      "arm drift, memory, and grip strength.",
+      "facial droop, speech, and pupil size."
+    ],
+    "correctAnswers": [
+      "arm drift, speech, and facial droop."
+    ],
+    "selectedAnswer": "arm drift, speech, and facial droop.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_215497_9",
+    "question": "During the primary assessment of a semiconscious 70-year-old female, you should:",
+    "answers": [
+      "ask family members if the patient has a history of stroke.",
+      "immediately determine the patient's blood glucose level.",
+      "insert a nasopharyngeal airway and assist ventilations.",
+      "ensure a patent airway and support ventilation as needed."
+    ],
+    "correctAnswers": [
+      "ensure a patent airway and support ventilation as needed."
+    ],
+    "selectedAnswer": "ensure a patent airway and support ventilation as needed.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_215497_10",
+    "question": "Febrile seizures:",
+    "answers": [
+      "occur when a child's fever rises slowly.",
+      "are usually benign but should be evaluated.",
+      "are also referred to as absence seizures.",
+      "often result in permanent brain damage."
+    ],
+    "correctAnswers": [
+      "are usually benign but should be evaluated."
+    ],
+    "selectedAnswer": "are usually benign but should be evaluated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_215497_11",
+    "question": "Individuals with chronic alcoholism are predisposed to intracranial bleeding and hypoglycemia secondary to abnormalities in the:",
+    "answers": [
+      "liver.",
+      "pancreas.",
+      "kidneys.",
+      "brain."
+    ],
+    "correctAnswers": [
+      "liver."
+    ],
+    "selectedAnswer": "liver.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_215497_12",
+    "question": "Law enforcement has summoned you to a nightclub, where a 22-year-old female was found unconscious in an adjacent alley. Your primary assessment reveals that her respirations are rapid and shallow and her pulse is rapid and weak. She is wearing a medical alert bracelet that identifies her as an epileptic. There is an empty bottle of vodka next to the patient. You should:",
+    "answers": [
+      "apply oxygen via a nonrebreathing mask, place her on her left side, and transport.",
+      "place a bite block in her mouth in case she has a seizure and transport at once.",
+      "assist ventilations, perform a rapid exam, and prepare for immediate transport.",
+      "apply oxygen via nonrebreathing mask and transport her for a blood-alcohol test."
+    ],
+    "correctAnswers": [
+      "assist ventilations, perform a rapid exam, and prepare for immediate transport."
+    ],
+    "selectedAnswer": "assist ventilations, perform a rapid exam, and prepare for immediate transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_215497_13",
+    "question": "Status epilepticus is characterized by:",
+    "answers": [
+      "profound tachycardia and total muscle flaccidity.",
+      "an absence seizure that is not preceded by an aura.",
+      "prolonged seizures without a return of consciousness.",
+      "generalized seizures that last less than 5 minutes."
+    ],
+    "correctAnswers": [
+      "prolonged seizures without a return of consciousness."
+    ],
+    "selectedAnswer": "prolonged seizures without a return of consciousness.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_215497_14",
+    "question": "The left cerebral hemisphere controls:",
+    "answers": [
+      "the right side of the body.",
+      "the right side of the face.",
+      "heart rate and pupil reaction.",
+      "breathing and blood pressure."
+    ],
+    "correctAnswers": [
+      "the right side of the body."
+    ],
+    "selectedAnswer": "the right side of the body.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_215497_15",
+    "question": "The most basic functions of the body, such as breathing, blood pressure, and swallowing, are controlled by the:",
+    "answers": [
+      "cerebellum.",
+      "brain stem.",
+      "cerebral cortex.",
+      "cerebrum."
+    ],
+    "correctAnswers": [
+      "brain stem."
+    ],
+    "selectedAnswer": "brain stem.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_215497_16",
+    "question": "The MOST significant risk factor for a hemorrhagic stroke is:",
+    "answers": [
+      "heavy exertion.",
+      "diabetes mellitus.",
+      "severe stress.",
+      "hypertension."
+    ],
+    "correctAnswers": [
+      "hypertension."
+    ],
+    "selectedAnswer": "hypertension.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_215497_17",
+    "question": "When assessing for arm drift of a patient with a suspected stroke, you should:",
+    "answers": [
+      "ask the patient to close his or her eyes during the assessment.",
+      "observe movement of the arms for approximately 2 minutes.",
+      "ask the patient to hold his or her arms up with the palms down.",
+      "expect to see one arm slowly drift down to the patient's side."
+    ],
+    "correctAnswers": [
+      "ask the patient to close his or her eyes during the assessment."
+    ],
+    "selectedAnswer": "ask the patient to close his or her eyes during the assessment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_215497_18",
+    "question": "When you are obtaining medical history from the family of a suspected stroke patient, it is MOST important to determine:",
+    "answers": [
+      "the patient's overall medication compliance.",
+      "if there is a family history of a stroke.",
+      "when the patient last appeared normal.",
+      "if the patient has been hospitalized before."
+    ],
+    "correctAnswers": [
+      "when the patient last appeared normal."
+    ],
+    "selectedAnswer": "when the patient last appeared normal.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_215497_19",
+    "question": "Which of the following MOST accurately describes the cause of an ischemic stroke?",
+    "answers": [
+      "Acute atherosclerotic disease",
+      "Rupture of a cerebral artery",
+      "Blockage of a cerebral artery",
+      "Narrowing of a carotid artery"
+    ],
+    "correctAnswers": [
+      "Blockage of a cerebral artery"
+    ],
+    "selectedAnswer": "Blockage of a cerebral artery",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_215497_20",
+    "question": "You are caring for a 70-year-old female with signs and symptoms of an acute stroke. She is conscious, has secretions in her mouth, is breathing at a normal rate with adequate depth, and has an oxygen saturation of 96%. You should:",
+    "answers": [
+      "suction her oropharynx and transport immediately.",
+      "assist her ventilations with a bag-valve mask.",
+      "administer one tube of oral glucose and transport.",
+      "insert an oral airway, apply oxygen, and transport."
+    ],
+    "correctAnswers": [
+      "suction her oropharynx and transport immediately."
+    ],
+    "selectedAnswer": "suction her oropharynx and transport immediately.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]
