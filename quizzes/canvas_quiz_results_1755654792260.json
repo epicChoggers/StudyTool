@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_215488_1",
+    "question": "A 22-year-old female patient is complaining of dyspnea and numbness and tingling in her hands and feet after an argument with her fiancé. Her respirations are 40 breaths/min. You should:",
+    "answers": [
+      "request a paramedic to give her a sedative.",
+      "have her breathe into a paper or plastic bag.",
+      "provide reassurance and give oxygen as needed.",
+      "position her on her left side and transport at once."
+    ],
+    "correctAnswers": [
+      "provide reassurance and give oxygen as needed."
+    ],
+    "selectedAnswer": "provide reassurance and give oxygen as needed.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_215488_2",
+    "question": "A 30-year-old male presents with acute shortness of breath, widespread hives, and facial swelling. He denies any past medical history and takes no medications. During your assessment, you hear wheezing over all lung fields. His blood pressure is 90/50 mm Hg, and his heart rate is 110 beats/min. In addition to giving him high-flow oxygen, the MOST important treatment for this patient is:",
+    "answers": [
+      "epinephrine.",
+      "an antihistamine.",
+      "albuterol.",
+      "a beta-antagonist."
+    ],
+    "correctAnswers": [
+      "epinephrine."
+    ],
+    "selectedAnswer": "epinephrine.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_215488_3",
+    "question": "A 59-year-old male with a history of emphysema complains of an acute worsening of his dyspnea and pleuritic chest pain following a forceful cough. Your assessment reveals that he has a barrel-shaped chest, unilaterally diminished breath sounds, and tachycardia. What is the MOST likely cause of this patient's condition?",
+    "answers": [
+      "Rupture of the diaphragm",
+      "Exacerbation of his COPD",
+      "Spontaneous pneumothorax",
+      "Acute pulmonary embolism"
+    ],
+    "correctAnswers": [
+      "Spontaneous pneumothorax"
+    ],
+    "selectedAnswer": "Spontaneous pneumothorax",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_215488_4",
+    "question": "A 60-year-old male presents with acute respiratory distress. He is conscious and alert, has pink and dry skin, and has respirations of 22 breaths/min with adequate depth. Which of the following treatments is MOST appropriate for this patient?",
+    "answers": [
+      "Oxygen via a nasal cannula, vital signs, and prompt transport to the hospital",
+      "Oxygen via nonrebreathing mask and a focused secondary assessment",
+      "Positive-pressure ventilations and immediate transport to the closest hospital",
+      "Assisted ventilation with a bag-valve mask and a head-to-toe exam"
+    ],
+    "correctAnswers": [
+      "Oxygen via nonrebreathing mask and a focused secondary assessment"
+    ],
+    "selectedAnswer": "Oxygen via nonrebreathing mask and a focused secondary assessment",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_215488_5",
+    "question": "A 62-year-old man with a history of congestive heart failure presents with severe respiratory distress and with an oxygen saturation of 82%. When you auscultate his lungs, you hear widespread rales. He is conscious and alert, is able to follow simple commands, and can only speak in two- to three-word sentences at a time. You should:",
+    "answers": [
+      "place him in a position of comfort, deliver oxygen via nasal cannula, and closely monitor his breathing.",
+      "apply a CPAP device, monitor his blood pressure, and observe him for signs of improvement or deterioration.",
+      "place him in a supine position and assist his ventilations with a bag-valve mask and high-flow oxygen.",
+      "force fluid from his alveoli by hyperventilating him with a bag-valve mask at a rate of at least 20 breaths/min."
+    ],
+    "correctAnswers": [
+      "apply a CPAP device, monitor his blood pressure, and observe him for signs of improvement or deterioration."
+    ],
+    "selectedAnswer": "place him in a supine position and assist his ventilations with a bag-valve mask and high-flow oxygen.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_215488_6",
+    "question": "A conscious and alert 29-year-old female with a history of asthma complains of difficulty breathing that began after her morning jog. The temperature outside is 40°F (5°C). On exam, you hear bilateral expiratory wheezing. After providing supplemental oxygen, you should:",
+    "answers": [
+      "contact medical control and administer an antihistamine.",
+      "determine if she has been prescribed a beta-agonist inhaler.",
+      "place her in a recumbent position to facilitate breathing.",
+      "call medical control and ask how to proceed with treatment."
+    ],
+    "correctAnswers": [
+      "determine if she has been prescribed a beta-agonist inhaler."
+    ],
+    "selectedAnswer": "determine if she has been prescribed a beta-agonist inhaler.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_215488_7",
+    "question": "Acute pulmonary edema would MOST likely develop as the result of:",
+    "answers": [
+      "toxic chemical inhalation.",
+      "severe hyperventilation.",
+      "an upper airway infection.",
+      "right-sided heart failure."
+    ],
+    "correctAnswers": [
+      "toxic chemical inhalation."
+    ],
+    "selectedAnswer": "right-sided heart failure.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_215488_8",
+    "question": "Albuterol is a generic name for:",
+    "answers": [
+      "Atrovent.",
+      "Singulair.",
+      "Ventolin.",
+      "Alupent."
+    ],
+    "correctAnswers": [
+      "Ventolin."
+    ],
+    "selectedAnswer": "Ventolin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_215488_9",
+    "question": "Alkalosis is a condition that occurs when:",
+    "answers": [
+      "slow, shallow breathing eliminates too much carbon dioxide.",
+      "the level of carbon dioxide in the blood increases.",
+      "blood acidity is reduced by excessive breathing.",
+      "dangerous acids accumulate in the bloodstream."
+    ],
+    "correctAnswers": [
+      "blood acidity is reduced by excessive breathing."
+    ],
+    "selectedAnswer": "blood acidity is reduced by excessive breathing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_215488_10",
+    "question": "Asthma is caused by a response of the:",
+    "answers": [
+      "cardiovascular system.",
+      "immune system.",
+      "endocrine system.",
+      "respiratory system."
+    ],
+    "correctAnswers": [
+      "immune system."
+    ],
+    "selectedAnswer": "immune system.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_215488_11",
+    "question": "Dyspnea is MOST accurately defined as:",
+    "answers": [
+      "shortness of breath or difficulty breathing.",
+      "a complete cessation of respiratory effort.",
+      "labored breathing with reduced tidal volume.",
+      "a marked increase in the exhalation phase."
+    ],
+    "correctAnswers": [
+      "shortness of breath or difficulty breathing."
+    ],
+    "selectedAnswer": "shortness of breath or difficulty breathing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_215488_12",
+    "question": "In order for efficient pulmonary gas exchange to occur:",
+    "answers": [
+      "oxygen and carbon dioxide must be able to freely diffuse across the alveolar-capillary membrane.",
+      "the pulmonary capillaries must be completely constricted and the alveoli must be collapsed.",
+      "there must be low quantities of pulmonary surfactant to allow for full alveolar expansion.",
+      "the percentage of inhaled carbon dioxide must exceed the percentage of inhaled oxygen."
+    ],
+    "correctAnswers": [
+      "oxygen and carbon dioxide must be able to freely diffuse across the alveolar-capillary membrane."
+    ],
+    "selectedAnswer": "oxygen and carbon dioxide must be able to freely diffuse across the alveolar-capillary membrane.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_215488_13",
+    "question": "The respiratory distress that accompanies emphysema is caused by:",
+    "answers": [
+      "acute fluid accumulation in the alveoli.",
+      "repeated exposure to cigarette smoke.",
+      "massive constriction of the bronchioles.",
+      "chronic stretching of the alveolar walls."
+    ],
+    "correctAnswers": [
+      "chronic stretching of the alveolar walls."
+    ],
+    "selectedAnswer": "chronic stretching of the alveolar walls.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_215488_14",
+    "question": "When administering supplemental oxygen to a hypoxemic patient with a chronic lung disease, you should:",
+    "answers": [
+      "adjust the flow rate accordingly until you see symptom improvement, but be prepared to assist his or her ventilations.",
+      "avoid positive-pressure ventilation because the majority of patients with chronic lung disease are at increased risk for lung trauma.",
+      "begin with a low oxygen flow rate, even if the patient is unresponsive, because high-flow oxygen may depress his or her breathing.",
+      "recall that most patients with chronic lung diseases are stimulated to breathe by increased carbon dioxide levels."
+    ],
+    "correctAnswers": [
+      "adjust the flow rate accordingly until you see symptom improvement, but be prepared to assist his or her ventilations."
+    ],
+    "selectedAnswer": "adjust the flow rate accordingly until you see symptom improvement, but be prepared to assist his or her ventilations.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_215488_15",
+    "question": "Which of the following conditions would be LEAST likely to result in hypoxia?",
+    "answers": [
+      "Pulmonary edema",
+      "Pleural effusion",
+      "Narcotic overdose",
+      "Severe anxiety"
+    ],
+    "correctAnswers": [
+      "Severe anxiety"
+    ],
+    "selectedAnswer": "Pulmonary edema",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_215488_16",
+    "question": "Which of the following statements regarding anaphylaxis is correct?",
+    "answers": [
+      "Anaphylaxis is characterized by airway swelling and hypotension.",
+      "The signs of anaphylaxis are caused by widespread vasoconstriction.",
+      "Patients with asthma are at lower risk of developing anaphylaxis.",
+      "Most anaphylactic reactions occur within 60 minutes of exposure."
+    ],
+    "correctAnswers": [
+      "Anaphylaxis is characterized by airway swelling and hypotension."
+    ],
+    "selectedAnswer": "Anaphylaxis is characterized by airway swelling and hypotension.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_215488_17",
+    "question": "Which of the following statements regarding pulse oximetry is correct?",
+    "answers": [
+      "The pulse oximeter is a valuable assessment tool that measures the percentage of red blood cells that contain hemoglobin molecules.",
+      "Pulse oximetry measures the percentage of hemoglobin that is saturated with oxygen but does not measure the actual hemoglobin content of the blood.",
+      "Most otherwise healthy patients can maintain adequate oxygenation and good skin color with oxygen saturation readings as low as 70% to 80%.",
+      "Caution must be exercised when using the pulse oximeter on a patient with carbon monoxide poisoning because falsely low readings are common."
+    ],
+    "correctAnswers": [
+      "Pulse oximetry measures the percentage of hemoglobin that is saturated with oxygen but does not measure the actual hemoglobin content of the blood."
+    ],
+    "selectedAnswer": "Pulse oximetry measures the percentage of hemoglobin that is saturated with oxygen but does not measure the actual hemoglobin content of the blood.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_215488_18",
+    "question": "While auscultating an elderly woman's breath sounds, you hear low-pitched \"rattling\" sounds at the bases of both of her lungs. This finding is MOST consistent with which of the following conditions?",
+    "answers": [
+      "Widespread atelectasis",
+      "Aspiration pneumonia",
+      "Early pulmonary edema",
+      "Acute asthma attack"
+    ],
+    "correctAnswers": [
+      "Aspiration pneumonia"
+    ],
+    "selectedAnswer": "Early pulmonary edema",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_215488_19",
+    "question": "You are assisting an asthma patient with his prescribed metered-dose inhaler. After the patient exhales, and before inhaling, the patient should put his or her lips around the inhaler, take a deep breath, and depress the inhale. You should:",
+    "answers": [
+      "instruct him to hold his breath for as long as he comfortably can.",
+      "allow him to breathe room air and assess his oxygen saturation.",
+      "immediately reapply the oxygen mask and reassess his condition.",
+      "advise him to exhale forcefully to ensure medication absorption."
+    ],
+    "correctAnswers": [
+      "instruct him to hold his breath for as long as he comfortably can."
+    ],
+    "selectedAnswer": "instruct him to hold his breath for as long as he comfortably can.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_215488_20",
+    "question": "You are dispatched to an apartment complex where a 21-year-old female has apparently overdosed on several narcotic medications. She is semiconscious and has slow, shallow respirations. You should:",
+    "answers": [
+      "insert an oropharyngeal airway and perform oral suctioning.",
+      "place her in the recovery position and monitor for vomiting.",
+      "insert a nasopharyngeal airway and begin assisted ventilation.",
+      "apply oxygen via a nonrebreathing mask and transport at once."
+    ],
+    "correctAnswers": [
+      "insert a nasopharyngeal airway and begin assisted ventilation."
+    ],
+    "selectedAnswer": "apply oxygen via a nonrebreathing mask and transport at once.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

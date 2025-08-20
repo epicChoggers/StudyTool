@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_213298_1",
+    "question": "A 19-year-old male complains of \"not feeling right.\" His insulin and a syringe are on a nearby table. The patient says he thinks he took his insulin and cannot remember whether he ate. He is also unable to tell you the time or what day it is. The glucometer reads \"error\" after several attempts to assess his blood glucose level. You should:",
+    "answers": [
+      "contact medical control and administer oral glucose.",
+      "assist him with his insulin injection and reassess him.",
+      "transport only with close, continuous monitoring en route.",
+      "request a paramedic ambulance to administer IV glucose."
+    ],
+    "correctAnswers": [
+      "contact medical control and administer oral glucose."
+    ],
+    "selectedAnswer": "transport only with close, continuous monitoring en route.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_213298_2",
+    "question": "A 28-year-old female patient is found to be responsive to verbal stimuli only. Her roommate states that she was recently diagnosed with type 1 diabetes and has had difficulty controlling her blood sugar level. She further tells you that the patient has been urinating excessively and has progressively worsened over the last 24 to 36 hours. On the basis of this patient's clinical presentation, you should suspect that she:",
+    "answers": [
+      "is significantly hyperglycemic.",
+      "has overdosed on her insulin.",
+      "has a low blood glucose level.",
+      "has a urinary tract infection."
+    ],
+    "correctAnswers": [
+      "is significantly hyperglycemic."
+    ],
+    "selectedAnswer": "has a low blood glucose level.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_213298_3",
+    "question": "A 29-year-old female presents with confusion and disorientation. Her respirations are rapid and shallow, and her pulse is 120 beats/min and thready. She is markedly diaphoretic and has an oxygen saturation of 89%. You should:",
+    "answers": [
+      "treat her for hyperglycemia.",
+      "administer oral glucose.",
+      "provide ventilatory support.",
+      "transport immediately."
+    ],
+    "correctAnswers": [
+      "provide ventilatory support."
+    ],
+    "selectedAnswer": "provide ventilatory support.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_213298_4",
+    "question": "A 31-year-old male with a history of diabetes had a seizure that stopped prior to EMS arrival. He is unresponsive and has rapid, shallow breathing. His pulse is rapid and weak, and his skin is cyanotic. The EMT should:",
+    "answers": [
+      "place a thin layer of oral glucose between his cheek and gums.",
+      "assist the patient's ventilations with a bag-valve mask.",
+      "administer oxygen by nasal cannula and assess his blood glucose level.",
+      "position the patient on his side and give oxygen via nonrebreathing mask."
+    ],
+    "correctAnswers": [
+      "assist the patient's ventilations with a bag-valve mask."
+    ],
+    "selectedAnswer": "assist the patient's ventilations with a bag-valve mask.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_213298_5",
+    "question": "A 37-year-old female with a history of diabetes presents with excessive urination and weakness of 2 days' duration. Her blood glucose level reads 320 mg/dL. If this patient's condition is not promptly treated, she will MOST likely develop:",
+    "answers": [
+      "irreversible renal failure.",
+      "severe insulin shock.",
+      "hypoxia and overhydration.",
+      "acidosis and dehydration."
+    ],
+    "correctAnswers": [
+      "acidosis and dehydration."
+    ],
+    "selectedAnswer": "acidosis and dehydration.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_213298_6",
+    "question": "A 42-year-old male is found unresponsive on his couch by a neighbor. During your assessment, you find no signs of trauma, and the patient's blood glucose level is 75 mg/dL. His blood pressure is 168/98 mm Hg, his heart rate is 45 beats/min and bounding, and his respirations are 8 breaths/min and irregular. The patient is wearing a medical alert bracelet that states he has hemophilia. You should:",
+    "answers": [
+      "suspect that he has internal bleeding and is in shock, administer high-flow oxygen, and transport at once.",
+      "suspect that he has intracranial bleeding, assist his ventilations, and transport rapidly to an appropriate hospital.",
+      "administer high-flow oxygen, perform a detailed secondary assessment at the scene, and transport promptly.",
+      "administer oxygen via a nonrebreathing mask, apply oral glucose in between his cheek and gum, and transport."
+    ],
+    "correctAnswers": [
+      "suspect that he has intracranial bleeding, assist his ventilations, and transport rapidly to an appropriate hospital."
+    ],
+    "selectedAnswer": "administer high-flow oxygen, perform a detailed secondary assessment at the scene, and transport promptly.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_213298_7",
+    "question": "A 50-year-old man with diabetes has an altered mental status and is unable to tell you when he last ate or took his insulin. Your glucometer keeps malfunctioning and you are unable to determine his blood glucose level. Which of the following clinical signs would MOST likely lead you to the correct diagnosis?",
+    "answers": [
+      "Rapid and weak pulse",
+      "Hypotension and tachycardia",
+      "Restlessness and irritability",
+      "Deep and rapid breathing"
+    ],
+    "correctAnswers": [
+      "Deep and rapid breathing"
+    ],
+    "selectedAnswer": "Hypotension and tachycardia",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_213298_8",
+    "question": "A 66-year-old woman experienced a sudden onset of difficulty breathing. She has a history of type 2 diabetes and deep vein thrombosis (DVT). On the basis of her medical history, which of the following should the EMT suspect?",
+    "answers": [
+      "Pulmonary embolism",
+      "Severe hypoglycemia",
+      "Diabetic ketoacidosis",
+      "Congestive heart failure"
+    ],
+    "correctAnswers": [
+      "Pulmonary embolism"
+    ],
+    "selectedAnswer": "Pulmonary embolism",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_213298_9",
+    "question": "A 75-year-old male with type 1 diabetes presents with chest pain and a general feeling of weakness. He tells you that he took his insulin today and ate a regular meal approximately 2 hours ago. You should treat this patient as though he is experiencing:",
+    "answers": [
+      "hypoglycemia",
+      "hyperglycemia.",
+      "a heart attack.",
+      "an acute stroke."
+    ],
+    "correctAnswers": [
+      "a heart attack."
+    ],
+    "selectedAnswer": "hypoglycemia",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_213298_10",
+    "question": "A man finds his 59-year-old wife unconscious on the couch. He states that she takes medications for type 2 diabetes. He further tells you that his wife has been ill recently and has not eaten for the past 24 hours. Your assessment reveals that the patient is unresponsive. You should:",
+    "answers": [
+      "administer 100% oxygen via a nonrebreathing mask.",
+      "assess for the presence of a medical identification tag.",
+      "open and maintain her airway and assess breathing.",
+      "administer oral glucose between her cheek and gum."
+    ],
+    "correctAnswers": [
+      "open and maintain her airway and assess breathing."
+    ],
+    "selectedAnswer": "open and maintain her airway and assess breathing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_213298_11",
+    "question": "Classic signs and symptoms of hypoglycemia include:",
+    "answers": [
+      "warm, dry skin; hunger; abdominal pain; and deep, slow respirations.",
+      "cool, clammy skin; weakness; tachycardia; and rapid respirations.",
+      "cold, clammy skin; bradycardia; hunger; and deep, rapid respirations.",
+      "warm, dry skin; irritability; bradycardia; and rapid respirations."
+    ],
+    "correctAnswers": [
+      "cool, clammy skin; weakness; tachycardia; and rapid respirations."
+    ],
+    "selectedAnswer": "cool, clammy skin; weakness; tachycardia; and rapid respirations.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_213298_12",
+    "question": "Common signs and symptoms of severe hyperglycemia include all of the following, EXCEPT:",
+    "answers": [
+      "cool, clammy skin.",
+      "rapid, thready pulse.",
+      "warm, dry skin.",
+      "acetone breath odor."
+    ],
+    "correctAnswers": [
+      "cool, clammy skin."
+    ],
+    "selectedAnswer": "cool, clammy skin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_213298_13",
+    "question": "Diabetic ketoacidosis occurs when:",
+    "answers": [
+      "the cells rapidly metabolize glucose.",
+      "the pancreas produces excess insulin.",
+      "blood glucose levels rapidly fall.",
+      "insulin is not available in the body."
+    ],
+    "correctAnswers": [
+      "insulin is not available in the body."
+    ],
+    "selectedAnswer": "insulin is not available in the body.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_213298_14",
+    "question": "During your assessment of a 70-year-old woman, she tells you that she takes blood-thinning medication and has to wear compression stockings around her legs. This information should make you suspect that she has:",
+    "answers": [
+      "sickle-cell disease",
+      "hemophilia",
+      "severe hyperglycemia.",
+      "deep vein thrombosis."
+    ],
+    "correctAnswers": [
+      "deep vein thrombosis."
+    ],
+    "selectedAnswer": "deep vein thrombosis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_213298_15",
+    "question": "Excessive eating caused by cellular \"hunger\" is called:",
+    "answers": [
+      "dyspepsia.",
+      "dysphasia.",
+      "polydipsia.",
+      "polyphagia."
+    ],
+    "correctAnswers": [
+      "polyphagia."
+    ],
+    "selectedAnswer": "polyphagia.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_213298_16",
+    "question": "In contrast to hypoglycemia, hyperglycemia:",
+    "answers": [
+      "is a rapidly developing metabolic disturbance.",
+      "commonly results in excess water retention.",
+      "can only be corrected in the hospital setting.",
+      "is rapidly reversible if oral glucose is given."
+    ],
+    "correctAnswers": [
+      "can only be corrected in the hospital setting."
+    ],
+    "selectedAnswer": "commonly results in excess water retention.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_213298_17",
+    "question": "In contrast to type 1 diabetes, type 2 diabetes:",
+    "answers": [
+      "is caused by a complete lack of insulin in the body.",
+      "is commonly diagnosed in children and young adults.",
+      "is caused by resistance to insulin at the cellular level.",
+      "occurs when antibodies attack insulin-producing cells."
+    ],
+    "correctAnswers": [
+      "is caused by resistance to insulin at the cellular level."
+    ],
+    "selectedAnswer": "is caused by resistance to insulin at the cellular level.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_213298_18",
+    "question": "In general, oral glucose should be given to any patient who:",
+    "answers": [
+      "has an altered mental status and a history of diabetes.",
+      "is unresponsive, even in the absence of a history of diabetes.",
+      "has a blood glucose level that is less than 100 mg/dL.",
+      "has documented hypoglycemia and an absent gag reflex."
+    ],
+    "correctAnswers": [
+      "has an altered mental status and a history of diabetes."
+    ],
+    "selectedAnswer": "has an altered mental status and a history of diabetes.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_213298_19",
+    "question": "Ketone production is the result of:",
+    "answers": [
+      "fat metabolization when glucose is unavailable.",
+      "rapid entry of glucose across the cell membrane.",
+      "blood glucose levels higher than 120 mg/dL.",
+      "acidosis when blood glucose levels are low."
+    ],
+    "correctAnswers": [
+      "fat metabolization when glucose is unavailable."
+    ],
+    "selectedAnswer": "fat metabolization when glucose is unavailable.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_213298_20",
+    "question": "Patients with uncontrolled diabetes experience polyuria because:",
+    "answers": [
+      "excess glucose in the blood is excreted by the kidneys.",
+      "low blood glucose levels result in cellular dehydration.",
+      "they drink excess amounts of water due to dehydration.",
+      "high blood sugar levels cause permanent kidney damage."
+    ],
+    "correctAnswers": [
+      "excess glucose in the blood is excreted by the kidneys."
+    ],
+    "selectedAnswer": "excess glucose in the blood is excreted by the kidneys.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_209325_1",
+    "question": "A 30-year-old female presents with redness, inflammation, and pain to her left eye. During your assessment, you note that she is having difficulty keeping her eyes open. You should suspect that she is experiencing:",
+    "answers": [
+      "a detached retina.",
+      "conjunctivitis.",
+      "acute retinitis.",
+      "a corneal abrasion."
+    ],
+    "correctAnswers": [
+      "conjunctivitis."
+    ],
+    "selectedAnswer": "a corneal abrasion.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_209325_2",
+    "question": "A 30-year-old female was robbed and assaulted as she was leaving a nightclub. She has massive facial trauma and slow, gurgling respirations. As your partner manually stabilizes her head, you should:",
+    "answers": [
+      "visualize her mouth for obvious wounds.",
+      "apply oxygen via a nonrebreathing mask.",
+      "suction her oropharynx.",
+      "begin immediate ventilatory assistance."
+    ],
+    "correctAnswers": [
+      "suction her oropharynx."
+    ],
+    "selectedAnswer": "suction her oropharynx.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_209325_3",
+    "question": "A 39-year-old female experienced a severe closed head injury. She is unresponsive with her eyes slightly open; her pupils are bilaterally dilated and slow to react. In addition to managing problems with airway, breathing, and circulation, you should:",
+    "answers": [
+      "inspect her eyes and gently remove impaled objects.",
+      "close her eyes and cover them with a moist dressing.",
+      "secure her eyes open so you can reassess her pupils.",
+      "irrigate her eyes with water to prevent mucosal drying."
+    ],
+    "correctAnswers": [
+      "close her eyes and cover them with a moist dressing."
+    ],
+    "selectedAnswer": "close her eyes and cover them with a moist dressing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_209325_4",
+    "question": "A 40-year-old male was in his woodworking shop when he felt a sudden, sharp pain in his left eye. Your assessment reveals a small splinter of wood embedded in his cornea. You should:",
+    "answers": [
+      "cover his right eye and flush the left eye with saline.",
+      "remove the object with a cotton-tipped applicator.",
+      "scrape the splinter away with moist, sterile gauze.",
+      "cover both of his eyes and transport to the hospital."
+    ],
+    "correctAnswers": [
+      "cover both of his eyes and transport to the hospital."
+    ],
+    "selectedAnswer": "cover both of his eyes and transport to the hospital.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_209325_5",
+    "question": "A 44-year-old male sustained a laceration to his left ear during a minor car accident. Your assessment reveals minimal bleeding. Appropriate care for this injury includes:",
+    "answers": [
+      "packing the ear with sterile gauze pads.",
+      "covering the wound with a moist dressing.",
+      "padding between the ear and the scalp.",
+      "applying a tight pressure dressing."
+    ],
+    "correctAnswers": [
+      "padding between the ear and the scalp."
+    ],
+    "selectedAnswer": "padding between the ear and the scalp.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_209325_6",
+    "question": "A 50-year-old male was splashed in the eyes with radiator fluid when he was working on his car. During your assessment, he tells you that he wears soft contact lenses. You should:",
+    "answers": [
+      "leave the contact lenses in place and cover both eyes with a dry dressing.",
+      "remove the contact lenses and cover his eyes with a dry, sterile dressing.",
+      "leave the contact lenses in place and flush his eyes with sterile water.",
+      "carefully remove the contact lenses and then irrigate his eyes with saline."
+    ],
+    "correctAnswers": [
+      "carefully remove the contact lenses and then irrigate his eyes with saline."
+    ],
+    "selectedAnswer": "carefully remove the contact lenses and then irrigate his eyes with saline.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_209325_7",
+    "question": "A 52-year-old unrestrained female struck the steering wheel with her face when her truck collided with another vehicle. She has obvious swelling to her face and several dislodged teeth. A visual exam of her mouth reveals minimal bleeding. She is conscious and alert with a blood pressure of 130/80 mm Hg, a pulse of 110 beats/min, and respirations of 22 breaths/min with adequate tidal volume. You should:",
+    "answers": [
+      "fully immobilize her spine, irrigate her empty tooth sockets, attempt to locate the dislodged teeth, and transport.",
+      "assist ventilations with a BVM device, immobilize her spine, suction her oropharynx for 30 seconds, and transport.",
+      "fully immobilize her spine, attempt to locate the dislodged teeth, suction as needed, and transport.",
+      "apply oxygen via a nonrebreathing mask, suction her airway as needed, disregard the dislodged teeth, and transport."
+    ],
+    "correctAnswers": [
+      "fully immobilize her spine, attempt to locate the dislodged teeth, suction as needed, and transport."
+    ],
+    "selectedAnswer": "fully immobilize her spine, attempt to locate the dislodged teeth, suction as needed, and transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_209325_8",
+    "question": "A 6-year-old female was riding her bicycle and struck a clothesline with her throat. She is breathing but with obvious difficulty. Your assessment reveals a crackling sensation in the soft tissues of her neck and facial cyanosis. In addition to the appropriate airway management, the intervention that will most likely improve her chance of survival is:",
+    "answers": [
+      "requesting a paramedic ambulance.",
+      "rapidly transporting her to the hospital.",
+      "quickly immobilizing her spinal column.",
+      "carefully monitoring her vital signs."
+    ],
+    "correctAnswers": [
+      "rapidly transporting her to the hospital."
+    ],
+    "selectedAnswer": "rapidly transporting her to the hospital.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_209325_9",
+    "question": "Abnormal variations in pupil size and reaction would most likely be observed in a patient with:",
+    "answers": [
+      "a brain injury.",
+      "conjunctivitis.",
+      "contact lenses.",
+      "retinitis."
+    ],
+    "correctAnswers": [
+      "a brain injury."
+    ],
+    "selectedAnswer": "a brain injury.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_209325_10",
+    "question": "A patient who is complaining of seeing flashing lights, specks, or \"floaters\" in his or her field of vision has most likely experienced:",
+    "answers": [
+      "a detached retina.",
+      "a blow-out fracture.",
+      "conjunctivitis.",
+      "acute hyphema."
+    ],
+    "correctAnswers": [
+      "a detached retina."
+    ],
+    "selectedAnswer": "a detached retina.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_209325_11",
+    "question": "A young female experienced a laceration to her left eyeball from flying glass when her boyfriend broke a soda bottle against a wall. There is moderate bleeding, and the patient states that she cannot see out of the injured eye. You should:",
+    "answers": [
+      "apply firm direct pressure to the injured eye and cover the opposite eye.",
+      "ask her to move the injured eye to assess the integrity of the optic nerve.",
+      "avoid applying pressure to the globe when you are covering the eye.",
+      "carefully examine her eye and remove any foreign objects if needed."
+    ],
+    "correctAnswers": [
+      "avoid applying pressure to the globe when you are covering the eye."
+    ],
+    "selectedAnswer": "avoid applying pressure to the globe when you are covering the eye.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_209325_12",
+    "question": "Bleeding from soft-tissue injuries to the face is most effectively controlled with:",
+    "answers": [
+      "pressure dressings and chemical ice packs.",
+      "direct pressure using dry, sterile dressings.",
+      "ice packs and elevation of the patient's head.",
+      "digital pressure to an adjacent pulse point."
+    ],
+    "correctAnswers": [
+      "direct pressure using dry, sterile dressings."
+    ],
+    "selectedAnswer": "direct pressure using dry, sterile dressings.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_209325_13",
+    "question": "Following blunt trauma to the face, a 21-year-old male complains of a severe headache and decreased ability to move his eyes. This patient's clinical presentation is most consistent with:",
+    "answers": [
+      "a ruptured eyeball.",
+      "optic vessel compression.",
+      "a lacerated globe.",
+      "a blow-out fracture."
+    ],
+    "correctAnswers": [
+      "a blow-out fracture."
+    ],
+    "selectedAnswer": "a blow-out fracture.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_209325_14",
+    "question": "Significant trauma to the face should increase the EMT's index of suspicion for a(n):",
+    "answers": [
+      "basilar skull fracture.",
+      "spinal column injury.",
+      "airway obstruction.",
+      "displaced mandible."
+    ],
+    "correctAnswers": [
+      "spinal column injury."
+    ],
+    "selectedAnswer": "airway obstruction.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_209325_15",
+    "question": "The term \"hyphema\" is defined as:",
+    "answers": [
+      "an acute rupture of the globe of the eye.",
+      "blood in the anterior chamber of the eye.",
+      "compression of one or both optic nerves.",
+      "inflammation of the iris, cornea, and lens."
+    ],
+    "correctAnswers": [
+      "blood in the anterior chamber of the eye."
+    ],
+    "selectedAnswer": "blood in the anterior chamber of the eye.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_209325_16",
+    "question": "When a light is shone into the pupil:",
+    "answers": [
+      "both pupils should dilate together.",
+      "it should become larger in size.",
+      "it should become smaller in size.",
+      "the opposite pupil should dilate."
+    ],
+    "correctAnswers": [
+      "it should become smaller in size."
+    ],
+    "selectedAnswer": "it should become smaller in size.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_209325_17",
+    "question": "When transporting a patient with a facial injury, it is most important to be as descriptive as possible with the hospital regarding the patient's injuries because:",
+    "answers": [
+      "it saves time on repeat assessments at the hospital.",
+      "they might need to call a specialist to see the patient.",
+      "they must make arrangements for an ICU bed.",
+      "most patients with facial trauma will need surgery."
+    ],
+    "correctAnswers": [
+      "they might need to call a specialist to see the patient."
+    ],
+    "selectedAnswer": "they might need to call a specialist to see the patient.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_209325_18",
+    "question": "You are assessing a 59-year-old male and note that his pupils are unequal. He is conscious and alert. When obtaining his medical history, it is most pertinent to ask him if he:",
+    "answers": [
+      "is allergic to any medications.",
+      "noticed the change during a meal.",
+      "has a history of eye surgeries.",
+      "regularly sees a family physician."
+    ],
+    "correctAnswers": [
+      "has a history of eye surgeries."
+    ],
+    "selectedAnswer": "has a history of eye surgeries.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_209325_19",
+    "question": "You are dispatched to a convenience store, where the clerk sustained a laceration to the side of his neck during a robbery attempt. During your assessment, you note bright red blood spurting from the laceration. You should:",
+    "answers": [
+      "apply pressure to the closest arterial pressure point.",
+      "apply direct pressure above and below the wound.",
+      "apply direct pressure below the lacerated vessel.",
+      "circumferentially wrap a dressing around his neck."
+    ],
+    "correctAnswers": [
+      "apply direct pressure above and below the wound."
+    ],
+    "selectedAnswer": "apply direct pressure above and below the wound.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_209325_20",
+    "question": "You are transporting an immobilized patient with severe facial trauma. As you are preparing to give your radio report to the hospital, the patient begins vomiting large amounts of blood. You should:",
+    "answers": [
+      "alert the hospital of the situation.",
+      "reassess his breathing adequacy.",
+      "quickly suction his oropharynx.",
+      "turn the backboard onto its side."
+    ],
+    "correctAnswers": [
+      "turn the backboard onto its side."
+    ],
+    "selectedAnswer": "quickly suction his oropharynx.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

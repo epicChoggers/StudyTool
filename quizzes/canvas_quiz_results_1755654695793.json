@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_215531_1",
+    "question": "A 25-year-old man overdosed on heroin and is unresponsive. His breathing is slow and shallow and he is bradycardic. He has track marks on both arms. The EMT should:",
+    "answers": [
+      "insert a nasal airway and ventilate with a bag-mask device.",
+      "position the patient on his side and transport without delay.",
+      "administer naloxone via the intranasal route.",
+      "administer naloxone via the intramuscular route."
+    ],
+    "correctAnswers": [
+      "insert a nasal airway and ventilate with a bag-mask device."
+    ],
+    "selectedAnswer": "insert a nasal airway and ventilate with a bag-mask device.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_215531_2",
+    "question": "A 3-year-old female ingested several leaves from a plant in the living room. The child's mother is not sure what type of plant it is, stating that she bought it simply because it was pretty. After completing your primary assessment of the child, you should:",
+    "answers": [
+      "immediately transport the child to the hospital.",
+      "induce vomiting with syrup of ipecac.",
+      "contact the regional poison control center.",
+      "administer 25 g of activated charcoal."
+    ],
+    "correctAnswers": [
+      "contact the regional poison control center."
+    ],
+    "selectedAnswer": "contact the regional poison control center.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_215531_3",
+    "question": "A 49-year-old male presents with confusion, sweating, and visual hallucinations. The patient's wife tells you that he is a heavy drinker and that he might have had a seizure shortly before your arrival. This patient is most likely experiencing:",
+    "answers": [
+      "alcohol intoxication.",
+      "delirium tremens.",
+      "acute hypovolemia.",
+      "acute schizophrenia."
+    ],
+    "correctAnswers": [
+      "delirium tremens."
+    ],
+    "selectedAnswer": "delirium tremens.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_215531_4",
+    "question": "A construction worker complains of intense pain after a bag of dry powder was spilled on his arm. The EMT should:",
+    "answers": [
+      "immediately flush the skin with clean water for 15 to 20 minutes.",
+      "cover the exposed area with a sterile dressing and elevate his arm.",
+      "brush the chemical from his arm and then flush the skin with water.",
+      "brush the chemical from his arm and cover it with a sterile dressing."
+    ],
+    "correctAnswers": [
+      "brush the chemical from his arm and then flush the skin with water."
+    ],
+    "selectedAnswer": "immediately flush the skin with clean water for 15 to 20 minutes.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_215531_5",
+    "question": "A hypnotic drug is one that:",
+    "answers": [
+      "increases the senses.",
+      "increases the pulse.",
+      "prevents amnesia.",
+      "induces sleep."
+    ],
+    "correctAnswers": [
+      "induces sleep."
+    ],
+    "selectedAnswer": "induces sleep.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_215531_6",
+    "question": "Airborne substances should be diluted with:",
+    "answers": [
+      "activated charcoal.",
+      "an alkaline antidote.",
+      "oxygen.",
+      "syrup of ipecac."
+    ],
+    "correctAnswers": [
+      "oxygen."
+    ],
+    "selectedAnswer": "oxygen.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_215531_7",
+    "question": "An EMT's primary responsibility to the patient who has been poisoned is to:",
+    "answers": [
+      "recognize that a poisoning occurred.",
+      "administer 25 g of activated charcoal.",
+      "contact poison control immediately.",
+      "administer the appropriate antidote."
+    ],
+    "correctAnswers": [
+      "recognize that a poisoning occurred."
+    ],
+    "selectedAnswer": "recognize that a poisoning occurred.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_215531_8",
+    "question": "An overdose of acetaminophen, the active ingredient in Tylenol, will most likely cause:",
+    "answers": [
+      "liver damage and failure.",
+      "acute kidney failure.",
+      "central nervous system depression.",
+      "bleeding gastric ulcers."
+    ],
+    "correctAnswers": [
+      "liver damage and failure."
+    ],
+    "selectedAnswer": "liver damage and failure.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_215531_9",
+    "question": "A person who routinely misuses a substance and requires increasing amounts to achieve the same effect is experiencing:",
+    "answers": [
+      "addiction.",
+      "withdrawal.",
+      "dependence.",
+      "tolerance."
+    ],
+    "correctAnswers": [
+      "tolerance."
+    ],
+    "selectedAnswer": "tolerance.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_215531_10",
+    "question": "As you enter the residence of a patient who has possibly overdosed, you should:",
+    "answers": [
+      "observe the scene for drug bottles.",
+      "look for drug paraphernalia.",
+      "quickly gain access to the patient.",
+      "be alert for personal hazards."
+    ],
+    "correctAnswers": [
+      "be alert for personal hazards."
+    ],
+    "selectedAnswer": "be alert for personal hazards.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_215531_11",
+    "question": "During your assessment of a 50-year-old male who was found unresponsive in an alley, you note that he has slow, shallow respirations; bradycardia; facial cyanosis; and pinpoint pupils. As your partner begins assisting the patient's ventilations, he directs your attention to the patient's arms, which have multiple needle tracks on them. Which of the following would most likely explain the patient's presentation?",
+    "answers": [
+      "Heroin overdose",
+      "Closed-head injury",
+      "Alcohol intoxication",
+      "Delirium tremens"
+    ],
+    "correctAnswers": [
+      "Heroin overdose"
+    ],
+    "selectedAnswer": "Heroin overdose",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_215531_12",
+    "question": "EMTs are dispatched for a teenage male who is \"not acting right.\" When they arrive, they are informed that the patient was huffing. Several cans of Freon are found near the patient. Which of the following is a unique consideration for this patient?",
+    "answers": [
+      "Encouraging walking will help eliminate Freon from the body.",
+      "The pulse oximeter will yield a falsely elevated reading.",
+      "Oxygen will not increase the patient's oxygen saturation.",
+      "A sudden adrenaline release can cause a fatal dysrhythmia."
+    ],
+    "correctAnswers": [
+      "A sudden adrenaline release can cause a fatal dysrhythmia."
+    ],
+    "selectedAnswer": "A sudden adrenaline release can cause a fatal dysrhythmia.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_215531_13",
+    "question": "Hypotension, hypoventilation, and pinpoint pupils would be expected following an overdose of:",
+    "answers": [
+      "ecstasy.",
+      "crack cocaine.",
+      "oxycodone (Percocet).",
+      "amphetamine sulfate (Benzedrine)."
+    ],
+    "correctAnswers": [
+      "oxycodone (Percocet)."
+    ],
+    "selectedAnswer": "oxycodone (Percocet).",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_215531_14",
+    "question": "Naloxone (Narcan) would reverse the effects of:",
+    "answers": [
+      "temazepam (Restoril).",
+      "hydromorphone (Dilaudid).",
+      "phenobarbital (Luminal).",
+      "diazepam (Valium)."
+    ],
+    "correctAnswers": [
+      "hydromorphone (Dilaudid)."
+    ],
+    "selectedAnswer": "hydromorphone (Dilaudid).",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_215531_15",
+    "question": "What type of poisoning will cause burns around the mouth in children?",
+    "answers": [
+      "Plant poisoning.",
+      "Injected poison.",
+      "Inhaled poison.",
+      "Alkaline poison."
+    ],
+    "correctAnswers": [
+      "Alkaline poison."
+    ],
+    "selectedAnswer": "Alkaline poison.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_215531_16",
+    "question": "Which of the following questions would be least pertinent during the initial questioning of a patient who ingested a substance?",
+    "answers": [
+      "How long ago was the substance taken?",
+      "What type of substance was taken?",
+      "Why was the substance ingested?",
+      "How much of the substance was taken?"
+    ],
+    "correctAnswers": [
+      "Why was the substance ingested?"
+    ],
+    "selectedAnswer": "Why was the substance ingested?",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_215531_17",
+    "question": "Which of the following sets of vital signs would the EMT most likely encounter in a patient with acute cocaine overdose?",
+    "answers": [
+      "BP, 180/100 mm Hg; pulse, 50 beats/min",
+      "BP, 190/90 mm Hg; pulse, 40 beats/min",
+      "BP, 200/100 mm Hg; pulse, 150 beats/min",
+      "BP, 60/40 mm Hg; pulse, 140 beats/min"
+    ],
+    "correctAnswers": [
+      "BP, 200/100 mm Hg; pulse, 150 beats/min"
+    ],
+    "selectedAnswer": "BP, 200/100 mm Hg; pulse, 150 beats/min",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_215531_18",
+    "question": "Which of the following statements regarding the Salmonella bacterium is correct?",
+    "answers": [
+      "Symptoms of salmonellosis appear within 12 hours.",
+      "Refrigeration of food will prevent salmonellosis.",
+      "The Salmonella bacterium produces toxins that cause food poisoning.",
+      "The Salmonella bacterium itself causes food poisoning."
+    ],
+    "correctAnswers": [
+      "The Salmonella bacterium itself causes food poisoning."
+    ],
+    "selectedAnswer": "The Salmonella bacterium produces toxins that cause food poisoning.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_215531_19",
+    "question": "You receive a call to a residence where a man found his wife unresponsive on the couch. The patient's respiratory rate is 8 breaths/min, her breathing is shallow, her heart rate is 40 beats/min, and her pulse is weak. The husband hands you an empty bottle of hydrocodone (Vicodin), which was refilled the day before. You should:",
+    "answers": [
+      "apply oxygen via a nonrebreathing mask.",
+      "perform a rapid head-to-toe exam.",
+      "ventilate her with a bag-mask device.",
+      "contact the poison control center."
+    ],
+    "correctAnswers": [
+      "ventilate her with a bag-mask device."
+    ],
+    "selectedAnswer": "ventilate her with a bag-mask device.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_215531_20",
+    "question": "You respond to a college campus for a young male who is acting strangely. After law enforcement has secured the scene, you enter the patient's dorm room and find him sitting on the edge of the bed; he appears agitated. As you approach him, you note that he has dried blood around both nostrils. He is breathing adequately, his pulse is rapid and irregular, and his blood pressure is 200/110 mm Hg. Treatment for this patient includes:",
+    "answers": [
+      "assisting his ventilations with a bag-mask device.",
+      "asking law enforcement to place handcuffs on the patient.",
+      "requesting a paramedic to administer naloxone (Narcan).",
+      "attempting to calm him and giving him oxygen if tolerated."
+    ],
+    "correctAnswers": [
+      "attempting to calm him and giving him oxygen if tolerated."
+    ],
+    "selectedAnswer": "attempting to calm him and giving him oxygen if tolerated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

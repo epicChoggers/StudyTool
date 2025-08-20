@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_211587_1",
+    "question": "An index of suspicion is MOST accurately defined as:",
+    "answers": [
+      "ruling out specific medical conditions based on the absence of certain signs and symptoms.",
+      "determining the underlying cause of a patient's medical condition based on signs and symptoms.",
+      "the EMT's prediction of the type of illness a patient has based on how the call is dispatched.",
+      "your awareness and concern for potentially serious underlying and unseen injuries or illness."
+    ],
+    "correctAnswers": [
+      "your awareness and concern for potentially serious underlying and unseen injuries or illness."
+    ],
+    "selectedAnswer": "your awareness and concern for potentially serious underlying and unseen injuries or illness.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_211587_2",
+    "question": "An infectious disease is MOST accurately defined as:",
+    "answers": [
+      "any disease that enters the body via the bloodstream and renders the immune system nonfunctional.",
+      "a medical condition caused by the growth and spread of small, harmful organisms within the body.",
+      "the invasion of the human body by a bacterium that cannot be destroyed by antibiotics or other drugs.",
+      "a disease that can be spread from one person or species to another through a number of mechanisms."
+    ],
+    "correctAnswers": [
+      "a medical condition caused by the growth and spread of small, harmful organisms within the body."
+    ],
+    "selectedAnswer": "a disease that can be spread from one person or species to another through a number of mechanisms.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_211587_3",
+    "question": "A sign of respiratory distress seen in the neck is:",
+    "answers": [
+      "muscular atrophy.",
+      "muscular definition.",
+      "muscular twitches.",
+      "accessory muscle use."
+    ],
+    "correctAnswers": [
+      "accessory muscle use."
+    ],
+    "selectedAnswer": "accessory muscle use.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_211587_4",
+    "question": "Assessment of a patient's blood pressure with an automatic BP cuff reveals that it is 204/120 mm Hg. The patient is conscious and alert and denies any symptoms. The EMT should:",
+    "answers": [
+      "conclude that she has hypertension.",
+      "prepare for immediate transport.",
+      "obtain a manual blood pressure.",
+      "reassess her blood pressure in 5 minutes."
+    ],
+    "correctAnswers": [
+      "obtain a manual blood pressure."
+    ],
+    "selectedAnswer": "obtain a manual blood pressure.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_211587_5",
+    "question": "Early signs and symptoms of viral hepatitis include all of the following, EXCEPT:",
+    "answers": [
+      "vomiting, fever, and fatigue.",
+      "jaundice and abdominal pain.",
+      "pain in the muscles and joints.",
+      "loss of appetite and a cough."
+    ],
+    "correctAnswers": [
+      "jaundice and abdominal pain."
+    ],
+    "selectedAnswer": "loss of appetite and a cough.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_211587_6",
+    "question": "Factors that increase the risk for developing methicillin-resistant Staphylococcus aureus (MRSA) include:",
+    "answers": [
+      "prior exposure to Mycobacterium tuberculosis.",
+      "prolonged hospitalization, especially in an intensive care unit.",
+      "failure to be vaccinated against any strain of hepatitis.",
+      "a history of a respiratory illness within the past 6 to 8 weeks."
+    ],
+    "correctAnswers": [
+      "prolonged hospitalization, especially in an intensive care unit."
+    ],
+    "selectedAnswer": "prolonged hospitalization, especially in an intensive care unit.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_211587_7",
+    "question": "Patients with tuberculosis pose the greatest risk for transmitting the disease when they:",
+    "answers": [
+      "are bleeding.",
+      "have a fever.",
+      "cough.",
+      "vomit."
+    ],
+    "correctAnswers": [
+      "cough."
+    ],
+    "selectedAnswer": "cough.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_211587_8",
+    "question": "The primary prehospital treatment for most medical emergencies:",
+    "answers": [
+      "focuses on definitive care because a diagnosis can usually be made.",
+      "involves transport only until treatment can be performed at the hospital.",
+      "typically does not require the EMT to contact medical control.",
+      "addresses the patient's symptoms more than the actual disease process."
+    ],
+    "correctAnswers": [
+      "addresses the patient's symptoms more than the actual disease process."
+    ],
+    "selectedAnswer": "addresses the patient's symptoms more than the actual disease process.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_211587_9",
+    "question": "The secondary assessment of a medical patient:",
+    "answers": [
+      "is typically limited to a focused exam for patients who are unconscious.",
+      "should routinely include a comprehensive examination from head to toe.",
+      "should be performed at the scene, especially if the patient is critically ill.",
+      "is not practical if the patient is critically ill or your transport time is short."
+    ],
+    "correctAnswers": [
+      "is not practical if the patient is critically ill or your transport time is short."
+    ],
+    "selectedAnswer": "is not practical if the patient is critically ill or your transport time is short.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_211587_10",
+    "question": "Which of the following questions would be the MOST pertinent to ask a patient who recently returned from Europe and is now ill?",
+    "answers": [
+      "Will you be traveling again in the future?",
+      "How much time did you spend in Europe?",
+      "Is anyone else in your travel party sick?",
+      "What was the purpose of your travel?"
+    ],
+    "correctAnswers": [
+      "Is anyone else in your travel party sick?"
+    ],
+    "selectedAnswer": "Is anyone else in your travel party sick?",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_211587_11",
+    "question": "Which of the following statements regarding hepatitis A is correct?",
+    "answers": [
+      "Infection with hepatitis A causes chronic illness with a high mortality rate.",
+      "Hepatitis A can only be transmitted by a patient who has an acute infection.",
+      "Hepatitis A is primarily transmitted via contact with blood or other body fluids.",
+      "Although there is no vaccine against hepatitis A, treatment is usually successful."
+    ],
+    "correctAnswers": [
+      "Hepatitis A can only be transmitted by a patient who has an acute infection."
+    ],
+    "selectedAnswer": "Hepatitis A can only be transmitted by a patient who has an acute infection.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_211587_12",
+    "question": "Which of the following will MOST reliably allow you to determine the nature of a patient's illness?",
+    "answers": [
+      "Asking questions related to the chief complaint",
+      "Trending of the patient's vital signs over time",
+      "Refraining from asking open-ended questions",
+      "Focusing solely on how the call is dispatched"
+    ],
+    "correctAnswers": [
+      "Asking questions related to the chief complaint"
+    ],
+    "selectedAnswer": "Trending of the patient's vital signs over time",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_211587_13",
+    "question": "You and your EMT partner arrive at the residence of a 50-year-old man who complains of weakness. Your primary assessment reveals that he is critically ill and will require aggressive treatment. The closest hospital is 25 miles away. You should:",
+    "answers": [
+      "load him into the ambulance, begin transport, and perform all treatment en route to the hospital.",
+      "manage all threats to airway, breathing, and circulation and consider requesting an ALS unit.",
+      "perform a detailed secondary assessment, assess his vital signs, and then transport rapidly.",
+      "administer oxygen via nonrebreathing mask and obtain as much of his medical history as possible."
+    ],
+    "correctAnswers": [
+      "manage all threats to airway, breathing, and circulation and consider requesting an ALS unit."
+    ],
+    "selectedAnswer": "manage all threats to airway, breathing, and circulation and consider requesting an ALS unit.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_211587_14",
+    "question": "You have just completed your primary assessment of a 48-year-old man with crushing chest pain and difficulty breathing. The patient has been given 324 mg of aspirin and is receiving supplemental oxygen. As you begin your secondary assessment, you note that his mental status has deteriorated and he is now bradycardic. You should:",
+    "answers": [
+      "insert a nasal airway and assist his breathing.",
+      "request an ALS unit to respond to the scene.",
+      "continue with your secondary assessment.",
+      "prepare the patient for immediate transport."
+    ],
+    "correctAnswers": [
+      "prepare the patient for immediate transport."
+    ],
+    "selectedAnswer": "request an ALS unit to respond to the scene.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_211587_15",
+    "question": "Your patient's symptoms include high fever, cough, vomiting, bloody diarrhea, and shortness of breath. Which of the following should you suspect?",
+    "answers": [
+      "Hepatitis B",
+      "Influenza",
+      "MERS-CoV",
+      "Whooping cough"
+    ],
+    "correctAnswers": [
+      "MERS-CoV"
+    ],
+    "selectedAnswer": "MERS-CoV",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_211587_16",
+    "question": "Your primary assessment of an elderly woman reveals that she is conscious and alert, but is experiencing difficulty breathing. She has a history of emphysema, hypertension, and congestive heart failure. As you assess the patient's circulatory status, you should direct your partner to:",
+    "answers": [
+      "retrieve the stretcher and prepare for transport.",
+      "assess her oxygen saturation and blood pressure.",
+      "perform a head-to-toe secondary assessment.",
+      "administer oxygen with the appropriate device."
+    ],
+    "correctAnswers": [
+      "administer oxygen with the appropriate device."
+    ],
+    "selectedAnswer": "administer oxygen with the appropriate device.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_211587_17",
+    "question": "After sizing up the scene of a patient with a possible infectious disease, your next priority should be to:",
+    "answers": [
+      "notify law enforcement.",
+      "quickly access the patient.",
+      "take standard precautions.",
+      "contact medical control."
+    ],
+    "correctAnswers": [
+      "take standard precautions."
+    ],
+    "selectedAnswer": "take standard precautions.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_211587_18",
+    "question": "A patient who presents with a headache, fever, confusion, and red blotches on his or her skin should be suspected of having:",
+    "answers": [
+      "MERS-CoV.",
+      "hepatitis.",
+      "tuberculosis.",
+      "meningitis."
+    ],
+    "correctAnswers": [
+      "meningitis."
+    ],
+    "selectedAnswer": "meningitis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_211587_19",
+    "question": "In addition to looking for severe bleeding, assessment of circulation in the conscious patient should involve:",
+    "answers": [
+      "checking the radial pulse and noting the color, temperature, and condition of the skin.",
+      "applying a pulse oximeter probe to the finger to determine if peripheral perfusion is adequate.",
+      "taking a blood pressure and determining if the patient is alert and oriented or confused.",
+      "palpating the carotid pulse to determine the approximate rate and checking capillary refill time."
+    ],
+    "correctAnswers": [
+      "checking the radial pulse and noting the color, temperature, and condition of the skin."
+    ],
+    "selectedAnswer": "checking the radial pulse and noting the color, temperature, and condition of the skin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_211587_20",
+    "question": "In addition to obtaining a SAMPLE history and asking questions related to the chief complaint, what else should you specifically inquire about when assessing a patient with a potentially infectious disease?",
+    "answers": [
+      "HIV status",
+      "Sexual practices",
+      "Recent travel",
+      "Drug allergies"
+    ],
+    "correctAnswers": [
+      "Recent travel"
+    ],
+    "selectedAnswer": "Recent travel",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

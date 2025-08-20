@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_207373_1",
+    "question": "After assuming care of a cardiac arrest patient from an EMT, the paramedic should remember that:",
+    "answers": [
+      "BLS efforts must continue throughout the patient care continuum.",
+      "ALS interventions are fundamentally more critical than BLS interventions.",
+      "ALS interventions are the core interventions around which BLS care is provided.",
+      "the BLS care provided by the EMT is the \"first steps\" of ALS care."
+    ],
+    "correctAnswers": [
+      "BLS efforts must continue throughout the patient care continuum."
+    ],
+    "selectedAnswer": "BLS efforts must continue throughout the patient care continuum.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_207373_2",
+    "question": "A team of EMTs is caring for a critically injured patient. The team leader advises the EMT that transport will not begin until the patient's closed forearm fracture is splinted. Utilizing the crew resource management model, the EMT should:",
+    "answers": [
+      "disregard the team leader's request and contact medical control for guidance.",
+      "repeat the request back to the team leader and then splint the patient's arm.",
+      "ensure that the entire team is aware that transport will be delayed for splinting.",
+      "advise the team leader that immediate transport is more important than splinting."
+    ],
+    "correctAnswers": [
+      "advise the team leader that immediate transport is more important than splinting."
+    ],
+    "selectedAnswer": "repeat the request back to the team leader and then splint the patient's arm.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_207373_3",
+    "question": "During a resuscitation attempt, the team leader asks the EMT to ventilate the patient at a rate of 20 breaths/min, and the EMT replies, \"Actually, sir, the correct ventilation rate is 10 breaths/min.\" This is an example of:",
+    "answers": [
+      "situational awareness.",
+      "closed-loop communication.",
+      "quality assurance monitoring.",
+      "constructive intervention."
+    ],
+    "correctAnswers": [
+      "constructive intervention."
+    ],
+    "selectedAnswer": "constructive intervention.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_207373_4",
+    "question": "For patient handoff, it is important for EMTs and hospital staff to use:",
+    "answers": [
+      "metric-sized tools.",
+      "common language.",
+      "common goals.",
+      "shared training."
+    ],
+    "correctAnswers": [
+      "common language."
+    ],
+    "selectedAnswer": "common language.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_207373_5",
+    "question": "In an interdependent group, when one person fails:",
+    "answers": [
+      "that person is fired.",
+      "pay is withheld.",
+      "management will be changed.",
+      "everyone fails."
+    ],
+    "correctAnswers": [
+      "everyone fails."
+    ],
+    "selectedAnswer": "everyone fails.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_207373_6",
+    "question": "Premature diagnosis during a call can be due to what error?",
+    "answers": [
+      "Anchoring",
+      "Streamlining",
+      "Bias",
+      "Overconfidence"
+    ],
+    "correctAnswers": [
+      "Anchoring"
+    ],
+    "selectedAnswer": "Anchoring",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_207373_7",
+    "question": "The concept of consistent care across the entire health care team from first patient contact to patient discharge is called:",
+    "answers": [
+      "the scope of practice.",
+      "patient care advocacy.",
+      "the standard of care.",
+      "the continuum of care."
+    ],
+    "correctAnswers": [
+      "the continuum of care."
+    ],
+    "selectedAnswer": "the continuum of care.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_207373_8",
+    "question": "The effectiveness of pit crew CPR is dependent on:",
+    "answers": [
+      "defining clear roles and responsibilities before the call is received.",
+      "rapidly assessing the patient before assigning roles and responsibilities.",
+      "protocols that allow the EMT to function without medical control.",
+      "a team leader who is capable of performing all of the patient care tasks."
+    ],
+    "correctAnswers": [
+      "defining clear roles and responsibilities before the call is received."
+    ],
+    "selectedAnswer": "defining clear roles and responsibilities before the call is received.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_207373_9",
+    "question": "To be a great EMT, strive for:",
+    "answers": [
+      "retraining.",
+      "management work.",
+      "the chance to replace an EMR.",
+      "foundational knowledge."
+    ],
+    "correctAnswers": [
+      "foundational knowledge."
+    ],
+    "selectedAnswer": "foundational knowledge.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_207373_10",
+    "question": "When assisting an ALS worker, a BLS worker who performs a skill outside his or her level of certification:",
+    "answers": [
+      "risks a lawsuit.",
+      "needs incident command authorization.",
+      "plays a team role.",
+      "is striving for promotion to ALS."
+    ],
+    "correctAnswers": [
+      "risks a lawsuit."
+    ],
+    "selectedAnswer": "risks a lawsuit.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_207373_11",
+    "question": "When the EMT assists a paramedic with an advanced intervention, he or she should recall that the focus of the intervention is on:",
+    "answers": [
+      "solving a clinical problem.",
+      "completing the procedure.",
+      "learning to perform the skill.",
+      "following local protocol."
+    ],
+    "correctAnswers": [
+      "solving a clinical problem."
+    ],
+    "selectedAnswer": "solving a clinical problem.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_207373_12",
+    "question": "When working as an independent health care group member, the EMT should expect that he or she:",
+    "answers": [
+      "does not have to wait for an assignment before performing a task.",
+      "will be specifically instructed on how to perform a specific task.",
+      "will rely on the group leader for making virtually all decisions.",
+      "will receive no support or guidance from an EMS supervisor."
+    ],
+    "correctAnswers": [
+      "does not have to wait for an assignment before performing a task."
+    ],
+    "selectedAnswer": "does not have to wait for an assignment before performing a task.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_207373_13",
+    "question": "Which comes first in EMS decision making?",
+    "answers": [
+      "Team communication",
+      "Data interpretation",
+      "Planning",
+      "Data gathering"
+    ],
+    "correctAnswers": [
+      "Data gathering"
+    ],
+    "selectedAnswer": "Data gathering",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_207373_14",
+    "question": "Which of the following is an example of closed-loop communication?",
+    "answers": [
+      "The EMT corrects the team leader, who states that chest compressions should be greater than 3 inches deep.",
+      "The EMT requests permission from medical control to assist a patient with his prescribed nitroglycerin.",
+      "The team leader assigns the EMT a task, and the EMT repeats the request back to the team leader.",
+      "EMTs decide not to attempt resuscitation because the patient has rigor mortis and is cold to the touch."
+    ],
+    "correctAnswers": [
+      "The team leader assigns the EMT a task, and the EMT repeats the request back to the team leader."
+    ],
+    "selectedAnswer": "The team leader assigns the EMT a task, and the EMT repeats the request back to the team leader.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_207373_15",
+    "question": "Which of the following would MOST likely facilitate an accurate and effective verbal handoff report at the hospital?",
+    "answers": [
+      "Providing the handoff report only to a physician.",
+      "Brief pause in care to provide the verbal report.",
+      "Use of a mutually agreed-upon handoff format.",
+      "Clearly identifying your EMS certification level."
+    ],
+    "correctAnswers": [
+      "Use of a mutually agreed-upon handoff format."
+    ],
+    "selectedAnswer": "Use of a mutually agreed-upon handoff format.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_207373_16",
+    "question": "Which of the following would the paramedic be LEAST likely to ask the EMT to do?",
+    "answers": [
+      "Intubate a patient",
+      "Apply a tourniquet",
+      "Assess blood glucose",
+      "Obtain vital signs"
+    ],
+    "correctAnswers": [
+      "Intubate a patient"
+    ],
+    "selectedAnswer": "Intubate a patient",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_207373_17",
+    "question": "Which step in EMS decision making comes after a patient has been transferred?",
+    "answers": [
+      "Data gathering",
+      "Planning",
+      "Outcome evaluation",
+      "Team communication"
+    ],
+    "correctAnswers": [
+      "Outcome evaluation"
+    ],
+    "selectedAnswer": "Outcome evaluation",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_207373_18",
+    "question": "While caring for a patient, the EMT states to her partner, \"Why even splint the patient's leg if they're only going to remove it in the ED?\" This statement indicates that:",
+    "answers": [
+      "the EMT's focus is not on the common goal.",
+      "the EMT does not trust the hospital staff.",
+      "the EMT is being realistic in her thinking.",
+      "the patient's leg does not require splinting."
+    ],
+    "correctAnswers": [
+      "the EMT's focus is not on the common goal."
+    ],
+    "selectedAnswer": "the EMT's focus is not on the common goal.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_207373_19",
+    "question": "While providing care to a patient, the EMT informs her partner that a shotgun is leaning against the wall in the corner of the room. In making this observation, the EMT has demonstrated:",
+    "answers": [
+      "crew resource management.",
+      "constructive intervention.",
+      "closed-loop communication.",
+      "situational awareness."
+    ],
+    "correctAnswers": [
+      "situational awareness."
+    ],
+    "selectedAnswer": "situational awareness.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_207373_20",
+    "question": "While transferring a patient to ALS staff, interference should be:",
+    "answers": [
+      "optimized for care.",
+      "kept in place.",
+      "minimized overall.",
+      "transformed by coordination."
+    ],
+    "correctAnswers": [
+      "minimized overall."
+    ],
+    "selectedAnswer": "minimized overall.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

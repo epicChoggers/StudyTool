@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_202089_1",
+    "question": "According to the National EMS Scope of Practice Model, an EMT should be able to:",
+    "answers": [
+      "interpret a basic (ECG) rhythm and treat accordingly.",
+      "insert a peripheral IV line and infuse fluids.",
+      "administer epinephrine via the subcutaneous route.",
+      "assist a patient with certain prescribed medications."
+    ],
+    "correctAnswers": [
+      "assist a patient with certain prescribed medications."
+    ],
+    "selectedAnswer": "interpret a basic (ECG) rhythm and treat accordingly.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_202089_2",
+    "question": "An EMS provider who has extensive training in various aspects of advanced life support (ALS) is called a(n):",
+    "answers": [
+      "paramedic.",
+      "advanced EMT (AEMT).",
+      "EMR.",
+      "EMT."
+    ],
+    "correctAnswers": [
+      "paramedic."
+    ],
+    "selectedAnswer": "advanced EMT (AEMT).",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_202089_3",
+    "question": "As an EMT, you may be authorized to administer aspirin to a patient with chest pain based on:",
+    "answers": [
+      "the transport time to the hospital.",
+      "medical director approval.",
+      "an order from a paramedic.",
+      "the patient's condition."
+    ],
+    "correctAnswers": [
+      "medical director approval."
+    ],
+    "selectedAnswer": "medical director approval.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_202089_4",
+    "question": "Continuing education in EMS serves to:",
+    "answers": [
+      "provide an ongoing review and audit of the EMS system.",
+      "confirm research and statistical findings in prehospital care.",
+      "enforce mandatory attendance at agency-specific training.",
+      "maintain, update, and expand the EMT's knowledge and skills."
+    ],
+    "correctAnswers": [
+      "maintain, update, and expand the EMT's knowledge and skills."
+    ],
+    "selectedAnswer": "maintain, update, and expand the EMT's knowledge and skills.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_202089_5",
+    "question": "EMS as we know it today had its origins in 1966 with the publication of:",
+    "answers": [
+      "the Department of Transportation's White Paper: Death and Dying.",
+      "Emergency Care and Transportation of the Sick and Injured.",
+      "Accidental Death and Disability: The Neglected Disease of Modern Society.",
+      "the Emergency Medical Services Act."
+    ],
+    "correctAnswers": [
+      "Accidental Death and Disability: The Neglected Disease of Modern Society."
+    ],
+    "selectedAnswer": "Accidental Death and Disability: The Neglected Disease of Modern Society.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_202089_6",
+    "question": "EMT training in nearly every state meets or exceeds the guidelines recommended by the:",
+    "answers": [
+      "individual state's EMS protocols.",
+      "National Registry of EMTs.",
+      "National Association of EMTs.",
+      "National Highway Traffic Safety Administration (NHTSA)."
+    ],
+    "correctAnswers": [
+      "National Highway Traffic Safety Administration (NHTSA)."
+    ],
+    "selectedAnswer": "National Highway Traffic Safety Administration (NHTSA).",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_202089_7",
+    "question": "If an EMT candidate has been convicted of a felony or misdemeanor, he or she should:",
+    "answers": [
+      "wait at least 24 months before taking another state-approved EMT class.",
+      "send an official request to the National Registry of EMTs (NREMT) to seek approval to take the EMT exam.",
+      "contact the state EMS office and provide its staff with the required documentation.",
+      "recognize that any such conviction will disqualify him or her from EMT licensure."
+    ],
+    "correctAnswers": [
+      "contact the state EMS office and provide its staff with the required documentation."
+    ],
+    "selectedAnswer": "contact the state EMS office and provide its staff with the required documentation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_202089_8",
+    "question": "Obtaining continuing medical education is the responsibility of the:",
+    "answers": [
+      "EMS training officer.",
+      "State Bureau of EMS.",
+      "individual EMT.",
+      "EMS medical director."
+    ],
+    "correctAnswers": [
+      "individual EMT."
+    ],
+    "selectedAnswer": "individual EMT.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_202089_9",
+    "question": "The continuous quality improvement (CQI) process is designed to:",
+    "answers": [
+      "identify areas of improvement and provide remedial training if needed.",
+      "focus specifically on the quality of emergency care provided to the patient.",
+      "ensure that all EMTs maintain licensure through the state EMS office.",
+      "administer punitive actions to EMTs who do not follow local protocols."
+    ],
+    "correctAnswers": [
+      "identify areas of improvement and provide remedial training if needed."
+    ],
+    "selectedAnswer": "focus specifically on the quality of emergency care provided to the patient.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_202089_10",
+    "question": "The EMT certification exam is designed to:",
+    "answers": [
+      "rank EMTs based on performance on the certification exam.",
+      "ensure that EMTs are competent and have the same level of knowledge and skills.",
+      "provide EMTs with the best possible wage once certification is achieved.",
+      "identify those EMTs who are prepared for advanced levels of training."
+    ],
+    "correctAnswers": [
+      "ensure that EMTs are competent and have the same level of knowledge and skills."
+    ],
+    "selectedAnswer": "ensure that EMTs are competent and have the same level of knowledge and skills.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_202089_11",
+    "question": "The person who is responsible for authorizing EMTs to perform emergency medical care in the field is the:",
+    "answers": [
+      "field training officer.",
+      "EMS administrator.",
+      "shift supervisor.",
+      "medical director."
+    ],
+    "correctAnswers": [
+      "medical director."
+    ],
+    "selectedAnswer": "medical director.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_202089_12",
+    "question": "The standards for prehospital emergency care and the individuals who provide it are typically regulated by the:",
+    "answers": [
+      "state office of EMS.",
+      "American Heart Association.",
+      "National Registry of EMTs.",
+      "regional trauma center."
+    ],
+    "correctAnswers": [
+      "state office of EMS."
+    ],
+    "selectedAnswer": "state office of EMS.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_202089_13",
+    "question": "Which of the following is an example of a primary prevention strategy?",
+    "answers": [
+      "Community awareness programs that emphasize the dangers of drinking and driving",
+      "Teaching a group of new parents how to perform one- and two-rescuer infant CPR",
+      "The construction of a guardrail on a dangerous curve following a fatal motor vehicle crash",
+      "Protecting a patient's spine from further injury after a fall from a significant height"
+    ],
+    "correctAnswers": [
+      "Community awareness programs that emphasize the dangers of drinking and driving"
+    ],
+    "selectedAnswer": "Community awareness programs that emphasize the dangers of drinking and driving",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_202089_14",
+    "question": "Which of the following scenarios involves the administration of ALS?",
+    "answers": [
+      "A 64-year-old patient who is given aspirin for suspected cardiac chest pain",
+      "A 61-year-old patient who is receiving humidified supplemental oxygen",
+      "A 48-year-old patient whose airway is secured with a supraglottic device",
+      "A 53-year-old patient who is assisted with his prescribed nitroglycerin"
+    ],
+    "correctAnswers": [
+      "A 48-year-old patient whose airway is secured with a supraglottic device"
+    ],
+    "selectedAnswer": "A 48-year-old patient whose airway is secured with a supraglottic device",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_202089_15",
+    "question": "Which of the following skills or interventions is included at every level of prehospital emergency training?",
+    "answers": [
+      "Automated external defibrillation",
+      "Use of a manually triggered ventilator",
+      "Intranasal medication administration",
+      "Oral glucose for hypoglycemia"
+    ],
+    "correctAnswers": [
+      "Automated external defibrillation"
+    ],
+    "selectedAnswer": "Automated external defibrillation",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_202089_16",
+    "question": "Which of the following skills would a layperson most likely be trained to perform before the arrival of EMS?",
+    "answers": [
+      "Insertion of an oropharyngeal airway",
+      "Bleeding control using a tourniquet",
+      "Administration of supplemental oxygen",
+      "Obtaining a manual blood pressure"
+    ],
+    "correctAnswers": [
+      "Bleeding control using a tourniquet"
+    ],
+    "selectedAnswer": "Bleeding control using a tourniquet",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_202089_17",
+    "question": "Which of the following statements regarding the EMS medical director and an EMT's scope of practice is correct?",
+    "answers": [
+      "The EMS medical director can expand or limit an individual EMT's scope of practice without state approval.",
+      "An EMT's scope of practice may be expanded by the medical director after proper training and state approval.",
+      "The EMS medical director can expand the EMT's scope of practice but cannot limit it without state approval.",
+      "An EMT's scope of practice is exclusively regulated by the state EMS office, not the EMS medical director."
+    ],
+    "correctAnswers": [
+      "An EMT's scope of practice may be expanded by the medical director after proper training and state approval."
+    ],
+    "selectedAnswer": "An EMT's scope of practice may be expanded by the medical director after proper training and state approval.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_202089_18",
+    "question": "Which of the following statements regarding the NREMT is correct?",
+    "answers": [
+      "The NREMT provides a national standard for EMS testing.",
+      "The NREMT is the exclusive certifying body for EMTs.",
+      "The NREMT is a governmental agency that certifies EMTs.",
+      "The NREMT regulates EMS training standards."
+    ],
+    "correctAnswers": [
+      "The NREMT provides a national standard for EMS testing."
+    ],
+    "selectedAnswer": "The NREMT provides a national standard for EMS testing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_202089_19",
+    "question": "Which type of medical direction do standing orders and protocols describe?",
+    "answers": [
+      "Off-line",
+      "Direct",
+      "Online",
+      "Radio"
+    ],
+    "correctAnswers": [
+      "Off-line"
+    ],
+    "selectedAnswer": "Off-line",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_202089_20",
+    "question": "Why are prehospital emergency care guidelines updated on a regular basis?",
+    "answers": [
+      "Additional information and evidence indicate that the effectiveness of certain interventions has changed.",
+      "Statistical data indicate that an increasing number of people are being diagnosed with a particular illness.",
+      "The federal government requires the implementation of changes to existing emergency care protocols at least every five years.",
+      "EMS providers should be encouraged to actively participate in research and become familiar with data analysis."
+    ],
+    "correctAnswers": [
+      "Additional information and evidence indicate that the effectiveness of certain interventions has changed."
+    ],
+    "selectedAnswer": "Additional information and evidence indicate that the effectiveness of certain interventions has changed.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_209316_1",
+    "question": "A 60-year-old man is found to be unresponsive, pulseless, and apneic. You should:",
+    "answers": [
+      "determine if he has a valid living will.",
+      "withhold CPR until he is defibrillated.",
+      "begin CPR until an AED is available.",
+      "start CPR and transport immediately."
+    ],
+    "correctAnswers": [
+      "begin CPR until an AED is available."
+    ],
+    "selectedAnswer": "begin CPR until an AED is available.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_209316_2",
+    "question": "Abdominal thrusts in a conscious child or adult with a severe upper airway obstruction are performed:",
+    "answers": [
+      "in sets of five followed by reassessment.",
+      "until he or she experiences cardiac arrest.",
+      "until he or she loses consciousness.",
+      "about 1 inch below the xiphoid process."
+    ],
+    "correctAnswers": [
+      "until he or she loses consciousness."
+    ],
+    "selectedAnswer": "until he or she loses consciousness.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_209316_3",
+    "question": "After an advanced airway device has been inserted during two-rescuer CPR, you should:",
+    "answers": [
+      "pause compressions to deliver ventilations.",
+      "increase rescue breathing to a rate of 14 breaths/min.",
+      "deliver one rescue breath every 6 seconds.",
+      "decrease the compression rate to about 80 per minute."
+    ],
+    "correctAnswers": [
+      "deliver one rescue breath every 6 seconds."
+    ],
+    "selectedAnswer": "deliver one rescue breath every 6 seconds.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_209316_4",
+    "question": "After establishing that an adult patient is unresponsive, you should:",
+    "answers": [
+      "immediately begin chest compressions.",
+      "apply the AED and deliver a shock, if needed.",
+      "manually open the airway.",
+      "assess for breathing and a pulse."
+    ],
+    "correctAnswers": [
+      "assess for breathing and a pulse."
+    ],
+    "selectedAnswer": "assess for breathing and a pulse.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_209316_5",
+    "question": "After ________ minutes without oxygen, permanent brain damage is possible.",
+    "answers": [
+      "2 to 3",
+      "7",
+      "1 to 2",
+      "4 to 6"
+    ],
+    "correctAnswers": [
+      "4 to 6"
+    ],
+    "selectedAnswer": "4 to 6",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_209316_6",
+    "question": "A patient should be placed in the recovery position when he or she:",
+    "answers": [
+      "is unresponsive, uninjured, and breathing adequately.",
+      "has experienced trauma but is breathing effectively.",
+      "is semiconscious, injured, and breathing adequately.",
+      "has a pulse but is unresponsive and breathing shallowly."
+    ],
+    "correctAnswers": [
+      "is unresponsive, uninjured, and breathing adequately."
+    ],
+    "selectedAnswer": "is unresponsive, uninjured, and breathing adequately.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_209316_7",
+    "question": "A team of EMTs and paramedics are attempting to resuscitate a man who is in cardiac arrest while his wife and son are present. Which of the following should occur during the resuscitation attempt?",
+    "answers": [
+      "A law enforcement officer should prepare the family for the patient's death and contact the funeral home.",
+      "One EMT should update the family on the interventions that have been performed and how the patient has responded.",
+      "Each member of the resuscitation team should update the family at various intervals throughout the attempt.",
+      "Communication with the family should be minimal until the final outcome of the resuscitation attempt is known."
+    ],
+    "correctAnswers": [
+      "One EMT should update the family on the interventions that have been performed and how the patient has responded."
+    ],
+    "selectedAnswer": "Each member of the resuscitation team should update the family at various intervals throughout the attempt.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_209316_8",
+    "question": "Complications associated with chest compressions include all of the following, EXCEPT:",
+    "answers": [
+      "rib fractures.",
+      "a fractured sternum.",
+      "liver laceration.",
+      "gastric distention."
+    ],
+    "correctAnswers": [
+      "gastric distention."
+    ],
+    "selectedAnswer": "gastric distention.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_209316_9",
+    "question": "CPR is in progress on a pregnant woman. Shortly after manually displacing her uterus to the left, return of spontaneous circulation occurs. Which of the following would MOST likely explain this?",
+    "answers": [
+      "Pressure was relieved from her aorta and vena cava, which improved chest compression effectiveness.",
+      "Increased blood flow to her heart caused her ventricles to stop fibrillating, which restored her pulse.",
+      "Displacement of her uterus allowed her lungs to expand more fully, which restored her pulse.",
+      "Displacement of her uterus caused blood to flow backward, which increased blood flow to her heart."
+    ],
+    "correctAnswers": [
+      "Pressure was relieved from her aorta and vena cava, which improved chest compression effectiveness."
+    ],
+    "selectedAnswer": "Pressure was relieved from her aorta and vena cava, which improved chest compression effectiveness.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_209316_10",
+    "question": "CPR should be initiated when:",
+    "answers": [
+      "the carotid pulse is very weak.",
+      "a valid living will is unavailable.",
+      "signs of putrefaction are present.",
+      "rigor mortis is obvious."
+    ],
+    "correctAnswers": [
+      "a valid living will is unavailable."
+    ],
+    "selectedAnswer": "the carotid pulse is very weak.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_209316_11",
+    "question": "Gastric distention will MOST likely occur:",
+    "answers": [
+      "in patients who are intubated.",
+      "when the airway is completely obstructed.",
+      "if you ventilate a patient too quickly.",
+      "when you deliver minimal tidal volume."
+    ],
+    "correctAnswers": [
+      "if you ventilate a patient too quickly."
+    ],
+    "selectedAnswer": "if you ventilate a patient too quickly.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_209316_12",
+    "question": "Initial treatment to dislodge a severe foreign body airway obstruction in a responsive infant involves:",
+    "answers": [
+      "abdominal thrusts.",
+      "bag-mask ventilation.",
+      "blind finger sweeps.",
+      "back slaps."
+    ],
+    "correctAnswers": [
+      "back slaps."
+    ],
+    "selectedAnswer": "back slaps.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_209316_13",
+    "question": "In most cases, cardiopulmonary arrest in infants and children is caused by:",
+    "answers": [
+      "severe chest trauma.",
+      "a cardiac dysrhythmia.",
+      "respiratory arrest.",
+      "a drug overdose."
+    ],
+    "correctAnswers": [
+      "respiratory arrest."
+    ],
+    "selectedAnswer": "respiratory arrest.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_209316_14",
+    "question": "In two-rescuer adult CPR, you should deliver a compression to ventilation ratio of:",
+    "answers": [
+      "15:2.",
+      "5:2.",
+      "5:1.",
+      "30:2."
+    ],
+    "correctAnswers": [
+      "30:2."
+    ],
+    "selectedAnswer": "30:2.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_209316_15",
+    "question": "The main benefit of using a mechanical piston device for chest compressions is:",
+    "answers": [
+      "the minimal training required to correctly operate the device.",
+      "its ability to be used with any patient, regardless of age, weight, or body size.",
+      "the elimination of rescuer fatigue that results from manual compressions.",
+      "the elimination of the need to place a firm, flat device under the patient."
+    ],
+    "correctAnswers": [
+      "the elimination of rescuer fatigue that results from manual compressions."
+    ],
+    "selectedAnswer": "the elimination of rescuer fatigue that results from manual compressions.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_209316_16",
+    "question": "The proper depth of chest compressions on a 9-month-old infant is:",
+    "answers": [
+      "one half to two thirds the diameter of the chest.",
+      "one third the diameter of the chest, or about 1½ inches.",
+      "two thirds the diameter of the chest, or about 2 inches.",
+      "one half the diameter of the chest, or about 1½ inches."
+    ],
+    "correctAnswers": [
+      "one third the diameter of the chest, or about 1½ inches."
+    ],
+    "selectedAnswer": "one third the diameter of the chest, or about 1½ inches.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_209316_17",
+    "question": "To ensure that you will deliver the appropriate number of chest compressions during one-rescuer adult CPR, you should compress the patient's chest at a rate of:",
+    "answers": [
+      "no greater than 100 compressions per minute.",
+      "80 to 100 compressions per minute.",
+      "100 to 120 compressions per minute.",
+      "at least 120 compressions per minute."
+    ],
+    "correctAnswers": [
+      "100 to 120 compressions per minute."
+    ],
+    "selectedAnswer": "100 to 120 compressions per minute.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_209316_18",
+    "question": "What is the correct ratio of compressions to ventilations when performing two-rescuer child CPR?",
+    "answers": [
+      "15:2",
+      "3:1",
+      "5:1",
+      "30:2"
+    ],
+    "correctAnswers": [
+      "15:2"
+    ],
+    "selectedAnswer": "15:2",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_209316_19",
+    "question": "What is the minimum number of chest compressions that should be delivered per minute to a 4-month-old infant?",
+    "answers": [
+      "100",
+      "90",
+      "120",
+      "110"
+    ],
+    "correctAnswers": [
+      "100"
+    ],
+    "selectedAnswer": "100",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_209316_20",
+    "question": "You and your partner arrive at the side of a 60-year-old woman who collapsed about 7 minutes ago. She is unresponsive, apneic, and pulseless. You should:",
+    "answers": [
+      "apply the AED if there is no response after 10 cycles of CPR.",
+      "begin CPR at a compression to ventilation ratio of 15:2.",
+      "begin CPR and apply the AED as soon as it is available.",
+      "immediately apply the AED and analyze her cardiac rhythm."
+    ],
+    "correctAnswers": [
+      "begin CPR and apply the AED as soon as it is available."
+    ],
+    "selectedAnswer": "begin CPR and apply the AED as soon as it is available.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

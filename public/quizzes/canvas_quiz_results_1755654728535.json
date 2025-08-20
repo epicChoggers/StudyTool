@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_211537_1",
+    "question": "A 4-year-old boy had an apparent seizure. He is conscious and calm and is sitting on his mother's lap. His father is sitting in a nearby chair. The child's mother suddenly begins crying uncontrollably, which causes the child to start crying. You should:",
+    "answers": [
+      "ask the father to hold the child so you can assess him while your partner tries to calm the mother.",
+      "give the child a favorite toy or blanket to hold onto and perform your assessment to the best of your ability.",
+      "attempt to calm the child's mother, but avoid separating her from her child because this will increase her anxiety.",
+      "reassure the child's mother that seizures in children are very common and that there is nothing to worry about."
+    ],
+    "correctAnswers": [
+      "attempt to calm the child's mother, but avoid separating her from her child because this will increase her anxiety."
+    ],
+    "selectedAnswer": "attempt to calm the child's mother, but avoid separating her from her child because this will increase her anxiety.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_211537_2",
+    "question": "A 60-year-old man complains of chest pain. He is conscious, alert, and denies shortness of breath. Which of the following questions would be the most appropriate to ask him?",
+    "answers": [
+      "\"Does the pain in your chest move to either of your arms?\"",
+      "\"Were you exerting yourself when the chest pain began?\"",
+      "\"Do you have any heart problems or take any medications?\"",
+      "\"Does the pain in your chest feel like a stabbing sensation?\""
+    ],
+    "correctAnswers": [
+      "\"Do you have any heart problems or take any medications?\""
+    ],
+    "selectedAnswer": "\"Do you have any heart problems or take any medications?\"",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_211537_3",
+    "question": "After delivering your patient to the hospital, you sit down to complete the handwritten PCR. When documenting the patient's last blood pressure reading, you inadvertently write 120/60 instead of 130/70. To correct this mistake, you should:",
+    "answers": [
+      "cover the error with correction fluid and then write the patient's actual blood pressure over it.",
+      "erase the error, initial it, and then write the correct data on a separate addendum.",
+      "leave the error on the PCR, but inform the staff of the patient's actual blood pressure.",
+      "draw a single horizontal line through the error, initial it, and write the correct data next to it."
+    ],
+    "correctAnswers": [
+      "draw a single horizontal line through the error, initial it, and write the correct data next to it."
+    ],
+    "selectedAnswer": "draw a single horizontal line through the error, initial it, and write the correct data next to it.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_211537_4",
+    "question": "After receiving online orders from medical control to perform a patient care intervention, you should:",
+    "answers": [
+      "ask the physician to repeat the order.",
+      "perform the intervention as ordered.",
+      "confirm the order in your own words.",
+      "repeat the order to medical control word for word."
+    ],
+    "correctAnswers": [
+      "repeat the order to medical control word for word."
+    ],
+    "selectedAnswer": "repeat the order to medical control word for word.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_211537_5",
+    "question": "Any radio hardware containing a transmitter and a receiver that is located in a fixed location is called a:",
+    "answers": [
+      "multiplex.",
+      "mobile radio.",
+      "base station.",
+      "repeater."
+    ],
+    "correctAnswers": [
+      "base station."
+    ],
+    "selectedAnswer": "base station.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_211537_6",
+    "question": "As you are wheeling your patient through the emergency department doors, you receive another call for a major motor vehicle crash. You should:",
+    "answers": [
+      "respond only after giving a verbal patient report to a nurse or physician.",
+      "inform the admissions clerk of the situation and then respond at once.",
+      "leave a copy of the run form with a nurse and then respond to the call.",
+      "place the patient in a high-visibility area and then respond to the call."
+    ],
+    "correctAnswers": [
+      "respond only after giving a verbal patient report to a nurse or physician."
+    ],
+    "selectedAnswer": "respond only after giving a verbal patient report to a nurse or physician.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_211537_7",
+    "question": "Despite your numerous, sincere efforts to convince a 40-year-old man to consent to EMS treatment and transport, he refuses. After explaining the potential consequences of his refusal and determining that the patient has decision-making capacity, you ask him to sign an EMS refusal form, but he refuses to do that as well. You should:",
+    "answers": [
+      "ask a family member, law enforcement officer, or bystander to sign the form verifying that the patient refused to sign.",
+      "sign the refusal form, include the date and time, and have your partner witness it with his or her signature.",
+      "document the patient's refusal, but leave the refusal form blank because only the patient can legally sign it.",
+      "advise the patient that unless he signs the refusal form, he cannot legally refuse EMS treatment or transport."
+    ],
+    "correctAnswers": [
+      "sign the refusal form, include the date and time, and have your partner witness it with his or her signature."
+    ],
+    "selectedAnswer": "sign the refusal form, include the date and time, and have your partner witness it with his or her signature.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_211537_8",
+    "question": "During your assessment of a 20-year-old man with a severe headache and nausea, you ask him when his headache began, but he does not answer your question immediately. You should:",
+    "answers": [
+      "repeat your question because he probably did not hear you.",
+      "tell him that you cannot help him unless he answers your questions.",
+      "ask him if he frequently experiences severe headaches and nausea.",
+      "allow him time to think about the question and respond to it."
+    ],
+    "correctAnswers": [
+      "allow him time to think about the question and respond to it."
+    ],
+    "selectedAnswer": "allow him time to think about the question and respond to it.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_211537_9",
+    "question": "Ethnocentrism is defined as:",
+    "answers": [
+      "suspecting that a person has an ulterior motive based on the tone of his or her voice when answering a question.",
+      "considering your own cultural values as more important when interacting with people of a different culture.",
+      "subconsciously forcing your cultural values onto a patient because you believe that your own values are more acceptable.",
+      "understanding that people from different cultural backgrounds respond to pain and stress differently."
+    ],
+    "correctAnswers": [
+      "considering your own cultural values as more important when interacting with people of a different culture."
+    ],
+    "selectedAnswer": "considering your own cultural values as more important when interacting with people of a different culture.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_211537_10",
+    "question": "Medical control gives you an order that seems inappropriate for the patient's condition. After confirming that you heard the physician correctly, you should:",
+    "answers": [
+      "obtain consent from the patient and then carry out the order as usual.",
+      "state that you will not carry out the order because it is inappropriate.",
+      "advise the physician that the order is unclear and ask for clarification.",
+      "carry out the order and then carefully document it on the run form."
+    ],
+    "correctAnswers": [
+      "advise the physician that the order is unclear and ask for clarification."
+    ],
+    "selectedAnswer": "advise the physician that the order is unclear and ask for clarification.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_211537_11",
+    "question": "The official transfer of patient care does not occur until the EMT:",
+    "answers": [
+      "gives an oral report to the emergency room physician or nurse.",
+      "notifies the admitting clerk of the patient's arrival at the hospital.",
+      "gives a radio report to the receiving medical facility.",
+      "informs dispatch of the patient's arrival at the emergency department."
+    ],
+    "correctAnswers": [
+      "gives an oral report to the emergency room physician or nurse."
+    ],
+    "selectedAnswer": "gives an oral report to the emergency room physician or nurse.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_211537_12",
+    "question": "When communicating with a visually impaired patient, you should:",
+    "answers": [
+      "expect the patient to have difficulty understanding.",
+      "possess an in-depth knowledge of sign language.",
+      "determine the degree of the patient's impairment.",
+      "recall that most visually impaired patients are blind."
+    ],
+    "correctAnswers": [
+      "determine the degree of the patient's impairment."
+    ],
+    "selectedAnswer": "determine the degree of the patient's impairment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_211537_13",
+    "question": "Which of the following incidents does not require a report to be filed with local authorities?",
+    "answers": [
+      "Gunshot wounds",
+      "Animal bites",
+      "Spousal abuse",
+      "Cardiac arrest"
+    ],
+    "correctAnswers": [
+      "Cardiac arrest"
+    ],
+    "selectedAnswer": "Cardiac arrest",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_211537_14",
+    "question": "Which of the following statements is not appropriate to document in the narrative section of a PCR?",
+    "answers": [
+      "\"General impression revealed that the patient was intoxicated.\"",
+      "\"The patient admits to smoking marijuana earlier in the day.\"",
+      "\"After oxygen was administered, the patient's breathing improved.\"",
+      "\"Significant damage was noted to the front end of the vehicle.\""
+    ],
+    "correctAnswers": [
+      "\"General impression revealed that the patient was intoxicated.\""
+    ],
+    "selectedAnswer": "\"General impression revealed that the patient was intoxicated.\"",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_211537_15",
+    "question": "Which of the following statements regarding a patient refusal is correct?",
+    "answers": [
+      "A mentally competent adult has the legal right to refuse EMS care and transport.",
+      "A patient who consumed a few beers will likely be able to refuse EMS treatment.",
+      "Documentation of proposed care is unnecessary if the patient refuses treatment.",
+      "Advice given to a patient who refuses EMS treatment should not be documented."
+    ],
+    "correctAnswers": [
+      "A mentally competent adult has the legal right to refuse EMS care and transport."
+    ],
+    "selectedAnswer": "A mentally competent adult has the legal right to refuse EMS care and transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_211537_16",
+    "question": "Which of the following statements regarding communication with a child is correct?",
+    "answers": [
+      "Standing over a child often increases his or her level of anxiety.",
+      "Unlike adults, children cannot see through lies or deceptions.",
+      "Most children are intrigued by strangers wearing uniforms.",
+      "The EMT should give the child minimal information to avoid scaring him or her."
+    ],
+    "correctAnswers": [
+      "Standing over a child often increases his or her level of anxiety."
+    ],
+    "selectedAnswer": "Standing over a child often increases his or her level of anxiety.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_211537_17",
+    "question": "Which of the following statements regarding standing orders is correct?",
+    "answers": [
+      "Standing orders should be followed when physician contact is not possible.",
+      "Standing orders have less legal authority than orders given via radio.",
+      "Standing orders require you to contact medical control first before providing an intervention.",
+      "Standing orders only highlight the care that you may provide."
+    ],
+    "correctAnswers": [
+      "Standing orders should be followed when physician contact is not possible."
+    ],
+    "selectedAnswer": "Standing orders should be followed when physician contact is not possible.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_211537_18",
+    "question": "You and your partner are dispatched to a residence for an \"ill person.\" When you arrive, you find that the patient, a 44-year-old man, does not speak English. There are no relatives or bystanders present who can act as an interpreter. You should:",
+    "answers": [
+      "speak to the patient with a moderately louder voice to facilitate his ability to understand what you are saying.",
+      "give the patient oxygen, assess his vital signs, and transport him to the hospital in a position of comfort.",
+      "refrain from performing any assessment or treatment until you can contact someone who can function as an interpreter.",
+      "use short, simple questions and point to specific parts of your body to try to determine the source of the patient's complaint."
+    ],
+    "correctAnswers": [
+      "use short, simple questions and point to specific parts of your body to try to determine the source of the patient's complaint."
+    ],
+    "selectedAnswer": "use short, simple questions and point to specific parts of your body to try to determine the source of the patient's complaint.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_211537_19",
+    "question": "You are assessing a 75-year-old woman with mild shortness of breath. As you are asking her questions about her chief complaint and medical history, you progressively move closer and closer to her. In doing this, it is important to remember that:",
+    "answers": [
+      "it is necessary to enter an older person's intimate space because the elderly are typically hearing impaired.",
+      "as you physically get closer to the patient, a greater and greater sense of trust must be established.",
+      "a patient's personal space should not be violated, regardless of any barriers that might hamper communication.",
+      "placing yourself in the patient's personal space is relaying to her that you can be trusted."
+    ],
+    "correctAnswers": [
+      "a patient's personal space should not be violated, regardless of any barriers that might hamper communication."
+    ],
+    "selectedAnswer": "a patient's personal space should not be violated, regardless of any barriers that might hamper communication.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_211537_20",
+    "question": "You are dispatched to the residence of an Asian family for a child with a high fever. When you assess the child, you note that he has numerous red marks on his back. The child's parents explain that these marks represent coining",
+    "answers": [
+      "acknowledge and respect this practice as a cultural belief, but advise the child's parents that it has no healing power.",
+      "advise the emergency department physician that you believe the child was intentionally abused by his parents.",
+      "document this finding on your patient care report and advise the emergency department staff of what the child's parents told you.",
+      "advise the child's parents that this is a harmful practice and is considered a form of child abuse in the United States."
+    ],
+    "correctAnswers": [
+      "document this finding on your patient care report and advise the emergency department staff of what the child's parents told you."
+    ],
+    "selectedAnswer": "document this finding on your patient care report and advise the emergency department staff of what the child's parents told you.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

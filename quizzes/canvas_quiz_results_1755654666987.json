@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_213299_1",
+    "question": "A 20-year-old male was pulled from cold water by his friends. The length of his submersion is not known and was not witnessed. You perform a primary assessment and determine that the patient is apneic and has a slow, weak pulse. You should:",
+    "answers": [
+      "ventilate with a bag-valve mask, apply a rigid cervical collar, remove his wet clothing, and transport rapidly.",
+      "provide rescue breathing, remove his wet clothing, immobilize his entire spine, keep him warm, and transport carefully.",
+      "apply high-flow oxygen via a nonrebreathing mask, immobilize his spine, keep him warm, and transport rapidly.",
+      "suction his airway for 30 seconds, provide rescue breathing, keep him warm, and transport at once."
+    ],
+    "correctAnswers": [
+      "provide rescue breathing, remove his wet clothing, immobilize his entire spine, keep him warm, and transport carefully."
+    ],
+    "selectedAnswer": "provide rescue breathing, remove his wet clothing, immobilize his entire spine, keep him warm, and transport carefully.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_213299_2",
+    "question": "A 30-year-old male was rescued after being lost in the woods for approximately 18 hours. The outside temperature is 30°F (-1°C). He is immediately placed in the warmed ambulance, where you perform a primary assessment. He is unresponsive, pale, and apneic. You should:",
+    "answers": [
+      "apply chemical heat packs to his groin and axillae.",
+      "assess for a carotid pulse for up to 60 seconds.",
+      "apply an automated external defibrillator and assess his cardiac rhythm.",
+      "open his airway and give two rescue breaths."
+    ],
+    "correctAnswers": [
+      "assess for a carotid pulse for up to 60 seconds."
+    ],
+    "selectedAnswer": "open his airway and give two rescue breaths.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_213299_3",
+    "question": "A 31-year-old male was bitten on the leg by an unidentified snake. The patient is conscious and alert and in no apparent distress. Your assessment of his leg reveals two small puncture marks with minimal pain and swelling. In addition to administering oxygen and providing reassurance, further care for this patient should include:",
+    "answers": [
+      "elevating the lower extremities and giving antivenin.",
+      "transporting only with close, continuous monitoring.",
+      "supine positioning, splinting the leg, and transporting.",
+      "applying ice to the wound and transporting quickly."
+    ],
+    "correctAnswers": [
+      "supine positioning, splinting the leg, and transporting."
+    ],
+    "selectedAnswer": "transporting only with close, continuous monitoring.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_213299_4",
+    "question": "After being stung on the leg by a jellyfish, a man complains of severe pain to his leg, dizziness, and difficulty breathing. He has a red rash covering his trunk, and his blood pressure is 90/50 mm Hg. The EMT should:",
+    "answers": [
+      "remove the stingers from his leg by scraping them with a stiff object.",
+      "administer oxygen and epinephrine and prepare for rapid transport.",
+      "begin transport and immerse his leg in hot water to help reduce pain.",
+      "apply warmth to the sting area and cover it with a dry sterile dressing."
+    ],
+    "correctAnswers": [
+      "administer oxygen and epinephrine and prepare for rapid transport."
+    ],
+    "selectedAnswer": "administer oxygen and epinephrine and prepare for rapid transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_213299_5",
+    "question": "All of the following snakes are pit vipers, except for the:",
+    "answers": [
+      "rattlesnake.",
+      "coral snake.",
+      "cottonmouth.",
+      "copperhead."
+    ],
+    "correctAnswers": [
+      "coral snake."
+    ],
+    "selectedAnswer": "coral snake.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_213299_6",
+    "question": "An air embolism associated with diving occurs when:",
+    "answers": [
+      "high water pressure forces air into the mediastinum.",
+      "the diver holds his or her breath during a rapid ascent.",
+      "the alveoli completely collapse due to high pressure.",
+      "the diver hyperventilates prior to entering the water."
+    ],
+    "correctAnswers": [
+      "the diver holds his or her breath during a rapid ascent."
+    ],
+    "selectedAnswer": "the diver holds his or her breath during a rapid ascent.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_213299_7",
+    "question": "A person's ability to shiver is lost when his or her body temperature falls below:",
+    "answers": [
+      "95°F (35°C).",
+      "92°F (33°C).",
+      "94°F (34°C).",
+      "90°F (32°C)."
+    ],
+    "correctAnswers": [
+      "90°F (32°C)."
+    ],
+    "selectedAnswer": "90°F (32°C).",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_213299_8",
+    "question": "Burns associated with lightning strikes are typically:",
+    "answers": [
+      "full-thickness.",
+      "third-degree.",
+      "superficial.",
+      "partial-thickness."
+    ],
+    "correctAnswers": [
+      "superficial."
+    ],
+    "selectedAnswer": "superficial.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_213299_9",
+    "question": "Common signs and symptoms of heat exhaustion include all of the following, except:",
+    "answers": [
+      "tachycardia.",
+      "dry tongue and thirst.",
+      "hot, dry skin.",
+      "nausea."
+    ],
+    "correctAnswers": [
+      "hot, dry skin."
+    ],
+    "selectedAnswer": "hot, dry skin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_213299_10",
+    "question": "For sweating to be an effective cooling mechanism:",
+    "answers": [
+      "the body must produce at least 1 L per hour.",
+      "the relative humidity must be above 90%.",
+      "several layers of clothing must be worn.",
+      "it must evaporate from the body."
+    ],
+    "correctAnswers": [
+      "it must evaporate from the body."
+    ],
+    "selectedAnswer": "it must evaporate from the body.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_213299_11",
+    "question": "Geriatric patients, newborns, and infants are especially prone to hyperthermia because they:",
+    "answers": [
+      "have less body fat.",
+      "have smaller body surface areas.",
+      "have relatively smaller heads.",
+      "exhibit poor thermoregulation."
+    ],
+    "correctAnswers": [
+      "exhibit poor thermoregulation."
+    ],
+    "selectedAnswer": "exhibit poor thermoregulation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_213299_12",
+    "question": "Heat loss from the body through respiration occurs when:",
+    "answers": [
+      "air temperature is greater than body temperature.",
+      "the core body temperature is greater than 98°F (37°C).",
+      "warm air is exhaled into the atmosphere.",
+      "cool air is inhaled and displaces warm air."
+    ],
+    "correctAnswers": [
+      "warm air is exhaled into the atmosphere."
+    ],
+    "selectedAnswer": "warm air is exhaled into the atmosphere.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_213299_13",
+    "question": "Heatstroke occurs when:",
+    "answers": [
+      "the body's heat-eliminating mechanisms are overwhelmed.",
+      "the ambient temperature exceeds 90°F (32°C) and the humidity is high.",
+      "a person becomes dehydrated secondary to excess water loss.",
+      "a person's core body temperature rises above 103°F (39°C)."
+    ],
+    "correctAnswers": [
+      "the body's heat-eliminating mechanisms are overwhelmed."
+    ],
+    "selectedAnswer": "the body's heat-eliminating mechanisms are overwhelmed.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_213299_14",
+    "question": "In contrast to Lyme disease, Rocky Mountain spotted fever:",
+    "answers": [
+      "can cause paralysis and cardiorespiratory collapse.",
+      "presents with flu-like symptoms and a bull's-eye rash.",
+      "might be confused with rheumatoid arthritis.",
+      "causes painful joint swelling after a few days or weeks."
+    ],
+    "correctAnswers": [
+      "can cause paralysis and cardiorespiratory collapse."
+    ],
+    "selectedAnswer": "can cause paralysis and cardiorespiratory collapse.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_213299_15",
+    "question": "In contrast to the brown recluse spider, the black widow spider:",
+    "answers": [
+      "is very small and has a violin-shaped marking on its back.",
+      "is large and has a red-orange hourglass mark on its abdomen.",
+      "has a bite that usually produces local pain but no systemic signs or symptoms.",
+      "has a bite that is typically painless until a blister develops."
+    ],
+    "correctAnswers": [
+      "is large and has a red-orange hourglass mark on its abdomen."
+    ],
+    "selectedAnswer": "has a bite that usually produces local pain but no systemic signs or symptoms.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_213299_16",
+    "question": "Most of the serious injuries associated with scuba diving are caused by:",
+    "answers": [
+      "alcohol consumption.",
+      "too rapid of a descent.",
+      "cold water temperature.",
+      "too rapid of an ascent."
+    ],
+    "correctAnswers": [
+      "too rapid of an ascent."
+    ],
+    "selectedAnswer": "too rapid of an ascent.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_213299_17",
+    "question": "Signs and symptoms of an air embolism include all of the following, except:",
+    "answers": [
+      "dizziness.",
+      "dysphasia.",
+      "pale skin.",
+      "joint pain."
+    ],
+    "correctAnswers": [
+      "pale skin."
+    ],
+    "selectedAnswer": "joint pain.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_213299_18",
+    "question": "The EMT must assume that any unwitnessed water-related incident is accompanied by:",
+    "answers": [
+      "cold-water immersion.",
+      "alcohol intoxication.",
+      "an air embolism.",
+      "possible spinal injury."
+    ],
+    "correctAnswers": [
+      "possible spinal injury."
+    ],
+    "selectedAnswer": "possible spinal injury.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_213299_19",
+    "question": "The most prominent symptom of decompression sickness is:",
+    "answers": [
+      "abdominal or joint pain.",
+      "dizziness and nausea.",
+      "tightness in the chest.",
+      "difficulty with vision."
+    ],
+    "correctAnswers": [
+      "abdominal or joint pain."
+    ],
+    "selectedAnswer": "abdominal or joint pain.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_213299_20",
+    "question": "When a warm hand is immersed in water that is 70°F (21°C), heat is transferred from the hand to the water through a process called:",
+    "answers": [
+      "convection.",
+      "radiation.",
+      "conduction.",
+      "evaporation."
+    ],
+    "correctAnswers": [
+      "conduction."
+    ],
+    "selectedAnswer": "conduction.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

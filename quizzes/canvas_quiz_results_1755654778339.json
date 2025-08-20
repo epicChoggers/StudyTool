@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_211610_1",
+    "question": "A 19-year-old male is unresponsive, apneic, and pulseless after being struck in the center of the chest with a softball. Based on the mechanism of injury, what most likely occurred?",
+    "answers": [
+      "Ventricular fibrillation when the impact occurred during a critical portion of the cardiac cycle",
+      "Collapse of both lungs due to fractured ribs that perforated the lung tissue and caused cardiac arrest",
+      "Fracture of the sternum that caused a rupture of the myocardium and led to a cardiac dysrhythmia",
+      "Asystole secondary to massive intrathoracic hemorrhage due to traumatic rupture of the aorta"
+    ],
+    "correctAnswers": [
+      "Ventricular fibrillation when the impact occurred during a critical portion of the cardiac cycle"
+    ],
+    "selectedAnswer": "Ventricular fibrillation when the impact occurred during a critical portion of the cardiac cycle",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_211610_2",
+    "question": "A man called EMS 12 hours after injuring his chest. Your assessment reveals a flail segment to the right side of the chest. The patient is experiencing respiratory distress, and his oxygen saturation is 78%. His breath sounds are equal bilaterally, and his jugular veins are normal. You should suspect:",
+    "answers": [
+      "pulmonary contusion.",
+      "massive hemothorax.",
+      "tension pneumothorax.",
+      "traumatic asphyxia."
+    ],
+    "correctAnswers": [
+      "pulmonary contusion."
+    ],
+    "selectedAnswer": "pulmonary contusion.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_211610_3",
+    "question": "An open pneumothorax is:",
+    "answers": [
+      "a fractured rib that perforates the tissue of the lung surface.",
+      "the entry of air into the pleural space from a perforated lung.",
+      "extreme pleural pressure that causes the lung to rupture.",
+      "an open chest wound through which air moves during breathing."
+    ],
+    "correctAnswers": [
+      "an open chest wound through which air moves during breathing."
+    ],
+    "selectedAnswer": "an open chest wound through which air moves during breathing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_211610_4",
+    "question": "A rapid, irregular pulse following blunt trauma to the chest is most suggestive of a:",
+    "answers": [
+      "myocardial contusion.",
+      "pericardial tamponade.",
+      "tension pneumothorax.",
+      "ruptured aorta."
+    ],
+    "correctAnswers": [
+      "myocardial contusion."
+    ],
+    "selectedAnswer": "myocardial contusion.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_211610_5",
+    "question": "A spinal cord injury at the level of C7 would most likely result in:",
+    "answers": [
+      "paralysis of the intercostal muscles.",
+      "paralysis of all the respiratory muscles.",
+      "immediate cardiac arrest.",
+      "paralysis of the diaphragm."
+    ],
+    "correctAnswers": [
+      "paralysis of the intercostal muscles."
+    ],
+    "selectedAnswer": "paralysis of the intercostal muscles.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_211610_6",
+    "question": "Common signs and symptoms of a chest injury include all of the following, except:",
+    "answers": [
+      "hematemesis.",
+      "chest wall ecchymosis.",
+      "localized pain.",
+      "tachypnea."
+    ],
+    "correctAnswers": [
+      "hematemesis."
+    ],
+    "selectedAnswer": "hematemesis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_211610_7",
+    "question": "Elevation of the rib cage during inhalation occurs when:",
+    "answers": [
+      "intrathoracic pressure decreases.",
+      "abdominal contents descend.",
+      "the diaphragm descends.",
+      "the intercostal muscles contract."
+    ],
+    "correctAnswers": [
+      "the intercostal muscles contract."
+    ],
+    "selectedAnswer": "the intercostal muscles contract.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_211610_8",
+    "question": "Following a stab wound to the left anterior chest, a 25-year-old male presents with a decreased level of consciousness and signs of shock. Which of the following additional assessment findings should increase your index of suspicion for a cardiac tamponade?",
+    "answers": [
+      "Engorged jugular veins",
+      "A rapid, irregular pulse",
+      "Diminished breath sounds",
+      "Widening pulse pressure"
+    ],
+    "correctAnswers": [
+      "Engorged jugular veins"
+    ],
+    "selectedAnswer": "Engorged jugular veins",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_211610_9",
+    "question": "Following blunt trauma to the chest, an 18-year-old female presents with respiratory distress, shallow breathing, and cyanosis. Her blood pressure is 80/50 mm Hg and her pulse is 130 beats/min and thready. You should:",
+    "answers": [
+      "apply 100% oxygen via a nonrebreathing mask.",
+      "perform a rapid head-to-toe physical assessment.",
+      "place her supine and elevate her lower extremities.",
+      "provide ventilation assistance with a bag valve mask."
+    ],
+    "correctAnswers": [
+      "provide ventilation assistance with a bag valve mask."
+    ],
+    "selectedAnswer": "provide ventilation assistance with a bag valve mask.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_211610_10",
+    "question": "Hemoptysis is defined as:",
+    "answers": [
+      "coughing up blood.",
+      "abnormal blood clotting.",
+      "vomiting blood.",
+      "blood in the pleural space."
+    ],
+    "correctAnswers": [
+      "coughing up blood."
+    ],
+    "selectedAnswer": "coughing up blood.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_211610_11",
+    "question": "Pleural fluid is contained between the:",
+    "answers": [
+      "parietal pleura and the heart.",
+      "visceral and parietal pleurae.",
+      "visceral pleura and the lung.",
+      "parietal pleura and the chest wall."
+    ],
+    "correctAnswers": [
+      "visceral and parietal pleurae."
+    ],
+    "selectedAnswer": "visceral and parietal pleurae.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_211610_12",
+    "question": "Signs and symptoms of a tension pneumothorax include all of the following, except:",
+    "answers": [
+      "collapsed jugular veins.",
+      "profound cyanosis.",
+      "unilaterally absent breath sounds.",
+      "altered mental status."
+    ],
+    "correctAnswers": [
+      "collapsed jugular veins."
+    ],
+    "selectedAnswer": "collapsed jugular veins.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_211610_13",
+    "question": "Subcutaneous emphysema is an indication that:",
+    "answers": [
+      "air is escaping into the chest wall from a damaged lung.",
+      "at least half of one lung has completely collapsed.",
+      "your patient is experiencing a pericardial tamponade.",
+      "blood is slowly accumulating within the tissue of the lung."
+    ],
+    "correctAnswers": [
+      "air is escaping into the chest wall from a damaged lung."
+    ],
+    "selectedAnswer": "air is escaping into the chest wall from a damaged lung.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_211610_14",
+    "question": "The most critical treatment for a tension pneumothorax involves:",
+    "answers": [
+      "inserting a needle through the rib cage into the pleural space.",
+      "surgically removing the portion of the lung that is damaged.",
+      "assisting the patient's breathing with increased tidal volume.",
+      "placing a bulky dressing over the affected side of the chest."
+    ],
+    "correctAnswers": [
+      "inserting a needle through the rib cage into the pleural space."
+    ],
+    "selectedAnswer": "inserting a needle through the rib cage into the pleural space.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_211610_15",
+    "question": "To avoid exacerbating a patient's injury, it is especially important to use extreme caution when providing positive-pressure ventilation to patients with a:",
+    "answers": [
+      "pneumothorax.",
+      "cardiac tamponade.",
+      "flail chest.",
+      "myocardial contusion."
+    ],
+    "correctAnswers": [
+      "pneumothorax."
+    ],
+    "selectedAnswer": "pneumothorax.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_211610_16",
+    "question": "When a person is lying supine at the end of exhalation, the diaphragm:",
+    "answers": [
+      "descends below the level of the navel.",
+      "might rise as high as the nipple line.",
+      "is less prone to penetrating trauma.",
+      "contracts and flattens inferiorly."
+    ],
+    "correctAnswers": [
+      "might rise as high as the nipple line."
+    ],
+    "selectedAnswer": "might rise as high as the nipple line.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_211610_17",
+    "question": "When assessing a patient with a hemothorax, you will most likely find:",
+    "answers": [
+      "signs and symptoms of shock.",
+      "distant or muffled heart tones.",
+      "ipsilateral tracheal deviation.",
+      "jugular venous engorgement."
+    ],
+    "correctAnswers": [
+      "signs and symptoms of shock."
+    ],
+    "selectedAnswer": "signs and symptoms of shock.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_211610_18",
+    "question": "You arrive at the scene of a major motor vehicle crash. The patient, a 50-year-old female, was removed from her vehicle prior to your arrival. Bystanders who removed her state that she was not wearing a seatbelt. The patient is unresponsive, tachycardic, and diaphoretic. Your assessment reveals bilaterally clear and equal breath sounds, a midline trachea, and collapsed jugular veins. You should be most suspicious that this patient has experienced a:",
+    "answers": [
+      "laceration of the aorta.",
+      "massive hemothorax.",
+      "pericardial tamponade.",
+      "tension pneumothorax."
+    ],
+    "correctAnswers": [
+      "laceration of the aorta."
+    ],
+    "selectedAnswer": "laceration of the aorta.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_211610_19",
+    "question": "You have sealed the open chest wound of a 40-year-old male who was stabbed in the anterior chest. Your reassessment reveals that he is experiencing increasing respiratory distress and tachycardia, and is developing cyanosis. You should:",
+    "answers": [
+      "partially remove the dressing.",
+      "begin ventilatory assistance.",
+      "call for a paramedic ambulance.",
+      "begin rapid transport at once."
+    ],
+    "correctAnswers": [
+      "partially remove the dressing."
+    ],
+    "selectedAnswer": "partially remove the dressing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_211610_20",
+    "question": "You respond to a residence for a 40-year-old female who was assaulted by her husband; the scene has been secured by law enforcement. Upon your arrival, you find the patient lying supine on the floor in the kitchen. She is semiconscious with severely labored breathing. Further assessment reveals a large bruise to the left anterior chest, jugular venous distention, and unilaterally absent breath sounds. As your partner is supporting her ventilations, you should:",
+    "answers": [
+      "obtain a set of baseline vital signs.",
+      "immediately request ALS support.",
+      "insert an oropharyngeal airway.",
+      "perform a focused secondary exam."
+    ],
+    "correctAnswers": [
+      "immediately request ALS support."
+    ],
+    "selectedAnswer": "immediately request ALS support.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_213312_1",
+    "question": "A 19-year-old female has just been extricated from her severely damaged car. She is on a long backboard and has been moved to a place of safety. As your partner maintains manual stabilization of her head, you perform a rapid assessment. The patient is unresponsive, has slow and shallow respirations, and has bilateral closed femur deformities. You should:",
+    "answers": [
+      "apply oxygen via a nonrebreathing mask.",
+      "obtain baseline vital signs and transport at once.",
+      "stabilize her legs with long board splints.",
+      "direct your partner to begin ventilatory assistance."
+    ],
+    "correctAnswers": [
+      "direct your partner to begin ventilatory assistance."
+    ],
+    "selectedAnswer": "direct your partner to begin ventilatory assistance.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_213312_2",
+    "question": "A 33-year-old restrained driver of a motor vehicle crash is awake and alert, complaining only of neck pain and left leg pain. The vehicle is stable, and no hazards are present. When removing this patient from his vehicle, you should:",
+    "answers": [
+      "maintain slight traction to his neck area.",
+      "apply a full leg splint prior to extrication.",
+      "use the rapid extrication technique.",
+      "immobilize him with a vest-style device."
+    ],
+    "correctAnswers": [
+      "immobilize him with a vest-style device."
+    ],
+    "selectedAnswer": "immobilize him with a vest-style device.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_213312_3",
+    "question": "A 50-year-old female is entrapped in her passenger car after it struck a tree. As the rescue team is preparing to extricate her, you quickly assess her and determine that she is breathing shallowly and her radial pulse is absent. You should:",
+    "answers": [
+      "begin CPR as the rescue team begins extrication.",
+      "secure her with a short backboard or vest device.",
+      "maintain spinal stabilization as she is extricated.",
+      "stabilize her condition before extrication begins."
+    ],
+    "correctAnswers": [
+      "maintain spinal stabilization as she is extricated."
+    ],
+    "selectedAnswer": "begin CPR as the rescue team begins extrication.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_213312_4",
+    "question": "As you and your team are removing an unresponsive patient from her wrecked car, you note that she has deformities to both of her legs and a deformity to her left humerus. You should:",
+    "answers": [
+      "support the injured extremities and continue removal.",
+      "splint the deformities before moving her any further.",
+      "assess distal neurovascular functions in her extremities.",
+      "realign the deformed extremities before continuing."
+    ],
+    "correctAnswers": [
+      "support the injured extremities and continue removal."
+    ],
+    "selectedAnswer": "support the injured extremities and continue removal.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_213312_5",
+    "question": "A unique consideration when dealing with a hybrid vehicle is that:",
+    "answers": [
+      "rescue teams should disconnect the positive battery cable first.",
+      "you must locate the ignition switch and cut it to prevent a fire.",
+      "the battery has higher voltage than a traditional vehicle battery.",
+      "cutting the battery cables often results in an explosion or fire."
+    ],
+    "correctAnswers": [
+      "the battery has higher voltage than a traditional vehicle battery."
+    ],
+    "selectedAnswer": "the battery has higher voltage than a traditional vehicle battery.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_213312_6",
+    "question": "Common duties and responsibilities of EMS personnel at the scene of a motor vehicle crash include all of the following, except:",
+    "answers": [
+      "ongoing assessment of critical patients.",
+      "keeping bystanders at a safe distance.",
+      "preparing all patients for transportation.",
+      "assigning all patients a triage category."
+    ],
+    "correctAnswers": [
+      "keeping bystanders at a safe distance."
+    ],
+    "selectedAnswer": "assigning all patients a triage category.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_213312_7",
+    "question": "In contrast to simple access, complex access:",
+    "answers": [
+      "involves forcible entry into a vehicle.",
+      "is a skill commonly taught to EMTs.",
+      "often involves simply unlocking a door.",
+      "does not involve the breaking of glass."
+    ],
+    "correctAnswers": [
+      "involves forcible entry into a vehicle."
+    ],
+    "selectedAnswer": "involves forcible entry into a vehicle.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_213312_8",
+    "question": "Once entrance and access to the patient have been provided, you should:",
+    "answers": [
+      "perform a primary assessment.",
+      "allow extrication to commence.",
+      "begin treating his or her injuries.",
+      "administer high-flow oxygen."
+    ],
+    "correctAnswers": [
+      "perform a primary assessment."
+    ],
+    "selectedAnswer": "perform a primary assessment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_213312_9",
+    "question": "Situational awareness is most accurately defined as:",
+    "answers": [
+      "an ongoing process of information gathering and scene evaluation to determine appropriate strategies and tactics.",
+      "the ability to recognize any possible issues once you arrive at the scene and act proactively to avoid a negative impact.",
+      "performing an initial scan of the scene to identify hazards that will pose an immediate threat to you and your crew.",
+      "predicting the presence of certain hazards at the scene after receiving initial information from the dispatcher."
+    ],
+    "correctAnswers": [
+      "the ability to recognize any possible issues once you arrive at the scene and act proactively to avoid a negative impact."
+    ],
+    "selectedAnswer": "an ongoing process of information gathering and scene evaluation to determine appropriate strategies and tactics.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_213312_10",
+    "question": "The rescue team is in the process of extricating a 40-year-old male from his truck. The patient's wife, who was uninjured in the crash, is calmly observing the extrication and asks you if her husband will be all right. You should:",
+    "answers": [
+      "allow her to talk to her husband during the extrication.",
+      "allow her to observe the extrication and keep her calm.",
+      "ask her follow-up questions about the details of the crash.",
+      "ensure that she is in a safe area, away from the scene."
+    ],
+    "correctAnswers": [
+      "ensure that she is in a safe area, away from the scene."
+    ],
+    "selectedAnswer": "ensure that she is in a safe area, away from the scene.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_213312_11",
+    "question": "The scene size-up at a motor vehicle crash or other incident:",
+    "answers": [
+      "is an ongoing process until the incident is terminated.",
+      "determines who is allowed to safely enter the hot zone.",
+      "is a quick visual assessment of the scene prior to entry.",
+      "should be performed by the most experienced EMT."
+    ],
+    "correctAnswers": [
+      "is an ongoing process until the incident is terminated."
+    ],
+    "selectedAnswer": "is a quick visual assessment of the scene prior to entry.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_213312_12",
+    "question": "To evaluate hazards present at the scene and determine the number of patients, you should:",
+    "answers": [
+      "use the information provided by dispatch.",
+      "request the fire department at all scenes.",
+      "interview bystanders present at the scene.",
+      "perform a 360° walkaround of the scene."
+    ],
+    "correctAnswers": [
+      "perform a 360° walkaround of the scene."
+    ],
+    "selectedAnswer": "perform a 360° walkaround of the scene.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_213312_13",
+    "question": "Trench collapses usually involve large areas of falling dirt that weigh approximately _______ per cubic foot.",
+    "answers": [
+      "50 lbs",
+      "200 lbs",
+      "100 lbs",
+      "150 lbs"
+    ],
+    "correctAnswers": [
+      "100 lbs"
+    ],
+    "selectedAnswer": "100 lbs",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_213312_14",
+    "question": "Upon arriving at the scene of a law enforcement tactical situation, you should ensure your own safety and then:",
+    "answers": [
+      "begin immediate triage of any injured personnel.",
+      "apprise medical control of the tactical situation.",
+      "locate all injured personnel and begin treatment.",
+      "report to the incident commander for instructions."
+    ],
+    "correctAnswers": [
+      "report to the incident commander for instructions."
+    ],
+    "selectedAnswer": "report to the incident commander for instructions.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_213312_15",
+    "question": "When determining the exact location and position of the patient(s) in a wrecked vehicle, you and your team should routinely consider all of the following, except:",
+    "answers": [
+      "the possibility of vehicle instability.",
+      "the make and model of the vehicle.",
+      "the position of the crashed vehicle.",
+      "hazards that pose a risk to rescuers."
+    ],
+    "correctAnswers": [
+      "the make and model of the vehicle."
+    ],
+    "selectedAnswer": "the make and model of the vehicle.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_213312_16",
+    "question": "Which of the following situations would require the use of a specialized rescue team?",
+    "answers": [
+      "An obese patient who must be moved to the ambulance",
+      "A patient found floating face down in a swimming pool",
+      "A patient in a badly damaged car, not entrapped",
+      "A patient trapped in a cave or a confined space"
+    ],
+    "correctAnswers": [
+      "A patient trapped in a cave or a confined space"
+    ],
+    "selectedAnswer": "A patient trapped in a cave or a confined space",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_213312_17",
+    "question": "Which of the following statements regarding the rapid extrication technique is correct?",
+    "answers": [
+      "Rapid extrication is indicated if the scene is unsafe and the patient is not entrapped in his or her vehicle.",
+      "The only indication for performing a rapid extrication is if the patient is not entrapped and is in cardiac arrest.",
+      "Rapid extrication involves the use of heavy equipment to disentangle a patient from his or her crashed vehicle.",
+      "It involves rapidly removing a patient from his or her vehicle after immobilizing him or her with a short backboard."
+    ],
+    "correctAnswers": [
+      "Rapid extrication is indicated if the scene is unsafe and the patient is not entrapped in his or her vehicle."
+    ],
+    "selectedAnswer": "Rapid extrication is indicated if the scene is unsafe and the patient is not entrapped in his or her vehicle.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_213312_18",
+    "question": "You and your partner are standing by at the scene of a residential fire when you hear the incident commander state, \"We have located a victim\" over the radio. You should:",
+    "answers": [
+      "immediately locate the incident commander and ask where the victim is located.",
+      "remain with the ambulance and wait for fire personnel to bring the victim to you.",
+      "locate the victim and provide initial care while your partner stays with the ambulance.",
+      "notify the hospital that you will be transporting a burn patient to their facility."
+    ],
+    "correctAnswers": [
+      "remain with the ambulance and wait for fire personnel to bring the victim to you."
+    ],
+    "selectedAnswer": "immediately locate the incident commander and ask where the victim is located.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_213312_19",
+    "question": "You are standing by at the scene of a hostage situation when the incident commander advises you that one of his personnel has been shot. The patient is lying supine in an open area and is not moving. As the SWAT team escorts you to the patient, you should:",
+    "answers": [
+      "limit your primary assessment to airway and breathing only.",
+      "grab him by the clothes and immediately move him to safety.",
+      "perform a rapid assessment and move him to a place of safety.",
+      "treat only critical injuries before moving him to a safe place."
+    ],
+    "correctAnswers": [
+      "grab him by the clothes and immediately move him to safety."
+    ],
+    "selectedAnswer": "grab him by the clothes and immediately move him to safety.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_213312_20",
+    "question": "Your unit has been dispatched to stand by at the scene of a structure fire. There are no injuries of which you are aware. Upon arriving at the scene, you should:",
+    "answers": [
+      "set up a staging area where firefighters can be treated if necessary.",
+      "ask the incident commander where the ambulance should be staged.",
+      "park your ambulance behind the incident commander's vehicle.",
+      "contact medical control and apprise him or her of the situation."
+    ],
+    "correctAnswers": [
+      "ask the incident commander where the ambulance should be staged."
+    ],
+    "selectedAnswer": "ask the incident commander where the ambulance should be staged.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

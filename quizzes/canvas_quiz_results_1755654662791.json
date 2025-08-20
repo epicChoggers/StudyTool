@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_202094_1",
+    "question": "A 75-year-old male with a terminal illness has died at home. As you and your partner enter the residence, a family member becomes verbally abusive, pushes you, and states that you took too long to get there. You should:",
+    "answers": [
+      "tell the family member that it is not your fault.",
+      "retreat and notify law enforcement personnel.",
+      "subdue the family member until the police arrive.",
+      "ignore the family member and assess the patient."
+    ],
+    "correctAnswers": [
+      "retreat and notify law enforcement personnel."
+    ],
+    "selectedAnswer": "retreat and notify law enforcement personnel.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_202094_2",
+    "question": "According to Occupational Safety and Health Administration (OSHA) regulations, an employer must:",
+    "answers": [
+      "provide gloves and other personal protective equipment to full-time paid employees only.",
+      "guarantee a 100% risk-free environment prior to employment.",
+      "offer a workplace environment that reduces the risk of exposure.",
+      "screen all prospective employees for bloodborne pathogens."
+    ],
+    "correctAnswers": [
+      "offer a workplace environment that reduces the risk of exposure."
+    ],
+    "selectedAnswer": "offer a workplace environment that reduces the risk of exposure.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_202094_3",
+    "question": "A critical incident stress debriefing should be conducted no longer than ________ hours following the incident.",
+    "answers": [
+      "24",
+      "12",
+      "72",
+      "six"
+    ],
+    "correctAnswers": [
+      "72"
+    ],
+    "selectedAnswer": "72",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_202094_4",
+    "question": "After assessing a patient's blood glucose level, you accidentally stick yourself with the contaminated lancet. You should:",
+    "answers": [
+      "report the incident to your supervisor after the call.",
+      "immerse your wound in an alcohol-based solution.",
+      "discontinue patient care and seek medical attention.",
+      "get immunized against hepatitis as soon as possible."
+    ],
+    "correctAnswers": [
+      "report the incident to your supervisor after the call."
+    ],
+    "selectedAnswer": "discontinue patient care and seek medical attention.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_202094_5",
+    "question": "A positive TB skin test indicates that:",
+    "answers": [
+      "you have been exposed to TB.",
+      "the TB disease is currently dormant but might later become active.",
+      "you are actively infected with TB.",
+      "you have never been exposed to TB."
+    ],
+    "correctAnswers": [
+      "you have been exposed to TB."
+    ],
+    "selectedAnswer": "you have been exposed to TB.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_202094_6",
+    "question": "As an EMT, it is important to remember that the signs and symptoms of cumulative stress:",
+    "answers": [
+      "usually manifest suddenly and without warning.",
+      "might not be obvious or present all the time.",
+      "cannot be identified and can cause health problems.",
+      "are most effectively treated with medications."
+    ],
+    "correctAnswers": [
+      "might not be obvious or present all the time."
+    ],
+    "selectedAnswer": "might not be obvious or present all the time.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_202094_7",
+    "question": "At the scene of an automobile crash, a utility pole has been broken, and power lines are lying across the car. The patients inside the car are conscious. You should:",
+    "answers": [
+      "mark off a danger zone around the downed lines.",
+      "remove the lines with a nonconductive object.",
+      "proceed with normal extrication procedures.",
+      "advise the patients to carefully get out of the car."
+    ],
+    "correctAnswers": [
+      "mark off a danger zone around the downed lines."
+    ],
+    "selectedAnswer": "mark off a danger zone around the downed lines.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_202094_8",
+    "question": "Carbon monoxide blocks the ability of the blood to oxygenate the body because it:",
+    "answers": [
+      "fills the alveoli in the lungs with thick secretions.",
+      "destroys the number of circulating red blood cells.",
+      "causes the body to expel too much carbon dioxide.",
+      "binds with the hemoglobin in red blood cells."
+    ],
+    "correctAnswers": [
+      "binds with the hemoglobin in red blood cells."
+    ],
+    "selectedAnswer": "binds with the hemoglobin in red blood cells.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_202094_9",
+    "question": "Critical incident stress management (CISM) can occur at an ongoing scene in all of the following circumstances, except:",
+    "answers": [
+      "when personnel are assessed during periods of rest.",
+      "before leaving the scene after the incident is resolved.",
+      "before personnel are preparing to reenter the scene.",
+      "when patients are actively being assessed or treated."
+    ],
+    "correctAnswers": [
+      "when patients are actively being assessed or treated."
+    ],
+    "selectedAnswer": "when patients are actively being assessed or treated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_202094_10",
+    "question": "Gloves, a mask, eye protection, and a face shield should be used:",
+    "answers": [
+      "during routine cleaning of the ambulance.",
+      "while handling needles or other sharps.",
+      "whenever you touch non-intact skin.",
+      "when performing endotracheal intubation."
+    ],
+    "correctAnswers": [
+      "when performing endotracheal intubation."
+    ],
+    "selectedAnswer": "when performing endotracheal intubation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_202094_11",
+    "question": "If it is not possible to adequately clean your ambulance at the hospital following a call, you should:",
+    "answers": [
+      "wait until the end of your shift and then disinfect the entire patient compartment.",
+      "quickly wipe down all high-contact surfaces with an antibacterial solution.",
+      "clean the ambulance at your station in a designated area that is well ventilated.",
+      "thoroughly wash the back of the ambulance at a local car wash or similar facility."
+    ],
+    "correctAnswers": [
+      "clean the ambulance at your station in a designated area that is well ventilated."
+    ],
+    "selectedAnswer": "clean the ambulance at your station in a designated area that is well ventilated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_202094_12",
+    "question": "If you are exposed to a patient's blood or other bodily fluid, your first action should be to:",
+    "answers": [
+      "abandon patient care and seek medical attention.",
+      "report the incident to the infection control officer.",
+      "transfer care of the patient to another EMS provider.",
+      "vigorously clean the area with soap and water."
+    ],
+    "correctAnswers": [
+      "transfer care of the patient to another EMS provider."
+    ],
+    "selectedAnswer": "transfer care of the patient to another EMS provider.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_202094_13",
+    "question": "If you use a waterless handwashing substitute in the field, it is important to:",
+    "answers": [
+      "wait at least five minutes before touching another patient.",
+      "wash your hands with soap and water at the hospital.",
+      "avoid donning another pair of gloves for at least 10 minutes.",
+      "immediately dry your hands with a paper towel."
+    ],
+    "correctAnswers": [
+      "wash your hands with soap and water at the hospital."
+    ],
+    "selectedAnswer": "wash your hands with soap and water at the hospital.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_202094_14",
+    "question": "Prescription glasses do not provide adequate eye protection because they:",
+    "answers": [
+      "are not secured with a strap.",
+      "offer little or no side protection.",
+      "do not have shatterproof lenses.",
+      "have large, rounded lenses."
+    ],
+    "correctAnswers": [
+      "offer little or no side protection."
+    ],
+    "selectedAnswer": "offer little or no side protection.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_202094_15",
+    "question": "The capacity of an individual to cope with and recover from stress is called:",
+    "answers": [
+      "wellness.",
+      "distress.",
+      "eustress.",
+      "resilience."
+    ],
+    "correctAnswers": [
+      "resilience."
+    ],
+    "selectedAnswer": "resilience.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_202094_16",
+    "question": "The simplest, yet most effective method of preventing the spread of an infectious disease is to:",
+    "answers": [
+      "undergo annual testing for tuberculosis and hepatitis.",
+      "wash your hands in between patient contacts.",
+      "ensure that your immunizations are up-to-date.",
+      "undergo an annual physical examination."
+    ],
+    "correctAnswers": [
+      "wash your hands in between patient contacts."
+    ],
+    "selectedAnswer": "wash your hands in between patient contacts.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_202094_17",
+    "question": "Vector-borne transmission of an infectious organism occurs via:",
+    "answers": [
+      "smoke or dust.",
+      "inanimate objects.",
+      "direct contact.",
+      "animals or insects."
+    ],
+    "correctAnswers": [
+      "animals or insects."
+    ],
+    "selectedAnswer": "animals or insects.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_202094_18",
+    "question": "When decontaminating the back of your ambulance after a call, you should:",
+    "answers": [
+      "allow surfaces to air dry unless otherwise indicated in the product directions.",
+      "spray the contaminated areas and then immediately wipe them dry with a towel.",
+      "clean all surfaces and patient contact areas with a mixture of alcohol and water.",
+      "use a bleach and water solution at a 1:2 dilution ratio to thoroughly wipe all surfaces."
+    ],
+    "correctAnswers": [
+      "allow surfaces to air dry unless otherwise indicated in the product directions."
+    ],
+    "selectedAnswer": "allow surfaces to air dry unless otherwise indicated in the product directions.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_202094_19",
+    "question": "Which of the following is an effective stress management strategy?",
+    "answers": [
+      "Developing a social network outside of EMS",
+      "Requesting overtime to occupy your mind",
+      "Modestly increasing caffeine consumption",
+      "Frequently reflecting on troublesome calls"
+    ],
+    "correctAnswers": [
+      "Developing a social network outside of EMS"
+    ],
+    "selectedAnswer": "Developing a social network outside of EMS",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_202094_20",
+    "question": "Which of the following scenarios most accurately depicts a posttraumatic stress disorder (PTSD) reaction?",
+    "answers": [
+      "A newly certified EMT becomes extremely nauseated and diaphoretic at the scene of an incident involving grotesque injuries.",
+      "An EMT is emotionally exhausted and depressed after a school bus crash involving critical injuries and the death of several children.",
+      "An EMT with many years of field experience becomes irritable with her coworkers and experiences headaches and insomnia.",
+      "An EMT becomes distracted at the scene of a motor vehicle crash involving the same type of car in which a child was previously killed."
+    ],
+    "correctAnswers": [
+      "An EMT becomes distracted at the scene of a motor vehicle crash involving the same type of car in which a child was previously killed."
+    ],
+    "selectedAnswer": "An EMT becomes distracted at the scene of a motor vehicle crash involving the same type of car in which a child was previously killed.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

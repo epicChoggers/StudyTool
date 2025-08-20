@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_207372_1",
+    "question": "A 56-year-old female is found supine in a narrow hallway of her mobile home. She complains of severe weakness and dizziness, and states that she is unable to walk. There is no evidence of trauma, and the patient states that she did not fall. How should you and your partner move this patient to a more spacious area?",
+    "answers": [
+      "Scoop stretcher",
+      "Direct carry",
+      "Extremity lift",
+      "Emergency move"
+    ],
+    "correctAnswers": [
+      "Extremity lift"
+    ],
+    "selectedAnswer": "Extremity lift",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_207372_2",
+    "question": "After applying medical restraints to a combative patient, you should:",
+    "answers": [
+      "inform the patient that the restraints are punishment for their behavior.",
+      "position the patient prone in order to further prevent injury to yourself.",
+      "remove them only after hospital personnel have requested you to do so.",
+      "remove them only if the patient verbally commits to calming down."
+    ],
+    "correctAnswers": [
+      "remove them only after hospital personnel have requested you to do so."
+    ],
+    "selectedAnswer": "remove them only after hospital personnel have requested you to do so.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_207372_3",
+    "question": "An 81-year-old female fell and struck her head. You find the patient lying on her left side. She is conscious and complains of neck and upper back pain. As you are assessing her, you note that she has a severely kyphotic spine. What is the most appropriate method of immobilizing this patient?",
+    "answers": [
+      "Leave her on her side and use blanket rolls to immobilize her to the long backboard.",
+      "Move her to a supine position and immobilize her with a scoop stretcher and padding.",
+      "Immobilize her in a supine position on a long backboard and secure her with straps.",
+      "Apply a cervical collar and place her in a sitting position on the wheeled stretcher."
+    ],
+    "correctAnswers": [
+      "Leave her on her side and use blanket rolls to immobilize her to the long backboard."
+    ],
+    "selectedAnswer": "Move her to a supine position and immobilize her with a scoop stretcher and padding.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_207372_4",
+    "question": "An EMT might injure his or her back, even if it is straight, if the:",
+    "answers": [
+      "hands are held close to the legs.",
+      "force is exerted straight down the spine.",
+      "shoulder is aligned over the pelvis.",
+      "back is bent forward at the hips."
+    ],
+    "correctAnswers": [
+      "back is bent forward at the hips."
+    ],
+    "selectedAnswer": "back is bent forward at the hips.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_207372_5",
+    "question": "An unrestrained patient is sitting in his car after an automobile crash. He is conscious and alert, has no visible trauma, and is complaining of neck and back pain. Before removing him from his car, you should:",
+    "answers": [
+      "perform a detailed head-to-toe assessment and apply a cervical collar.",
+      "slide a scoop stretcher under his buttocks and rotate him laterally.",
+      "apply a cervical collar and immobilize him with a vest-style device.",
+      "maintain manual stabilization of his head and grasp him by the clothes."
+    ],
+    "correctAnswers": [
+      "apply a cervical collar and immobilize him with a vest-style device."
+    ],
+    "selectedAnswer": "apply a cervical collar and immobilize him with a vest-style device.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_207372_6",
+    "question": "As you and your partner are carrying a stable patient down a flight of stairs in a stair chair, you feel a sudden, sharp pain in your lower back. You should:",
+    "answers": [
+      "guide your partner while moving the chair backwards.",
+      "stop the move and have the patient walk down the stairs.",
+      "reposition your hands and continue to move the patient.",
+      "stop the move and request additional lifting assistance."
+    ],
+    "correctAnswers": [
+      "stop the move and request additional lifting assistance."
+    ],
+    "selectedAnswer": "stop the move and request additional lifting assistance.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_207372_7",
+    "question": "General guidelines for carrying a patient on a stretcher include:",
+    "answers": [
+      "constant communication with your partners.",
+      "maintaining slight flexion of your back.",
+      "slightly twisting your body when carrying.",
+      "leaning back from your waist when lifting."
+    ],
+    "correctAnswers": [
+      "constant communication with your partners."
+    ],
+    "selectedAnswer": "constant communication with your partners.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_207372_8",
+    "question": "In contrast to typical wheeled ambulance stretchers, features of a bariatric stretcher include:",
+    "answers": [
+      "increased stability from a wider wheelbase.",
+      "two safety rails on both sides of the stretcher.",
+      "a collapsible undercarriage.",
+      "weight capacity of up to 650 pounds."
+    ],
+    "correctAnswers": [
+      "increased stability from a wider wheelbase."
+    ],
+    "selectedAnswer": "increased stability from a wider wheelbase.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_207372_9",
+    "question": "In which of the following situations is an emergency patient move indicated?",
+    "answers": [
+      "The EMT has to gain access to lesser-injured patients in a vehicle.",
+      "A significant mechanism of injury is involved.",
+      "A patient has an altered mental status or is in shock.",
+      "The EMT is unable to protect the patient from scene hazards."
+    ],
+    "correctAnswers": [
+      "The EMT is unable to protect the patient from scene hazards."
+    ],
+    "selectedAnswer": "The EMT is unable to protect the patient from scene hazards.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_207372_10",
+    "question": "In which of the following situations would a direct ground lift be the most appropriate method of moving a patient?",
+    "answers": [
+      "A patient who complains of hip pain following a fall",
+      "A conscious patient complaining of abdominal pain",
+      "An unconscious patient with a possible ischemic stroke",
+      "A pedestrian with back pain after being struck by a car"
+    ],
+    "correctAnswers": [
+      "A conscious patient complaining of abdominal pain"
+    ],
+    "selectedAnswer": "A conscious patient complaining of abdominal pain",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_207372_11",
+    "question": "Situations in which you should use the rapid extrication technique include all of the following, except:",
+    "answers": [
+      "a patient who can be properly assessed while still in the vehicle.",
+      "a patient who needs immediate care that requires a supine position.",
+      "a patient whose condition requires immediate transport to the hospital.",
+      "a patient who blocks access to another seriously injured patient."
+    ],
+    "correctAnswers": [
+      "a patient who can be properly assessed while still in the vehicle."
+    ],
+    "selectedAnswer": "a patient who can be properly assessed while still in the vehicle.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_207372_12",
+    "question": "The most appropriate carrying device to use when moving a patient across rough or uneven terrain is the:",
+    "answers": [
+      "wheeled stretcher.",
+      "basket stretcher.",
+      "scoop stretcher.",
+      "stair chair."
+    ],
+    "correctAnswers": [
+      "basket stretcher."
+    ],
+    "selectedAnswer": "basket stretcher.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_207372_13",
+    "question": "The proper technique for using the power grip is to:",
+    "answers": [
+      "rotate your palms down.",
+      "position your hands about 6″ apart.",
+      "lift with your palms up.",
+      "hold the handle with your fingers."
+    ],
+    "correctAnswers": [
+      "lift with your palms up."
+    ],
+    "selectedAnswer": "lift with your palms up.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_207372_14",
+    "question": "To facilitate a safe and coordinated move, the team leader should:",
+    "answers": [
+      "use preparatory commands to initiate any moves.",
+      "speak softly but clearly to avoid startling the patient.",
+      "never become involved in the move, only direct the move.",
+      "be positioned at the feet so the team can hear."
+    ],
+    "correctAnswers": [
+      "use preparatory commands to initiate any moves."
+    ],
+    "selectedAnswer": "use preparatory commands to initiate any moves.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_207372_15",
+    "question": "Upon arriving at the scene of a motor vehicle crash, you find a single patient still seated in his car. There are no scene hazards. As you approach the vehicle, you note that the patient is semiconscious and has a large laceration to his forehead. You should:",
+    "answers": [
+      "direct your partner to apply manual in-line support of the patient's head.",
+      "slide a long backboard under his buttocks and lay him sideways on the board.",
+      "apply a cervical collar and quickly remove the patient with a clothes drag.",
+      "apply a vest-style extrication device before attempting to move the patient."
+    ],
+    "correctAnswers": [
+      "direct your partner to apply manual in-line support of the patient's head."
+    ],
+    "selectedAnswer": "direct your partner to apply manual in-line support of the patient's head.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_207372_16",
+    "question": "When carrying a patient on a backboard up or down stairs:",
+    "answers": [
+      "keep the foot end elevated.",
+      "keep the head end elevated.",
+      "keep your palms facing down.",
+      "carry the patient headfirst."
+    ],
+    "correctAnswers": [
+      "keep the head end elevated."
+    ],
+    "selectedAnswer": "keep the head end elevated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_207372_17",
+    "question": "When performing the rapid extrication technique to remove a patient from his or her vehicle, you should:",
+    "answers": [
+      "grasp the patient by the clothing and drag him or her from the car.",
+      "apply a cervical collar and remove the patient on a long backboard.",
+      "apply a vest-style extrication device prior to moving the patient.",
+      "apply a cervical collar and immobilize the patient on a short backboard."
+    ],
+    "correctAnswers": [
+      "apply a cervical collar and remove the patient on a long backboard."
+    ],
+    "selectedAnswer": "apply a cervical collar and remove the patient on a long backboard.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_207372_18",
+    "question": "When pulling a patient, you should extend your arms no more than ________ in front of your torso.",
+    "answers": [
+      "5″ to 10″",
+      "20″ to 30″",
+      "10″ to 15″",
+      "15″ to 20″"
+    ],
+    "correctAnswers": [
+      "15″ to 20″"
+    ],
+    "selectedAnswer": "15″ to 20″",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_207372_19",
+    "question": "Which is the most appropriate method to use when moving a patient from his or her bed to a wheeled stretcher?",
+    "answers": [
+      "Log roll",
+      "Direct carry",
+      "Draw sheet method",
+      "Extremity carry"
+    ],
+    "correctAnswers": [
+      "Draw sheet method"
+    ],
+    "selectedAnswer": "Draw sheet method",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_207372_20",
+    "question": "You and your partner respond to the scene of a 49-year-old male with acute abdominal pain. As you enter his residence, you find him lying on the floor in severe pain. He is conscious and alert. The patient appears to weigh in excess of 350 pounds. Your first action should be to:",
+    "answers": [
+      "assess him and then move him to the stretcher with a direct carry.",
+      "encourage the patient to walk himself to the awaiting ambulance.",
+      "request additional personnel before making any attempts to lift him.",
+      "request the fire department if one attempt to move him fails."
+    ],
+    "correctAnswers": [
+      "request additional personnel before making any attempts to lift him."
+    ],
+    "selectedAnswer": "request additional personnel before making any attempts to lift him.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_209328_1",
+    "question": "A 45-year-old male was working on his roof when he fell approximately 12 feet, landing on his feet. He is conscious and alert and complains of an ache in his lower back. He is breathing adequately and has stable vital signs. You should:",
+    "answers": [
+      "allow him to refuse transport if his vital signs remain stable.",
+      "immobilize his spine and perform a focused secondary exam.",
+      "perform a rapid head-to-toe exam and immobilize his spine.",
+      "obtain a Glasgow Coma Score value and give him oxygen."
+    ],
+    "correctAnswers": [
+      "immobilize his spine and perform a focused secondary exam."
+    ],
+    "selectedAnswer": "perform a rapid head-to-toe exam and immobilize his spine.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_209328_2",
+    "question": "A female patient with a suspected head injury has slow, shallow breathing. The most appropriate treatment for her includes:",
+    "answers": [
+      "ventilation assistance to maintain an ETCO 2 of 30 to 35 mm Hg.",
+      "hyperventilating her at 30 breaths/min.",
+      "administering oxygen via a nonrebreathing mask.",
+      "ventilation assistance to maintain an oxygen saturation of 90%."
+    ],
+    "correctAnswers": [
+      "ventilation assistance to maintain an ETCO 2 of 30 to 35 mm Hg."
+    ],
+    "selectedAnswer": "ventilation assistance to maintain an ETCO 2 of 30 to 35 mm Hg.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_209328_3",
+    "question": "After your partner assumes manual in-line stabilization of the patient's head, you should:",
+    "answers": [
+      "thoroughly palpate the patient's head for deformities.",
+      "apply an appropriately sized rigid cervical collar.",
+      "use four people to log roll the patient onto a backboard.",
+      "assess distal neurovascular status in the extremities."
+    ],
+    "correctAnswers": [
+      "assess distal neurovascular status in the extremities."
+    ],
+    "selectedAnswer": "apply an appropriately sized rigid cervical collar.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_209328_4",
+    "question": "A high school football player was injured during a tackle and complains of neck and upper back pain. He is conscious and alert and is breathing without difficulty. The EMT should:",
+    "answers": [
+      "remove his helmet, but leave his shoulder pads in place.",
+      "remove his helmet and shoulder pads.",
+      "leave his helmet in place, but remove his shoulder pads.",
+      "leave his helmet and shoulder pads in place."
+    ],
+    "correctAnswers": [
+      "leave his helmet and shoulder pads in place."
+    ],
+    "selectedAnswer": "leave his helmet and shoulder pads in place.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_209328_5",
+    "question": "A man jumped from the roof of his house and landed on his feet. He complains of pain to his heels, knees, and lower back. This mechanism of injury is an example of:",
+    "answers": [
+      "hyperflexion.",
+      "axial loading.",
+      "hyperextension.",
+      "distraction."
+    ],
+    "correctAnswers": [
+      "axial loading."
+    ],
+    "selectedAnswer": "axial loading.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_209328_6",
+    "question": "A patient who cannot remember the events that preceded his or her head injury is experiencing:",
+    "answers": [
+      "retrograde amnesia.",
+      "prograde amnesia.",
+      "anterograde amnesia.",
+      "posttraumatic amnesia."
+    ],
+    "correctAnswers": [
+      "retrograde amnesia."
+    ],
+    "selectedAnswer": "retrograde amnesia.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_209328_7",
+    "question": "A patient with a head injury presents with abnormal flexion of his extremities. What numeric value should you assign to him for motor response?",
+    "answers": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswers": [
+      "3"
+    ],
+    "selectedAnswer": "3",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_209328_8",
+    "question": "Bleeding within the brain tissue itself is called a(n):",
+    "answers": [
+      "subarachnoid hemorrhage.",
+      "subdural hematoma.",
+      "intracerebral hematoma.",
+      "epidural hematoma."
+    ],
+    "correctAnswers": [
+      "intracerebral hematoma."
+    ],
+    "selectedAnswer": "intracerebral hematoma.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_209328_9",
+    "question": "Common signs and symptoms of a serious head injury include all of the following, except:",
+    "answers": [
+      "a rapid, thready pulse.",
+      "cerebrospinal fluid leakage from the ears.",
+      "decerebrate posturing.",
+      "widening pulse pressure."
+    ],
+    "correctAnswers": [
+      "a rapid, thready pulse."
+    ],
+    "selectedAnswer": "a rapid, thready pulse.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_209328_10",
+    "question": "During your primary assessment of a 19-year-old unconscious male who experienced severe head trauma, you note that his respirations are rapid, irregular, and shallow. He has bloody secretions draining from his mouth and nose. You should:",
+    "answers": [
+      "pack his nostrils to stop the drainage of blood.",
+      "suction his oropharynx for up to 15 seconds.",
+      "assist his ventilations with a bag valve mask.",
+      "immobilize his spine and transport immediately."
+    ],
+    "correctAnswers": [
+      "suction his oropharynx for up to 15 seconds."
+    ],
+    "selectedAnswer": "suction his oropharynx for up to 15 seconds.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_209328_11",
+    "question": "During your primary assessment of a semiconscious 30-year-old female with closed head trauma, you note that she has slow, irregular breathing and a slow, bounding pulse. As your partner maintains manual in-line stabilization of her head, you should:",
+    "answers": [
+      "perform a focused secondary assessment of the patient's head and neck.",
+      "apply 100% oxygen via a nonrebreathing mask and obtain baseline vital signs.",
+      "instruct him to assist her ventilations while you perform a rapid assessment.",
+      "immediately place her on a long backboard and prepare for rapid transport."
+    ],
+    "correctAnswers": [
+      "instruct him to assist her ventilations while you perform a rapid assessment."
+    ],
+    "selectedAnswer": "immediately place her on a long backboard and prepare for rapid transport.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_209328_12",
+    "question": "Following a head injury, a 20-year-old female opens her eyes spontaneously, is confused, and obeys your commands to move her extremities. You should assign her a GCS score of:",
+    "answers": [
+      "12.",
+      "14.",
+      "13.",
+      "15."
+    ],
+    "correctAnswers": [
+      "14."
+    ],
+    "selectedAnswer": "14.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_209328_13",
+    "question": "In which of the following situations would the EMT be the least likely to immobilize a patient's spine?",
+    "answers": [
+      "No distracting injuries or evidence of intoxication",
+      "Unresponsive, but moving all extremities equally",
+      "No spinal pain, but tingling in the extremities",
+      "Pain to the c-spine, but no numbness or tingling."
+    ],
+    "correctAnswers": [
+      "No distracting injuries or evidence of intoxication"
+    ],
+    "selectedAnswer": "No distracting injuries or evidence of intoxication",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_209328_14",
+    "question": "Once a cervical collar has been applied to a patient with a possible spinal injury, it should not be removed unless:",
+    "answers": [
+      "sensory and motor functions remain intact.",
+      "the patient adamantly denies neck pain.",
+      "it causes a problem managing the airway.",
+      "lateral immobilization has been applied."
+    ],
+    "correctAnswers": [
+      "it causes a problem managing the airway."
+    ],
+    "selectedAnswer": "it causes a problem managing the airway.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_209328_15",
+    "question": "Rapid deceleration of the head, such as when it impacts the windshield, causes:",
+    "answers": [
+      "compression injuries and contusions to the anterior, posterior, and lateral aspects of the brain.",
+      "compression injuries or bruising to the anterior portion of the brain and stretching or tearing to the posterior portion of the brain.",
+      "primary impact to the posterior aspect of the brain, resulting in compression injuries, bruising, or torn blood vessels.",
+      "stretching or tearing of the anterior aspect of the brain and compression injuries or bruising to the posterior aspect of the brain."
+    ],
+    "correctAnswers": [
+      "compression injuries or bruising to the anterior portion of the brain and stretching or tearing to the posterior portion of the brain."
+    ],
+    "selectedAnswer": "compression injuries or bruising to the anterior portion of the brain and stretching or tearing to the posterior portion of the brain.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_209328_16",
+    "question": "The cervical spine is composed of _____ vertebrae.",
+    "answers": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correctAnswers": [
+      "7"
+    ],
+    "selectedAnswer": "7",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_209328_17",
+    "question": "The five sections of the spinal column, in descending order, are the:",
+    "answers": [
+      "thoracic, cervical, lumbar, coccygeal, and sacral.",
+      "cervical, coccygeal, thoracic, sacral, and lumbar.",
+      "coccygeal, sacral, lumbar, thoracic, and cervical.",
+      "cervical, thoracic, lumbar, sacral, and coccygeal."
+    ],
+    "correctAnswers": [
+      "cervical, thoracic, lumbar, sacral, and coccygeal."
+    ],
+    "selectedAnswer": "cervical, thoracic, lumbar, sacral, and coccygeal.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_209328_18",
+    "question": "The most important immediate treatment for patients with a head injury, regardless of severity, is to:",
+    "answers": [
+      "administer high-flow oxygen.",
+      "establish an adequate airway.",
+      "immobilize the entire spine.",
+      "transport to a trauma center."
+    ],
+    "correctAnswers": [
+      "establish an adequate airway."
+    ],
+    "selectedAnswer": "establish an adequate airway.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_209328_19",
+    "question": "The most reliable sign of a head injury is:",
+    "answers": [
+      "an abnormally low blood pressure.",
+      "a pulse that is rapid and thready.",
+      "a decreased level of consciousness.",
+      "decreased sensation in the extremities."
+    ],
+    "correctAnswers": [
+      "a decreased level of consciousness."
+    ],
+    "selectedAnswer": "a decreased level of consciousness.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_209328_20",
+    "question": "When activated, the sympathetic nervous system produces all of the following effects, except:",
+    "answers": [
+      "pupillary constriction.",
+      "increase in heart rate.",
+      "dilation of the bronchiole smooth muscle.",
+      "shunting of blood to vital organs."
+    ],
+    "correctAnswers": [
+      "pupillary constriction."
+    ],
+    "selectedAnswer": "pupillary constriction.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

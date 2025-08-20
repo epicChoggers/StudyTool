@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_213307_1",
+    "question": "After assessing your patient, you determine that his condition is stable. You provide the appropriate treatment and then load him into the ambulance. While en route to the hospital, you should:",
+    "answers": [
+      "drive slowly and remain in the far left-hand lane, if possible.",
+      "turn your emergency lights off and obey all traffic laws.",
+      "use your lights and siren but drive slowly and defensively.",
+      "keep your emergency lights on but avoid using the siren."
+    ],
+    "correctAnswers": [
+      "turn your emergency lights off and obey all traffic laws."
+    ],
+    "selectedAnswer": "drive slowly and remain in the far left-hand lane, if possible.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_213307_2",
+    "question": "Aggressive ambulance driving might have a negative effect on other motorists because:",
+    "answers": [
+      "they move to the right or drive as close to the curb as possible.",
+      "they often freeze when they see the lights in the rearview mirror.",
+      "they might become enraged and attempt to run you off the road.",
+      "it might not allow for their reaction time to respond to your vehicle."
+    ],
+    "correctAnswers": [
+      "it might not allow for their reaction time to respond to your vehicle."
+    ],
+    "selectedAnswer": "it might not allow for their reaction time to respond to your vehicle.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_213307_3",
+    "question": "A medical transport helicopter is incoming, and you are responsible for setting up the landing zone (LZ). You should:",
+    "answers": [
+      "use yellow caution tape to mark off the LZ perimeter.",
+      "place four flares 100 feet apart in an \"X\" pattern.",
+      "ask bystanders to stand at all four corners of the LZ.",
+      "use weighted cones to mark all four corners of the LZ."
+    ],
+    "correctAnswers": [
+      "use weighted cones to mark all four corners of the LZ."
+    ],
+    "selectedAnswer": "use weighted cones to mark all four corners of the LZ.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_213307_4",
+    "question": "As soon as you leave the hospital and are en route back to your station, you should inform the dispatcher:",
+    "answers": [
+      "of the name of the accepting physician.",
+      "that you are prepared for another call.",
+      "whether you are back in service.",
+      "about the patient's clinical condition."
+    ],
+    "correctAnswers": [
+      "whether you are back in service."
+    ],
+    "selectedAnswer": "whether you are back in service.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_213307_5",
+    "question": "Characteristics of a safe ambulance operator include:",
+    "answers": [
+      "an offensive attitude about driving during an emergency call.",
+      "the ability to operate an ambulance at a high rate of speed.",
+      "a positive attitude about the ability to tolerate other drivers.",
+      "realizing that lights and siren will be effective traffic tools."
+    ],
+    "correctAnswers": [
+      "a positive attitude about the ability to tolerate other drivers."
+    ],
+    "selectedAnswer": "a positive attitude about the ability to tolerate other drivers.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_213307_6",
+    "question": "Common safety equipment carried on the ambulance includes all of the following, except:",
+    "answers": [
+      "hazardous materials gear.",
+      "safety goggles.",
+      "turnout gear.",
+      "face shields."
+    ],
+    "correctAnswers": [
+      "hazardous materials gear."
+    ],
+    "selectedAnswer": "hazardous materials gear.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_213307_7",
+    "question": "Delivering a patient to the hospital involves all of the following activities, except:",
+    "answers": [
+      "restocking any disposable items you used.",
+      "giving a verbal report to the triage clerk.",
+      "informing the dispatcher of your arrival.",
+      "completing a detailed written report."
+    ],
+    "correctAnswers": [
+      "giving a verbal report to the triage clerk."
+    ],
+    "selectedAnswer": "restocking any disposable items you used.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_213307_8",
+    "question": "For every emergency request, the dispatcher should routinely gather and record all of the following information, except the:",
+    "answers": [
+      "location of the patient(s).",
+      "caller's phone number.",
+      "patient's medical history.",
+      "nature of the call."
+    ],
+    "correctAnswers": [
+      "patient's medical history."
+    ],
+    "selectedAnswer": "patient's medical history.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_213307_9",
+    "question": "General guidelines for safe ambulance driving include all of the following, except:",
+    "answers": [
+      "regularly using the siren as much as possible.",
+      "avoiding one-way streets whenever possible.",
+      "avoiding routes with heavy traffic congestion.",
+      "assuming that other drivers will not see you."
+    ],
+    "correctAnswers": [
+      "regularly using the siren as much as possible."
+    ],
+    "selectedAnswer": "assuming that other drivers will not see you.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_213307_10",
+    "question": "If hydroplaning of the ambulance occurs, the driver should:",
+    "answers": [
+      "slowly move the steering wheel back and forth.",
+      "slowly pump the brakes until he or she regains vehicle control.",
+      "gradually slow down without jamming on the brakes.",
+      "quickly jerk the steering wheel."
+    ],
+    "correctAnswers": [
+      "gradually slow down without jamming on the brakes."
+    ],
+    "selectedAnswer": "gradually slow down without jamming on the brakes.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_213307_11",
+    "question": "If you could only take two pieces of equipment with you to a patient's side, you should choose the:",
+    "answers": [
+      "oral airways and sterile dressings.",
+      "BVM and portable oxygen.",
+      "AED and portable suction unit.",
+      "cervical collar and long backboard."
+    ],
+    "correctAnswers": [
+      "AED and portable suction unit."
+    ],
+    "selectedAnswer": "BVM and portable oxygen.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_213307_12",
+    "question": "Immediately upon arriving at the scene of an emergency call involving a traumatic injury, you should notify the dispatcher of your arrival and then:",
+    "answers": [
+      "determine if additional units are needed.",
+      "quickly gain access to the patient.",
+      "observe the scene for safety hazards.",
+      "carefully assess the mechanism of injury."
+    ],
+    "correctAnswers": [
+      "observe the scene for safety hazards."
+    ],
+    "selectedAnswer": "observe the scene for safety hazards.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_213307_13",
+    "question": "In general, medevac helicopters should be utilized when:",
+    "answers": [
+      "ground transport would leave your service area without an ambulance for greater than 30 minutes.",
+      "ground transport to the hospital exceeds 30 to 45 minutes, even if the patient's present condition is stable.",
+      "a patient has a time-dependent injury or illness, and traffic conditions would cause a significant delay in definitive care.",
+      "a patient has been in cardiac arrest for more than 15 minutes and has not responded to CPR and defibrillation."
+    ],
+    "correctAnswers": [
+      "a patient has a time-dependent injury or illness, and traffic conditions would cause a significant delay in definitive care."
+    ],
+    "selectedAnswer": "a patient has a time-dependent injury or illness, and traffic conditions would cause a significant delay in definitive care.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_213307_14",
+    "question": "Minimum airway and ventilation equipment that should be carried on every ambulance include all of the following, except:",
+    "answers": [
+      "mounted and portable suctioning units.",
+      "Combitubes, or laryngeal mask airways.",
+      "various sizes of oral and nasal airways.",
+      "adult and pediatric bag-valve masks."
+    ],
+    "correctAnswers": [
+      "Combitubes, or laryngeal mask airways."
+    ],
+    "selectedAnswer": "Combitubes, or laryngeal mask airways.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_213307_15",
+    "question": "Minimum staffing in the patient compartment of a basic life support (BLS) ambulance includes:",
+    "answers": [
+      "an EMT and a paramedic.",
+      "at least two EMTs.",
+      "at least one EMT.",
+      "an EMT and an AEMT."
+    ],
+    "correctAnswers": [
+      "at least one EMT."
+    ],
+    "selectedAnswer": "at least two EMTs.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_213307_16",
+    "question": "The main objective of traffic control at the scene of a motor vehicle crash is to:",
+    "answers": [
+      "get oncoming traffic past the scene as soon as possible.",
+      "prevent curious onlookers from observing the scene.",
+      "warn oncoming traffic and prevent another crash.",
+      "facilitate a route for the media to access the scene."
+    ],
+    "correctAnswers": [
+      "warn oncoming traffic and prevent another crash."
+    ],
+    "selectedAnswer": "warn oncoming traffic and prevent another crash.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_213307_17",
+    "question": "The most common and usually the most serious ambulance crashes occur at:",
+    "answers": [
+      "railroad crossings.",
+      "stop signs.",
+      "intersections.",
+      "stop lights."
+    ],
+    "correctAnswers": [
+      "intersections."
+    ],
+    "selectedAnswer": "intersections.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_213307_18",
+    "question": "The use of lights and siren on an ambulance:",
+    "answers": [
+      "legally gives the emergency vehicle operator the right of way.",
+      "signifies a request for other drivers to yield the right of way.",
+      "is required any time a patient is being transported to the hospital.",
+      "allows other drivers to hear and see you from a great distance."
+    ],
+    "correctAnswers": [
+      "signifies a request for other drivers to yield the right of way."
+    ],
+    "selectedAnswer": "signifies a request for other drivers to yield the right of way.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_213307_19",
+    "question": "Upon arriving at the scene of a major motor vehicle crash at night, you find that the safest place to park your ambulance is in a direction that is facing oncoming traffic. You should:",
+    "answers": [
+      "turn all warning lights off.",
+      "turn your headlights off.",
+      "place a flare near the crash.",
+      "quickly access the patient."
+    ],
+    "correctAnswers": [
+      "turn your headlights off."
+    ],
+    "selectedAnswer": "place a flare near the crash.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_213307_20",
+    "question": "When arriving at the scene of an overturned tractor-trailer rig, you note that a green cloud is being emitted from the crashed vehicle. The driver is still in the truck; he is conscious but bleeding profusely from the head. After notifying the hazardous materials team, you should:",
+    "answers": [
+      "position the ambulance upwind.",
+      "quickly gain access to the patient.",
+      "ask the driver to exit the vehicle.",
+      "park downhill from the scene."
+    ],
+    "correctAnswers": [
+      "position the ambulance upwind."
+    ],
+    "selectedAnswer": "position the ambulance upwind.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

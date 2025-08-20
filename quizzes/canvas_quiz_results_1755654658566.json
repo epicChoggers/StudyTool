@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_204938_1",
+    "question": "A 19-year-old male was stung multiple times by fire ants. He is experiencing obvious signs and symptoms of anaphylactic shock. You administer high-flow oxygen and give him epinephrine via intramuscular injection. Upon reassessment, you determine that his condition has not improved. You should:",
+    "answers": [
+      "repeat the epinephrine injection after consulting with medical control.",
+      "transport him immediately and provide supportive care while en route.",
+      "request a paramedic unit that is stationed approximately 15 miles away.",
+      "consider that he may actually be experiencing an acute asthma attack."
+    ],
+    "correctAnswers": [
+      "repeat the epinephrine injection after consulting with medical control."
+    ],
+    "selectedAnswer": "repeat the epinephrine injection after consulting with medical control.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_204938_2",
+    "question": "A 20-year-old male has a large laceration to his wrist. He is holding a blood-soaked towel over the wound, but it continues to bleed rapidly. You should:",
+    "answers": [
+      "administer high-flow supplemental oxygen.",
+      "wrap the towel with pressure bandages.",
+      "apply pressure to the brachial artery.",
+      "apply a tourniquet proximal to the wrist."
+    ],
+    "correctAnswers": [
+      "apply a tourniquet proximal to the wrist."
+    ],
+    "selectedAnswer": "apply a tourniquet proximal to the wrist.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_204938_3",
+    "question": "A 25-year-old unrestrained female struck the steering wheel with her chest when her car hit a tree while traveling at a high rate of speed. She has signs and symptoms of shock, which you suspect are the result of intrathoracic bleeding. Which of the following interventions will provide this patient with the greatest chance for survival?",
+    "answers": [
+      "Full immobilization of her spine",
+      "High-flow oxygen administration",
+      "Intravenous fluid administration",
+      "Rapid transport to a trauma center"
+    ],
+    "correctAnswers": [
+      "Rapid transport to a trauma center"
+    ],
+    "selectedAnswer": "Rapid transport to a trauma center",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_204938_4",
+    "question": "A 27-year-old male was stabbed in the chest during a disagreement at a poker game. As you approach him, you see that a knife is impaled in his chest. Before you make physical contact with the patient, it is MOST important to:",
+    "answers": [
+      "follow standard precautions.",
+      "form a general impression.",
+      "ask bystanders what happened.",
+      "call for an ALS ambulance."
+    ],
+    "correctAnswers": [
+      "follow standard precautions."
+    ],
+    "selectedAnswer": "follow standard precautions.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_204938_5",
+    "question": "A 56-year-old male is found semiconscious by his wife. Your assessment reveals that his respirations are rapid and shallow, his pulse is rapid and irregular, and his blood pressure is low. The patient's wife states that he complained of left arm pain and nausea the day before, but would not allow her to call 9-1-1. The MOST likely cause of this patient's present condition is:",
+    "answers": [
+      "severe septic hypoperfusion.",
+      "dehydration from GI virus.",
+      "a ruptured aortic aneurysm.",
+      "acute myocardial infarction."
+    ],
+    "correctAnswers": [
+      "acute myocardial infarction."
+    ],
+    "selectedAnswer": "acute myocardial infarction.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_204938_6",
+    "question": "A 59-year-old male presents with severe vomiting and diarrhea of 3 days' duration. He is confused and diaphoretic, and his radial pulses are absent. His blood pressure is 78/50 mm Hg. After applying supplemental oxygen, you should:",
+    "answers": [
+      "allow him to drink plain water.",
+      "perform a head-to-toe exam.",
+      "prepare for immediate transport.",
+      "obtain a repeat blood pressure in 5 minutes."
+    ],
+    "correctAnswers": [
+      "prepare for immediate transport."
+    ],
+    "selectedAnswer": "prepare for immediate transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_204938_7",
+    "question": "A 70-year-old female was recently discharged from the hospital following a total hip replacement. Today, she presents with restlessness, tachycardia, and a blood pressure of 90/64 mm Hg. Her skin is hot and moist. You should be MOST suspicious that she is experiencing:",
+    "answers": [
+      "a local infection.",
+      "septic shock.",
+      "decompensated shock.",
+      "pump failure."
+    ],
+    "correctAnswers": [
+      "septic shock."
+    ],
+    "selectedAnswer": "septic shock.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_204938_8",
+    "question": "A construction worker fell approximately 30 feet. He is semiconscious with rapid, shallow respirations. Further assessment reveals deformity to the thoracic region of his spine. His blood pressure is 70/50 mm Hg, his pulse is 66 beats/min and weak, and his skin is warm and dry. In addition to spinal immobilization and rapid transport, the MOST appropriate treatment for this patient includes:",
+    "answers": [
+      "assisted ventilation, thermal management, and elevation of the lower extremities.",
+      "oxygen via nonrebreathing mask, blankets for warmth, and elevation of his head.",
+      "assisted ventilation, preventing hyperthermia, and elevating his lower extremities.",
+      "oxygen via nonrebreathing mask, thermal management, and elevation of his legs."
+    ],
+    "correctAnswers": [
+      "assisted ventilation, thermal management, and elevation of the lower extremities."
+    ],
+    "selectedAnswer": "assisted ventilation, thermal management, and elevation of the lower extremities.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_204938_9",
+    "question": "All of the following conditions should make you suspect shock, EXCEPT:",
+    "answers": [
+      "spinal injury.",
+      "severe infection.",
+      "ischemic stroke.",
+      "anaphylaxis."
+    ],
+    "correctAnswers": [
+      "ischemic stroke."
+    ],
+    "selectedAnswer": "ischemic stroke.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_204938_10",
+    "question": "Cardiogenic shock may result from all of the following, EXCEPT:",
+    "answers": [
+      "increased preload.",
+      "increased afterload.",
+      "heart attack.",
+      "poor contractility."
+    ],
+    "correctAnswers": [
+      "increased preload."
+    ],
+    "selectedAnswer": "increased preload.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_204938_11",
+    "question": "Clinical signs of compensated shock include all of the following, EXCEPT:",
+    "answers": [
+      "cool and clammy skin.",
+      "restlessness or anxiety.",
+      "absent peripheral pulses.",
+      "rapid, shallow breathing."
+    ],
+    "correctAnswers": [
+      "absent peripheral pulses."
+    ],
+    "selectedAnswer": "absent peripheral pulses.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_204938_12",
+    "question": "Distributive shock occurs when:",
+    "answers": [
+      "temporary but severe vasodilation causes a decrease in blood supply to the brain.",
+      "an injury causes restriction of the heart muscle and impairs its pumping function.",
+      "severe bleeding causes tachycardia in order to distribute blood to the organs faster.",
+      "widespread dilation of the blood vessels causes blood to pool in the vascular beds."
+    ],
+    "correctAnswers": [
+      "widespread dilation of the blood vessels causes blood to pool in the vascular beds."
+    ],
+    "selectedAnswer": "widespread dilation of the blood vessels causes blood to pool in the vascular beds.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_204938_13",
+    "question": "Hypotension in a child with blunt or penetrating trauma is particularly significant because:",
+    "answers": [
+      "most children with hypotension die in the prehospital setting.",
+      "it typically develops earlier in children than it does in adults.",
+      "it often indicates the loss of half of his or her blood volume.",
+      "the most likely cause of the hypotension is respiratory failure."
+    ],
+    "correctAnswers": [
+      "it often indicates the loss of half of his or her blood volume."
+    ],
+    "selectedAnswer": "it often indicates the loss of half of his or her blood volume.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_204938_14",
+    "question": "Hypovolemic shock caused by severe burns is the result of a loss of:",
+    "answers": [
+      "whole blood.",
+      "plasma.",
+      "platelets.",
+      "red blood cells."
+    ],
+    "correctAnswers": [
+      "plasma."
+    ],
+    "selectedAnswer": "plasma.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_204938_15",
+    "question": "Patients develop septic shock secondary to:",
+    "answers": [
+      "an infection that weakens cardiac contractions.",
+      "poor vessel function and severe volume loss.",
+      "weak vessel tone caused by nervous system damage.",
+      "failure of the blood vessels to adequately dilate."
+    ],
+    "correctAnswers": [
+      "poor vessel function and severe volume loss."
+    ],
+    "selectedAnswer": "poor vessel function and severe volume loss.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_204938_16",
+    "question": "Shock is the result of:",
+    "answers": [
+      "the body's maintenance of homeostasis.",
+      "temporary dysfunction of a major organ.",
+      "widespread constriction of the blood vessels.",
+      "hypoperfusion to the cells of the body."
+    ],
+    "correctAnswers": [
+      "hypoperfusion to the cells of the body."
+    ],
+    "selectedAnswer": "hypoperfusion to the cells of the body.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_204938_17",
+    "question": "Temporary, widespread vasodilation and syncope caused by a sudden nervous system reaction MOST accurately describes:",
+    "answers": [
+      "vasovagal shock.",
+      "psychogenic shock.",
+      "neurogenic shock.",
+      "neurologic shock."
+    ],
+    "correctAnswers": [
+      "psychogenic shock."
+    ],
+    "selectedAnswer": "vasovagal shock.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_204938_18",
+    "question": "To protect vital organs, the body compensates by directing blood flow away from organs that are more tolerant of low flow, such as:",
+    "answers": [
+      "the brain.",
+      "the skin.",
+      "the lungs.",
+      "the heart."
+    ],
+    "correctAnswers": [
+      "the skin."
+    ],
+    "selectedAnswer": "the skin.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_204938_19",
+    "question": "When assessing a patient with signs and symptoms of shock, it is important to remember that:",
+    "answers": [
+      "irreversible shock often responds well to a prompt blood transfusion.",
+      "multiple fractures are the most common cause of hypovolemic shock.",
+      "blood pressure may be the last measurable factor to change in shock.",
+      "the patient's respirations are deep during the early stages of shock."
+    ],
+    "correctAnswers": [
+      "blood pressure may be the last measurable factor to change in shock."
+    ],
+    "selectedAnswer": "blood pressure may be the last measurable factor to change in shock.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_204938_20",
+    "question": "Which of the following clinical signs is unique to anaphylactic shock?",
+    "answers": [
+      "Hypotension",
+      "Pallor",
+      "Dizziness",
+      "Wheezing"
+    ],
+    "correctAnswers": [
+      "Wheezing"
+    ],
+    "selectedAnswer": "Wheezing",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

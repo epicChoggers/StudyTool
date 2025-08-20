@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_213295_1",
+    "question": "A 29-year-old pregnant woman has had severe vomiting for the last 2 days. Today, she is vomiting large amounts of blood. Her skin is cool and pale, and she is tachycardic. The EMT should suspect:",
+    "answers": [
+      "esophageal varices.",
+      "Mallory-Weiss tear.",
+      "esophagitis.",
+      "acute pancreatitis."
+    ],
+    "correctAnswers": [
+      "Mallory-Weiss tear."
+    ],
+    "selectedAnswer": "Mallory-Weiss tear.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_213295_2",
+    "question": "A 30-year-old woman with a history of alcoholism presents with severe upper abdominal pain and is vomiting large amounts of bright red blood. Her skin is cool, pale, and clammy; her heart rate is 120 beats/min and weak; and her blood pressure is 70/50 mm Hg. Your MOST immediate action should be to:",
+    "answers": [
+      "give her high-flow supplemental oxygen.",
+      "protect her airway from aspiration.",
+      "rapidly transport her to the hospital.",
+      "keep her supine and keep her warm."
+    ],
+    "correctAnswers": [
+      "protect her airway from aspiration."
+    ],
+    "selectedAnswer": "protect her airway from aspiration.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_213295_3",
+    "question": "A 35-year-old obese woman is complaining of localized pain in the right upper quadrant with referred pain to the right shoulder. The MOST likely cause of her pain is:",
+    "answers": [
+      "acute cholecystitis.",
+      "pancreatitis.",
+      "appendicitis.",
+      "acute cystitis."
+    ],
+    "correctAnswers": [
+      "acute cholecystitis."
+    ],
+    "selectedAnswer": "acute cholecystitis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_213295_4",
+    "question": "A 47-year-old male presents with severe abdominal pain of 3 hours' duration. His abdomen is distended and guarded. Your MOST important consideration for this patient should be to:",
+    "answers": [
+      "transport him in a supine position.",
+      "be alert for signs and symptoms of shock.",
+      "determine the exact location and cause of his pain.",
+      "assess his blood pressure to determine perfusion adequacy."
+    ],
+    "correctAnswers": [
+      "be alert for signs and symptoms of shock."
+    ],
+    "selectedAnswer": "be alert for signs and symptoms of shock.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_213295_5",
+    "question": "A 59-year-old male presents with sudden-onset severe lower back pain. He is conscious and alert, but very restless and diaphoretic. Your assessment reveals a pulsating mass to the left of his umbilicus. You should:",
+    "answers": [
+      "vigorously palpate the abdomen to establish pain severity.",
+      "place the patient in a sitting position and transport at once.",
+      "request a paramedic unit to give the patient pain medication.",
+      "administer oxygen and prepare for immediate transport."
+    ],
+    "correctAnswers": [
+      "administer oxygen and prepare for immediate transport."
+    ],
+    "selectedAnswer": "administer oxygen and prepare for immediate transport.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_213295_6",
+    "question": "A 60-year-old female presents with a tearing sensation in her lower back. Her skin is sweaty, and she is tachycardic. The EMT should suspect:",
+    "answers": [
+      "acute pancreatitis.",
+      "aortic aneurysm.",
+      "strangulated hernia.",
+      "kidney stones."
+    ],
+    "correctAnswers": [
+      "aortic aneurysm."
+    ],
+    "selectedAnswer": "aortic aneurysm.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_213295_7",
+    "question": "An important aspect in the treatment of a patient with severe abdominal pain is to:",
+    "answers": [
+      "provide emotional support en route to the hospital.",
+      "encourage the patient to remain in a supine position.",
+      "administer analgesic medications to alleviate pain.",
+      "give 100% oxygen only if signs of shock are present."
+    ],
+    "correctAnswers": [
+      "provide emotional support en route to the hospital."
+    ],
+    "selectedAnswer": "encourage the patient to remain in a supine position.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_213295_8",
+    "question": "Chronic renal failure is a condition that:",
+    "answers": [
+      "is often caused by hypertension or diabetes.",
+      "can be reversed with prompt treatment.",
+      "causes dehydration from excessive urination.",
+      "occurs from conditions such as dehydration."
+    ],
+    "correctAnswers": [
+      "is often caused by hypertension or diabetes."
+    ],
+    "selectedAnswer": "is often caused by hypertension or diabetes.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_213295_9",
+    "question": "Esophageal varices MOST commonly occur in patients who:",
+    "answers": [
+      "consume a lot of alcohol.",
+      "have weak immune systems.",
+      "have uncontrolled diabetes.",
+      "have a history of esophagitis."
+    ],
+    "correctAnswers": [
+      "consume a lot of alcohol."
+    ],
+    "selectedAnswer": "consume a lot of alcohol.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_213295_10",
+    "question": "Functions of the liver include:",
+    "answers": [
+      "secretion of bile and filtration of toxic substances.",
+      "release of amylase, which breaks down starches into sugar.",
+      "production of hormones that regulate blood sugar levels.",
+      "absorption of nutrients and toxins."
+    ],
+    "correctAnswers": [
+      "secretion of bile and filtration of toxic substances."
+    ],
+    "selectedAnswer": "secretion of bile and filtration of toxic substances.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_213295_11",
+    "question": "Injury to a hollow abdominal organ would MOST likely result in:",
+    "answers": [
+      "impairment in the blood's clotting abilities.",
+      "leakage of contents into the abdominal cavity.",
+      "pain secondary to blood in the peritoneum.",
+      "profound shock due to severe internal bleeding."
+    ],
+    "correctAnswers": [
+      "leakage of contents into the abdominal cavity."
+    ],
+    "selectedAnswer": "leakage of contents into the abdominal cavity.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_213295_12",
+    "question": "Most patients with abdominal pain prefer to:",
+    "answers": [
+      "lie on their side with their knees drawn into the abdomen.",
+      "sit in a semi-Fowler position with their knees slightly bent.",
+      "sit fully upright because it helps relax the abdominal muscles.",
+      "lie in a supine position with their knees in a flexed position."
+    ],
+    "correctAnswers": [
+      "lie on their side with their knees drawn into the abdomen."
+    ],
+    "selectedAnswer": "lie on their side with their knees drawn into the abdomen.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_213295_13",
+    "question": "Older patients with abdominal problems may not exhibit the same pain response as younger patients because of:",
+    "answers": [
+      "progressive deterioration of abdominal organ function.",
+      "age-related deterioration of their sensory systems.",
+      "interactions of the numerous medications they take.",
+      "chronic dementia, which inhibits communication."
+    ],
+    "correctAnswers": [
+      "age-related deterioration of their sensory systems."
+    ],
+    "selectedAnswer": "age-related deterioration of their sensory systems.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_213295_14",
+    "question": "Pain that radiates to the right lower quadrant from the umbilical area, nausea and vomiting, and lack of appetite are MOST indicative of:",
+    "answers": [
+      "gastroenteritis.",
+      "appendicitis.",
+      "cholecystitis.",
+      "pancreatitis."
+    ],
+    "correctAnswers": [
+      "appendicitis."
+    ],
+    "selectedAnswer": "appendicitis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_213295_15",
+    "question": "Patients with acute abdominal pain should not be given anything to eat or drink because:",
+    "answers": [
+      "substances in the stomach increase the risk of aspiration.",
+      "food will rapidly travel through the digestive system.",
+      "digestion prevents accurate auscultation of bowel sounds.",
+      "it will create referred pain and obscure the diagnosis."
+    ],
+    "correctAnswers": [
+      "substances in the stomach increase the risk of aspiration."
+    ],
+    "selectedAnswer": "substances in the stomach increase the risk of aspiration.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_213295_16",
+    "question": "The MOST common and significant complication associated with an acute abdomen is:",
+    "answers": [
+      "severe pain.",
+      "internal bleeding.",
+      "high fever.",
+      "peritonitis."
+    ],
+    "correctAnswers": [
+      "peritonitis."
+    ],
+    "selectedAnswer": "peritonitis.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_213295_17",
+    "question": "When assessing a patient with abdominal pain, you should:",
+    "answers": [
+      "ask the patient to point to the area of pain or tenderness and assess for rebound tenderness over that specific area.",
+      "visually assess the painful area of the abdomen, but avoid palpation because this could worsen his or her condition.",
+      "palpate the abdomen in a clockwise direction, beginning with the quadrant after the one the patient indicates is painful.",
+      "observe for abdominal guarding, which is characterized by sudden relaxation of the abdominal muscles when palpated."
+    ],
+    "correctAnswers": [
+      "palpate the abdomen in a clockwise direction, beginning with the quadrant after the one the patient indicates is painful."
+    ],
+    "selectedAnswer": "ask the patient to point to the area of pain or tenderness and assess for rebound tenderness over that specific area.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_213295_18",
+    "question": "Which of the following conditions is more common in women than in men?",
+    "answers": [
+      "Pancreatitis",
+      "Cholecystitis",
+      "Hepatitis",
+      "Cystitis"
+    ],
+    "correctAnswers": [
+      "Cystitis"
+    ],
+    "selectedAnswer": "Cystitis",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_213295_19",
+    "question": "You are transporting a 49-year-old male with \"tearing\" abdominal pain. You are approximately 30 miles away from the closest hospital. During your reassessment, you determine that the patient's condition has deteriorated significantly. You should:",
+    "answers": [
+      "immediately perform a rapid physical examination.",
+      "assist his ventilations with a bag-valve mask.",
+      "consider requesting a rendezvous with an ALS unit.",
+      "continue transporting and alert the receiving hospital."
+    ],
+    "correctAnswers": [
+      "consider requesting a rendezvous with an ALS unit."
+    ],
+    "selectedAnswer": "continue transporting and alert the receiving hospital.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_213295_20",
+    "question": "You respond to the residence of a 70-year-old male who complains of weakness and severe shortness of breath. His wife tells you that he is a dialysis patient, but has missed his last two treatments. After applying oxygen, you auscultate his lungs and hear diffuse rhonchi. The patient is conscious, but appears confused. His blood pressure is 98/54 mm Hg, his pulse rate is 120 beats/min and irregular, and his respirations are 24 breaths/min and labored. You should:",
+    "answers": [
+      "leave him in a sitting position, keep him warm, and prepare for immediate transport.",
+      "perform a detailed secondary assessment and then transport him to a dialysis center.",
+      "place him in a supine position, elevate his lower extremities, and transport at once.",
+      "treat for shock and request a paramedic unit to respond to the scene and assist you."
+    ],
+    "correctAnswers": [
+      "leave him in a sitting position, keep him warm, and prepare for immediate transport."
+    ],
+    "selectedAnswer": "place him in a supine position, elevate his lower extremities, and transport at once.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

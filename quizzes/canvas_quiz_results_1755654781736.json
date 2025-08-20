@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_211545_1",
+    "question": "A 17-year-old football player collided with another player and has pain to his left clavicle. He is holding his arm against his chest and refuses to move it. Your assessment reveals obvious deformity to the midshaft clavicle. After assessing distal pulse, sensory, and motor functions, you should:",
+    "answers": [
+      "immobilize the injury with a sling and swathe.",
+      "straighten his arm and apply a board splint.",
+      "perform a rapid secondary assessment.",
+      "place a pillow under his arm and apply a sling."
+    ],
+    "correctAnswers": [
+      "immobilize the injury with a sling and swathe."
+    ],
+    "selectedAnswer": "immobilize the injury with a sling and swathe.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_211545_2",
+    "question": "A 21-year-old male was thrown over the handlebars of his motorcycle when he rear-ended a car that was stopped at a red light. He was wearing a helmet, which he removed prior to your arrival. He is conscious but restless and has closed deformities to both of his femurs. His skin is pale, his heart rate is rapid and weak, and his respirations are rapid and shallow. You should:",
+    "answers": [
+      "splint each of his deformed femurs with air splints, elevate his lower extremities, and transport.",
+      "splint each of his deformed femurs with long board splints and transport without delay.",
+      "apply traction splints to both of his legs, keep him warm, and transport without delay.",
+      "bind his legs together on the backboard, keep him warm, and transport without delay."
+    ],
+    "correctAnswers": [
+      "bind his legs together on the backboard, keep him warm, and transport without delay."
+    ],
+    "selectedAnswer": "bind his legs together on the backboard, keep him warm, and transport without delay.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_211545_3",
+    "question": "A 22-year-old female was ejected from her car after striking a tree head-on. As you approach her, you note obvious closed deformities to both of her femurs. She is not moving and does not appear to be conscious. You should:",
+    "answers": [
+      "assess for a carotid pulse and assist her ventilations.",
+      "stabilize her head and perform a primary assessment.",
+      "apply manual stabilization to both of her femurs.",
+      "administer oxygen and perform a rapid assessment."
+    ],
+    "correctAnswers": [
+      "stabilize her head and perform a primary assessment."
+    ],
+    "selectedAnswer": "assess for a carotid pulse and assist her ventilations.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_211545_4",
+    "question": "A 30-year-old man complains of severe pain to his right tibia after an injury that occurred the day before. The patient's leg is pale, and he is unable to move his foot. The EMT should suspect that:",
+    "answers": [
+      "pressure in the fascial compartment is elevated.",
+      "a severe infection has developed in the muscle.",
+      "the nerves behind the knee are compromised.",
+      "the nerves supplying the foot have been severed."
+    ],
+    "correctAnswers": [
+      "pressure in the fascial compartment is elevated."
+    ],
+    "selectedAnswer": "pressure in the fascial compartment is elevated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_211545_5",
+    "question": "A 45-year-old female was the unrestrained passenger of a small car that rear-ended another vehicle at a moderate rate of speed. She is conscious and alert but complains of pain to both of her knees. There is visible damage to the dashboard on the passenger's side of the vehicle. In addition to fractures or dislocations of the knees, you should be most suspicious for:",
+    "answers": [
+      "fracture of the tibia or fibula.",
+      "a thoracic spine fracture.",
+      "posterior hip dislocation.",
+      "anterior hip dislocation."
+    ],
+    "correctAnswers": [
+      "posterior hip dislocation."
+    ],
+    "selectedAnswer": "posterior hip dislocation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_211545_6",
+    "question": "A 54-year-old male accidentally shot himself in the leg while cleaning his gun. Your assessment reveals a small entrance wound to the medial aspect of his right leg. The exit wound is on the opposite side of the leg and is actively bleeding. The patient complains of numbness and tingling in his right foot. You should:",
+    "answers": [
+      "control the bleeding and cover the wound with a sterile dressing.",
+      "manually stabilize the leg above and below the site of injury.",
+      "assess distal pulses as well as sensory and motor functions.",
+      "gently manipulate the injured leg until the numbness dissipates."
+    ],
+    "correctAnswers": [
+      "control the bleeding and cover the wound with a sterile dressing."
+    ],
+    "selectedAnswer": "control the bleeding and cover the wound with a sterile dressing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_211545_7",
+    "question": "A 76-year-old male experienced sudden pain to his left thigh when he was standing in line at the grocery store. Your assessment reveals ecchymosis and deformity to the distal aspect of his left femur, just above the knee. Distal circulation and sensory and motor functions are intact. You should:",
+    "answers": [
+      "apply padded board splints to both sides of the leg.",
+      "flex the knee slightly and apply a formable splint.",
+      "apply a traction splint to realign the deformity.",
+      "bind the legs together and elevate them six feet to eight feet."
+    ],
+    "correctAnswers": [
+      "apply padded board splints to both sides of the leg."
+    ],
+    "selectedAnswer": "apply a traction splint to realign the deformity.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_211545_8",
+    "question": "A 77-year-old woman slipped and fell on a throw rug and landed on her left hip. She denies striking her head or losing consciousness. Assessment of her left leg reveals that it is shortened and externally rotated. Distal pulses, sensory, and motor functions are intact. You should:",
+    "answers": [
+      "place her onto a scoop stretcher, pad around her left hip with pillows, and secure her to the scoop with straps.",
+      "manually stabilize her left leg, apply a traction splint, and then secure her to a long backboard or scoop.",
+      "carefully slide a long backboard underneath her, keep her in a supine position, and apply a splint to her leg.",
+      "bind both of her legs together with triangular bandages and carefully secure her onto the ambulance stretcher."
+    ],
+    "correctAnswers": [
+      "place her onto a scoop stretcher, pad around her left hip with pillows, and secure her to the scoop with straps."
+    ],
+    "selectedAnswer": "manually stabilize her left leg, apply a traction splint, and then secure her to a long backboard or scoop.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_211545_9",
+    "question": "A Colles fracture involves a fracture of the:",
+    "answers": [
+      "radius and ulna.",
+      "distal ulna.",
+      "distal radius.",
+      "proximal radius."
+    ],
+    "correctAnswers": [
+      "distal radius."
+    ],
+    "selectedAnswer": "distal radius.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_211545_10",
+    "question": "A construction worker's arm was severed just above the elbow when a steel girder fell on it. The stump is covered with a blood-soaked towel. The patient's skin is cool, clammy, and pale. The EMT should:",
+    "answers": [
+      "wrap the severed arm in a sterile dressing.",
+      "apply a tourniquet just below the shoulder.",
+      "administer high-flow oxygen to the patient.",
+      "remove the towel and inspect the wound."
+    ],
+    "correctAnswers": [
+      "apply a tourniquet just below the shoulder."
+    ],
+    "selectedAnswer": "apply a tourniquet just below the shoulder.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_211545_11",
+    "question": "A ____________ is a musculoskeletal injury in which there is partial or temporary separation of the bone ends as well as partial stretching or tearing of the supporting ligaments.",
+    "answers": [
+      "Strain",
+      "Fracture",
+      "Sprain",
+      "Dislocation"
+    ],
+    "correctAnswers": [
+      "Sprain"
+    ],
+    "selectedAnswer": "Sprain",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_211545_12",
+    "question": "A(n) __________ fracture occurs in the growth section of a child's bone and might lead to bone growth abnormalities.",
+    "answers": [
+      "metaphyseal",
+      "greenstick",
+      "epiphyseal",
+      "diaphyseal"
+    ],
+    "correctAnswers": [
+      "epiphyseal"
+    ],
+    "selectedAnswer": "epiphyseal",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_211545_13",
+    "question": "A person who experiences a calcaneus fracture after jumping and landing on his or her feet would most likely experience an accompanying fracture of the:",
+    "answers": [
+      "thoracic spine.",
+      "coccygeal spine.",
+      "lumbar spine.",
+      "symphysis pubis."
+    ],
+    "correctAnswers": [
+      "lumbar spine."
+    ],
+    "selectedAnswer": "lumbar spine.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_211545_14",
+    "question": "Bones are connected to other bones by bands of tough fibrous tissues called:",
+    "answers": [
+      "tendons.",
+      "ligaments.",
+      "bursa.",
+      "cartilage."
+    ],
+    "correctAnswers": [
+      "ligaments."
+    ],
+    "selectedAnswer": "ligaments.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_211545_15",
+    "question": "Common signs and symptoms of a sprain include all of the following, except:",
+    "answers": [
+      "deformity.",
+      "ecchymosis.",
+      "swelling.",
+      "guarding."
+    ],
+    "correctAnswers": [
+      "deformity."
+    ],
+    "selectedAnswer": "deformity.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_211545_16",
+    "question": "During your assessment of a 29-year-old female with significant deformity to her left elbow, you are unable to palpate a radial pulse. Your transport time to the hospital is approximately 40 minutes. You should:",
+    "answers": [
+      "make two or three attempts to restore distal circulation by manipulating the elbow.",
+      "carefully straighten the injured arm and secure it with padded board splints.",
+      "splint the elbow in the position of deformity and transport immediately.",
+      "apply gentle manual traction in line with the limb and reassess for a pulse."
+    ],
+    "correctAnswers": [
+      "apply gentle manual traction in line with the limb and reassess for a pulse."
+    ],
+    "selectedAnswer": "splint the elbow in the position of deformity and transport immediately.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_211545_17",
+    "question": "During your secondary assessment of a 19-year-old female with multiple traumas, you note bilateral humeral deformities and a deformity to the left midshaft femur. Her skin is diaphoretic, and her pulse is rapid and weak. Your partner has appropriately managed her airway and is maintaining manual stabilization of her head. The most appropriate treatment for this patient includes:",
+    "answers": [
+      "immobilizing her to a backboard and rapidly transporting.",
+      "applying a traction splint to immobilize her femur.",
+      "carefully splinting each of her deformed extremities.",
+      "splinting her femur fracture with padded board splints."
+    ],
+    "correctAnswers": [
+      "immobilizing her to a backboard and rapidly transporting."
+    ],
+    "selectedAnswer": "applying a traction splint to immobilize her femur.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_211545_18",
+    "question": "During your secondary assessment of a 30-year-old male who fell 25 feet, you note crepitus when palpating his pelvis. Your partner advises you that the patient's blood pressure is 80/50 mm Hg, and his heart rate is 120 beats/min and weak. After completing your assessment, you should:",
+    "answers": [
+      "perform a focused physical exam with emphasis on the pelvis.",
+      "log roll the patient onto a long backboard and transport at once.",
+      "stabilize the pelvis with a pelvic binder and protect the spine.",
+      "defer spinal immobilization and transport to a trauma center."
+    ],
+    "correctAnswers": [
+      "stabilize the pelvis with a pelvic binder and protect the spine."
+    ],
+    "selectedAnswer": "stabilize the pelvis with a pelvic binder and protect the spine.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_211545_19",
+    "question": "If a dislocated shoulder has spontaneously reduced before your arrival, the only way to confirm the injury is by noting:",
+    "answers": [
+      "the patient history.",
+      "bruising to the shoulder.",
+      "distal circulation.",
+      "the presence of deformity."
+    ],
+    "correctAnswers": [
+      "the patient history."
+    ],
+    "selectedAnswer": "the patient history.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_211545_20",
+    "question": "Skeletal muscle is also referred to as __________ muscle.",
+    "answers": [
+      "connective",
+      "smooth",
+      "involuntary",
+      "striated"
+    ],
+    "correctAnswers": [
+      "striated"
+    ],
+    "selectedAnswer": "striated",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

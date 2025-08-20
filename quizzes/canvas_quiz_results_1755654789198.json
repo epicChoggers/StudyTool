@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_215491_1",
+    "question": "A 49-year-old male presents with an acute onset of crushing chest pain and diaphoresis. You should:",
+    "answers": [
+      "administer up to three doses of nitroglycerin.",
+      "administer up to 324 mg of baby aspirin.",
+      "obtain vital signs and a SAMPLE history.",
+      "assess the adequacy of his respirations."
+    ],
+    "correctAnswers": [
+      "assess the adequacy of his respirations."
+    ],
+    "selectedAnswer": "obtain vital signs and a SAMPLE history.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_215491_2",
+    "question": "A 66-year-old female with a history of hypertension and diabetes presents with substernal chest pressure of 2 hours' duration. Her blood pressure is 140/90 mm Hg, her pulse is 100 beats/min and irregular, her respirations are 22 breaths/min, and her oxygen saturation is 92%. The patient does not have prescribed nitroglycerin, but her husband does. You should:",
+    "answers": [
+      "obtain a SAMPLE history and contact medical control for advice.",
+      "give her one nitroglycerin and reassess her systolic blood pressure.",
+      "administer oxygen, give her 324 mg of aspirin, and assess her further.",
+      "give her high-flow oxygen, attach the AED, and transport at once."
+    ],
+    "correctAnswers": [
+      "administer oxygen, give her 324 mg of aspirin, and assess her further."
+    ],
+    "selectedAnswer": "obtain a SAMPLE history and contact medical control for advice.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_215491_3",
+    "question": "A 66-year-old woman presents with a stabbing pain in the middle of her chest that radiates to her back. She tells you that the pain suddenly began about 30 minutes ago and has been severe since the onset. She has a history of hypertension, but admits to being noncompliant with her antihypertensive medications. When you assess her, you find that her blood pressure is significantly higher in her left arm than it is in her right arm. What do these signs and symptoms MOST likely indicate?",
+    "answers": [
+      "Acute myocardial infarction",
+      "Dissecting aortic aneurysm",
+      "Unstable angina",
+      "Hypertensive emergency"
+    ],
+    "correctAnswers": [
+      "Dissecting aortic aneurysm"
+    ],
+    "selectedAnswer": "Dissecting aortic aneurysm",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_215491_4",
+    "question": "A 67-year-old female with severe chest pain becomes unresponsive, pulseless, and apneic during transport. You should:",
+    "answers": [
+      "perform CPR for 1 to 2 minutes and then analyze her rhythm with an AED.",
+      "stop the ambulance, begin CPR, and attach the AED as soon as possible.",
+      "defibrillate with the AED while continuing transport to the hospital.",
+      "alert the receiving hospital and perform CPR for the duration of the transport."
+    ],
+    "correctAnswers": [
+      "stop the ambulance, begin CPR, and attach the AED as soon as possible."
+    ],
+    "selectedAnswer": "defibrillate with the AED while continuing transport to the hospital.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_215491_5",
+    "question": "Acute coronary syndrome (ACS) is a term used to describe:",
+    "answers": [
+      "the warning signs that occur shortly before a heart attack.",
+      "a severe decrease in perfusion caused by changes in heart rate.",
+      "a group of symptoms that are caused by myocardial ischemia.",
+      "the exact moment that a coronary artery is completely occluded."
+    ],
+    "correctAnswers": [
+      "a group of symptoms that are caused by myocardial ischemia."
+    ],
+    "selectedAnswer": "a group of symptoms that are caused by myocardial ischemia.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_215491_6",
+    "question": "A dissecting aortic aneurysm occurs when:",
+    "answers": [
+      "a weakened area develops in the aortic wall.",
+      "the aorta ruptures, resulting in profound bleeding.",
+      "the inner layers of the aorta become separated.",
+      "all layers of the aorta suddenly contract."
+    ],
+    "correctAnswers": [
+      "the inner layers of the aorta become separated."
+    ],
+    "selectedAnswer": "the inner layers of the aorta become separated.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_215491_7",
+    "question": "After assisting your patient with prescribed nitroglycerin, you should:",
+    "answers": [
+      "avoid further dosing if the patient complains of a severe headache.",
+      "perform a secondary assessment before administering further doses.",
+      "place the patient in a recumbent position in case of fainting.",
+      "reassess his or her blood pressure within 5 minutes to detect hypotension."
+    ],
+    "correctAnswers": [
+      "reassess his or her blood pressure within 5 minutes to detect hypotension."
+    ],
+    "selectedAnswer": "reassess his or her blood pressure within 5 minutes to detect hypotension.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_215491_8",
+    "question": "After the AED has delivered a shock, the EMT should:",
+    "answers": [
+      "immediately resume CPR.",
+      "transport the patient at once.",
+      "assess for a carotid pulse.",
+      "re-analyze the cardiac rhythm."
+    ],
+    "correctAnswers": [
+      "immediately resume CPR."
+    ],
+    "selectedAnswer": "immediately resume CPR.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_215491_9",
+    "question": "An acute myocardial infarction (AMI) occurs when:",
+    "answers": [
+      "myocardial tissue dies secondary to an absence of oxygen.",
+      "the heart muscle progressively weakens and dysfunctions.",
+      "the entire left ventricle is damaged and cannot pump blood.",
+      "coronary artery dilation decreases blood flow to the heart."
+    ],
+    "correctAnswers": [
+      "myocardial tissue dies secondary to an absence of oxygen."
+    ],
+    "selectedAnswer": "myocardial tissue dies secondary to an absence of oxygen.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_215491_10",
+    "question": "Angina pectoris occurs when:",
+    "answers": [
+      "one or more coronary arteries suddenly spasm.",
+      "myocardial oxygen demand exceeds supply.",
+      "a coronary artery is totally occluded by plaque.",
+      "myocardial oxygen supply exceeds the demand."
+    ],
+    "correctAnswers": [
+      "myocardial oxygen demand exceeds supply."
+    ],
+    "selectedAnswer": "myocardial oxygen demand exceeds supply.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_215491_11",
+    "question": "A patient with a left ventricular assist device (LVAD) tells you that the device's pump flow is continuous. Which of the following should you expect to encounter during your assessment?",
+    "answers": [
+      "Low diastolic blood pressure",
+      "High systolic blood pressure",
+      "Absence of a palpable pulse",
+      "Distention of the jugular veins"
+    ],
+    "correctAnswers": [
+      "Absence of a palpable pulse"
+    ],
+    "selectedAnswer": "Absence of a palpable pulse",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_215491_12",
+    "question": "Blood that is ejected from the right ventricle:",
+    "answers": [
+      "has a high concentration of oxygen.",
+      "was received directly from the aorta.",
+      "flows into the pulmonary arteries.",
+      "enters the systemic circulation."
+    ],
+    "correctAnswers": [
+      "flows into the pulmonary arteries."
+    ],
+    "selectedAnswer": "flows into the pulmonary arteries.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_215491_13",
+    "question": "Common side effects of nitroglycerin include all of the following, EXCEPT:",
+    "answers": [
+      "bradycardia.",
+      "hypotension.",
+      "severe headache.",
+      "hypertension."
+    ],
+    "correctAnswers": [
+      "hypertension."
+    ],
+    "selectedAnswer": "hypertension.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_215491_14",
+    "question": "Deoxygenated blood from the body returns to the:",
+    "answers": [
+      "right atrium.",
+      "right ventricle.",
+      "left ventricle.",
+      "left atrium."
+    ],
+    "correctAnswers": [
+      "right atrium."
+    ],
+    "selectedAnswer": "right atrium.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_215491_15",
+    "question": "During your treatment of a woman in cardiac arrest, you apply the AED, analyze her cardiac rhythm, and receive a \"no shock advised\" message. This indicates that:",
+    "answers": [
+      "she is not in ventricular fibrillation.",
+      "the AED detected patient motion.",
+      "she has a pulse and does not need CPR.",
+      "the AED has detected asystole."
+    ],
+    "correctAnswers": [
+      "she is not in ventricular fibrillation."
+    ],
+    "selectedAnswer": "she is not in ventricular fibrillation.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_215491_16",
+    "question": "Most AEDs are set up to adjust the voltage based on the impedance, which is the:",
+    "answers": [
+      "resistance of the body to the flow of electricity.",
+      "actual amount of energy that the AED will deliver.",
+      "direction that the electrical flow takes in the body.",
+      "distance between the two AED pads on the chest."
+    ],
+    "correctAnswers": [
+      "resistance of the body to the flow of electricity."
+    ],
+    "selectedAnswer": "resistance of the body to the flow of electricity.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_215491_17",
+    "question": "Nitroglycerin relieves cardiac-related chest pain by:",
+    "answers": [
+      "increasing the amount of stress that is placed on the myocardium.",
+      "constricting the coronary arteries and improving cardiac blood flow.",
+      "dilating the coronary arteries and improving cardiac blood flow.",
+      "contracting the smooth muscle of the coronary and cerebral arteries."
+    ],
+    "correctAnswers": [
+      "dilating the coronary arteries and improving cardiac blood flow."
+    ],
+    "selectedAnswer": "dilating the coronary arteries and improving cardiac blood flow.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_215491_18",
+    "question": "A 40-year-old man is in cardiac arrest. Your partner is performing CPR. You are attaching the AED when the patient's wife tells you that he has an automatic implantable cardiac defibrillator (AICD). The AED advises that a shock is indicated. What should you do?",
+    "answers": [
+      "Avoid defibrillation because this will damage the patient's AICD.",
+      "Contact medical control and request permission to defibrillate.",
+      "Continue CPR and transport the patient to the closest appropriate hospital.",
+      "Deliver the shock followed by immediate resumption of CPR."
+    ],
+    "correctAnswers": [
+      "Deliver the shock followed by immediate resumption of CPR."
+    ],
+    "selectedAnswer": "Deliver the shock followed by immediate resumption of CPR.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_215491_19",
+    "question": "Cardiac output may decrease if the heart beats too rapidly because:",
+    "answers": [
+      "there is not enough time in between contractions for the heart to refill completely.",
+      "the volume of blood that returns to the heart is not sufficient with fast heart rates.",
+      "as the heart rate increases, more blood is pumped from the ventricles than the atria",
+      "a rapid heartbeat causes a decrease in the strength of cardiac contractions."
+    ],
+    "correctAnswers": [
+      "there is not enough time in between contractions for the heart to refill completely."
+    ],
+    "selectedAnswer": "there is not enough time in between contractions for the heart to refill completely.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_215491_20",
+    "question": "Common signs and symptoms of AMI include all of the following, EXCEPT:",
+    "answers": [
+      "shortness of breath or dyspnea.",
+      "pain exacerbated by breathing.",
+      "sudden unexplained sweating.",
+      "irregular heartbeat."
+    ],
+    "correctAnswers": [
+      "pain exacerbated by breathing."
+    ],
+    "selectedAnswer": "pain exacerbated by breathing.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]

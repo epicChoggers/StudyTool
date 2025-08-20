@@ -1,0 +1,342 @@
+[
+  {
+    "index": 1,
+    "questionId": "interaction_211596_1",
+    "question": "Which of the following general statements regarding consent is correct?",
+    "answers": [
+      "A patient can consent to transport but can legally refuse treatment.",
+      "All patients older than 18 years can legally refuse treatment or transport.",
+      "Patients who are intoxicated are generally allowed to refuse treatment.",
+      "Expressed consent is valid only if given in writing by a family member."
+    ],
+    "correctAnswers": [
+      "A patient can consent to transport but can legally refuse treatment."
+    ],
+    "selectedAnswer": "A patient can consent to transport but can legally refuse treatment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 2,
+    "questionId": "interaction_211596_2",
+    "question": "Which type of consent is involved when a 39-year-old, mentally competent female with a severe headache asks you to take her to the hospital?",
+    "answers": [
+      "Informed",
+      "Expressed",
+      "Implied",
+      "Formal"
+    ],
+    "correctAnswers": [
+      "Expressed"
+    ],
+    "selectedAnswer": "Expressed",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 3,
+    "questionId": "interaction_211596_3",
+    "question": "Which of the following scenarios is an example of informed consent?",
+    "answers": [
+      "An EMT advises a patient of the risks of receiving treatment.",
+      "A patient is advised by an EMT of the risks of refusing care.",
+      "An EMT initiates immediate care for an unconscious adult.",
+      "A patient advises an EMT of why he or she is refusing care."
+    ],
+    "correctAnswers": [
+      "An EMT advises a patient of the risks of receiving treatment."
+    ],
+    "selectedAnswer": "An EMT advises a patient of the risks of receiving treatment.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 4,
+    "questionId": "interaction_211596_4",
+    "question": "Which of the following types of consent allows treatment of a patient who is unconscious or mentally incapacitated?",
+    "answers": [
+      "Expressed",
+      "Implied",
+      "Informed",
+      "Actual"
+    ],
+    "correctAnswers": [
+      "Implied"
+    ],
+    "selectedAnswer": "Implied",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 5,
+    "questionId": "interaction_211596_5",
+    "question": "You suspect that a pregnant 16-year-old girl has a broken leg after she was hit by a car. You explain that you plan to splint her leg, and she agrees to treatment. Which of the following types of consent describes her agreement?",
+    "answers": [
+      "Implied",
+      "Minor's",
+      "Informed",
+      "Expressed"
+    ],
+    "correctAnswers": [
+      "Expressed"
+    ],
+    "selectedAnswer": "Expressed",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 6,
+    "questionId": "interaction_211596_6",
+    "question": "Shortly after you load your patient, a 50-year-old man with abdominal pain, into the ambulance, he tells you that he changed his mind and does not want to go to the hospital. The patient is conscious and alert and has no signs of mental incapacitation. You are suspicious that the man has a significant underlying condition and feel strongly that he should go to the hospital. Which of the following statements regarding this situation is correct?",
+    "answers": [
+      "Because of your suspicions, the best approach is to transport him to the hospital.",
+      "A mentally competent adult can withdraw his or her consent to treat at any time.",
+      "Once the patient is in the ambulance, he cannot legally refuse EMS treatment.",
+      "Any patient who refuses EMS treatment must legally sign a patient refusal form."
+    ],
+    "correctAnswers": [
+      "A mentally competent adult can withdraw his or her consent to treat at any time."
+    ],
+    "selectedAnswer": "A mentally competent adult can withdraw his or her consent to treat at any time.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 7,
+    "questionId": "interaction_211596_7",
+    "question": "All of the following are considered to be protected health information (PHI), except:",
+    "answers": [
+      "assessment findings.",
+      "patient history.",
+      "location of the call.",
+      "treatment rendered."
+    ],
+    "correctAnswers": [
+      "location of the call."
+    ],
+    "selectedAnswer": "location of the call.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 8,
+    "questionId": "interaction_211596_8",
+    "question": "During your monthly internal quality improvement (QI) meeting, you review several patient care reports (PCRs) with the staff of your EMS system. You identify the patient's name, age, and sex, and then discuss the treatment that was provided by the EMTs in the field. By taking this approach to the QI process, you:",
+    "answers": [
+      "adequately safeguarded the patient's PHI because the cases were discussed internally.",
+      "are in violation of HIPAA because you did not remove the PHI from the PCR beforehand.",
+      "violated the patient's privacy because you should have discussed the information only with the EMTs involved.",
+      "acted appropriately but must have each EMT sign a waiver stating that he or she will not discuss the cases with others."
+    ],
+    "correctAnswers": [
+      "are in violation of HIPAA because you did not remove the PHI from the PCR beforehand."
+    ],
+    "selectedAnswer": "are in violation of HIPAA because you did not remove the PHI from the PCR beforehand.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 9,
+    "questionId": "interaction_211596_9",
+    "question": "For a do not resuscitate (DNR) order to be valid, it must:",
+    "answers": [
+      "be signed by the local justice of the peace.",
+      "clearly state the patient's medical problem.",
+      "be dated within the previous 24 months.",
+      "be updated a minimum of every 6 months."
+    ],
+    "correctAnswers": [
+      "clearly state the patient's medical problem."
+    ],
+    "selectedAnswer": "clearly state the patient's medical problem.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 10,
+    "questionId": "interaction_211596_10",
+    "question": "You respond to the home of a 59-year-old man who is unconscious with slow, shallow breathing and a weak pulse. The family states that the patient has terminal brain cancer and does not wish to be resuscitated. They further state that there is a DNR order for this patient, but they are unable to locate it. You should:",
+    "answers": [
+      "transport the patient without providing any treatment.",
+      "honor the patient's wishes and withhold all treatment.",
+      "decide on further action once the DNR order is produced.",
+      "begin treatment and contact medical control as needed."
+    ],
+    "correctAnswers": [
+      "begin treatment and contact medical control as needed."
+    ],
+    "selectedAnswer": "begin treatment and contact medical control as needed.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 11,
+    "questionId": "interaction_211596_11",
+    "question": "When is forcible restraint permitted?",
+    "answers": [
+      "Anytime that the EMT feels threatened",
+      "Only if law enforcement personnel have witnessed threatening behavior",
+      "When the patient poses a significant threat to self or others",
+      "Only if consent to restrain is given by a family member"
+    ],
+    "correctAnswers": [
+      "When the patient poses a significant threat to self or others"
+    ],
+    "selectedAnswer": "When the patient poses a significant threat to self or others",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 12,
+    "questionId": "interaction_211596_12",
+    "question": "The EMT's scope of practice within his or her local response area is defined by the:",
+    "answers": [
+      "local health district.",
+      "EMS supervisor.",
+      "state EMS office.",
+      "medical director."
+    ],
+    "correctAnswers": [
+      "medical director."
+    ],
+    "selectedAnswer": "medical director.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 13,
+    "questionId": "interaction_211596_13",
+    "question": "As an EMT, the performance of your duties will be compared to that of:",
+    "answers": [
+      "another EMT.",
+      "the medical director.",
+      "a paramedic supervisor.",
+      "the general public."
+    ],
+    "correctAnswers": [
+      "another EMT."
+    ],
+    "selectedAnswer": "another EMT.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 14,
+    "questionId": "interaction_211596_14",
+    "question": "In which of the following situations does a legal duty to act clearly exist?",
+    "answers": [
+      "The EMT hears of a cardiac arrest after his or her shift ends.",
+      "A call is received 15 minutes prior to shift change.",
+      "A bystander encounters a victim who is not breathing.",
+      "The EMT witnesses a vehicle crash while off duty."
+    ],
+    "correctAnswers": [
+      "A call is received 15 minutes prior to shift change."
+    ],
+    "selectedAnswer": "A call is received 15 minutes prior to shift change.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 15,
+    "questionId": "interaction_211596_15",
+    "question": "When caring for a 65-year-old male with respiratory distress, you place him in a comfortable position but do not apply oxygen. The patient's condition continues to deteriorate: He develops cardiac arrest and dies at the hospital. This scenario is an example of:",
+    "answers": [
+      "assault.",
+      "negligence.",
+      "battery.",
+      "abandonment."
+    ],
+    "correctAnswers": [
+      "negligence."
+    ],
+    "selectedAnswer": "negligence.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 16,
+    "questionId": "interaction_211596_16",
+    "question": "Which of the following scenarios most accurately depicts abandonment?",
+    "answers": [
+      "A physician assumes patient care from an EMT.",
+      "An EMT gives a verbal report to an emergency room nurse.",
+      "A paramedic transfers patient care to an EMT.",
+      "An AEMT transfers patient care to a paramedic."
+    ],
+    "correctAnswers": [
+      "A paramedic transfers patient care to an EMT."
+    ],
+    "selectedAnswer": "A paramedic transfers patient care to an EMT.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 17,
+    "questionId": "interaction_211596_17",
+    "question": "Which of the following statements regarding Good Samaritan laws is correct?",
+    "answers": [
+      "Such laws guarantee that the EMT will not be held liable if he or she is sued.",
+      "Such laws do not protect EMTs who are off duty.",
+      "Such laws provide the EMT with absolute immunity from a lawsuit.",
+      "Such laws will not protect the EMT in cases of gross negligence."
+    ],
+    "correctAnswers": [
+      "Such laws will not protect the EMT in cases of gross negligence."
+    ],
+    "selectedAnswer": "Such laws will not protect the EMT in cases of gross negligence.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 18,
+    "questionId": "interaction_211596_18",
+    "question": "Which of the following situations requires you to notify the appropriate authorities?",
+    "answers": [
+      "Attempted suicide",
+      "Drug overdose",
+      "Accidental knife wound",
+      "Cardiac arrest"
+    ],
+    "correctAnswers": [
+      "Attempted suicide"
+    ],
+    "selectedAnswer": "Attempted suicide",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 19,
+    "questionId": "interaction_211596_19",
+    "question": "You are dispatched to an apartment complex to respond to a shooting. Law enforcement personnel are present and have the suspect in custody. You find the patient lying in a narrow space between the couch and coffee table of his small apartment. He is semiconscious and has a large gunshot wound to his chest. You should:",
+    "answers": [
+      "drag the patient into a larger area so that you can begin treatment.",
+      "treat the patient where he is so that you do not destroy any evidence.",
+      "quickly move the coffee table so you can access and treat the patient.",
+      "obtain permission from law enforcement before moving anything."
+    ],
+    "correctAnswers": [
+      "quickly move the coffee table so you can access and treat the patient."
+    ],
+    "selectedAnswer": "quickly move the coffee table so you can access and treat the patient.",
+    "isCorrect": true,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  },
+  {
+    "index": 20,
+    "questionId": "interaction_211596_20",
+    "question": "While transporting a woman with diabetes, you inadvertently give her oral glucose even though her blood glucose level was high. You reassess the patient and note that her condition did not change; she remained stable. You should:",
+    "answers": [
+      "contact medical control and notify them of the error.",
+      "notify law enforcement so they can file an incident report.",
+      "document the error and report it to your supervisor.",
+      "exclude this intervention from the PCR because it did not harm the patient."
+    ],
+    "correctAnswers": [
+      "contact medical control and notify them of the error."
+    ],
+    "selectedAnswer": "document the error and report it to your supervisor.",
+    "isCorrect": false,
+    "bank": "AHE190 04 13790 - SU25 - Emerg Medical Tech. (scope)"
+  }
+]
