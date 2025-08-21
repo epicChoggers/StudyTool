@@ -2,12 +2,19 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import { loadQuizData, createComprehensiveReview, ProcessedQuestion, QuizBank } from './utils/quizUtils'
 
+interface MissedQuestion {
+  question: ProcessedQuestion
+  selectedAnswer: number
+}
+
 // Local storage keys
 const STORAGE_KEYS = {
   SELECTED_QUIZ: 'studytool_selected_quiz',
   CURRENT_QUESTION_INDEX: 'studytool_current_question_index',
+  CURRENT_QUESTIONS: 'studytool_current_questions',
   SCORE: 'studytool_score',
   COMPLETED_QUESTIONS: 'studytool_completed_questions',
+  MISSED_QUESTIONS: 'studytool_missed_questions',
   QUIZ_HISTORY: 'studytool_quiz_history'
 }
 
@@ -37,23 +44,31 @@ const saveToStorage = (key: string, value: any) => {
 
 function App() {
   const [quizBanks, setQuizBanks] = useState<QuizBank[]>([])
-  const [selectedQuiz, setSelectedQuiz] = useState<string>(() => 
+  const [selectedQuiz, setSelectedQuiz] = useState<string>(() =>
     loadFromStorage(STORAGE_KEYS.SELECTED_QUIZ, 'comprehensive')
   )
-  const [currentQuestions, setCurrentQuestions] = useState<ProcessedQuestion[]>([])
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(() => 
-    loadFromStorage(STORAGE_KEYS.CURRENT_QUESTION_INDEX, 0)
+
+  const savedIndex = loadFromStorage(STORAGE_KEYS.CURRENT_QUESTION_INDEX, 0)
+  const savedCompletedArray = loadFromStorage(STORAGE_KEYS.COMPLETED_QUESTIONS, [])
+
+  const [currentQuestions, setCurrentQuestions] = useState<ProcessedQuestion[]>(() =>
+    loadFromStorage(STORAGE_KEYS.CURRENT_QUESTIONS, [])
   )
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(savedIndex)
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null)
-  const [showResult, setShowResult] = useState(false)
-  const [score, setScore] = useState<number>(() => 
+  const [showResult, setShowResult] = useState<boolean>(
+    savedCompletedArray.includes(savedIndex)
+  )
+  const [score, setScore] = useState<number>(() =>
     loadFromStorage(STORAGE_KEYS.SCORE, 0)
   )
   const [isLoading, setIsLoading] = useState(true)
-  const [completedQuestions, setCompletedQuestions] = useState<Set<number>>(() => {
-    const saved = loadFromStorage(STORAGE_KEYS.COMPLETED_QUESTIONS, [])
-    return new Set(saved)
-  })
+  const [completedQuestions, setCompletedQuestions] = useState<Set<number>>(
+    () => new Set(savedCompletedArray)
+  )
+  const [missedQuestions, setMissedQuestions] = useState<MissedQuestion[]>(() =>
+    loadFromStorage(STORAGE_KEYS.MISSED_QUESTIONS, [])
+  )
 
   // Load quiz data on component mount
   useEffect(() => {
@@ -62,8 +77,8 @@ function App() {
       try {
         const banks = await loadQuizData()
         setQuizBanks(banks)
-        if (banks.length > 0) {
-          // Load questions based on selected quiz
+        if (banks.length > 0 && currentQuestions.length === 0) {
+          // Load questions based on selected quiz when no saved progress exists
           handleQuizChange(selectedQuiz, banks)
         }
       } catch (error) {
@@ -93,6 +108,14 @@ function App() {
     saveToStorage(STORAGE_KEYS.COMPLETED_QUESTIONS, Array.from(completedQuestions))
   }, [completedQuestions])
 
+  useEffect(() => {
+    saveToStorage(STORAGE_KEYS.CURRENT_QUESTIONS, currentQuestions)
+  }, [currentQuestions])
+
+  useEffect(() => {
+    saveToStorage(STORAGE_KEYS.MISSED_QUESTIONS, missedQuestions)
+  }, [missedQuestions])
+
   // Handle quiz selection change
   const handleQuizChange = (quizId: string, banks?: QuizBank[]) => {
     const quizBanksToUse = banks || quizBanks
@@ -102,6 +125,7 @@ function App() {
     setShowResult(false)
     setScore(0)
     setCompletedQuestions(new Set())
+    setMissedQuestions([])
 
     if (quizId === 'comprehensive') {
       const comprehensiveQuestions = createComprehensiveReview(quizBanksToUse)
@@ -132,6 +156,11 @@ function App() {
 
     if (selectedAnswer === currentQuestion.correctAnswer) {
       setScore(score + 1)
+    } else {
+      setMissedQuestions(prev => [
+        ...prev,
+        { question: currentQuestion, selectedAnswer }
+      ])
     }
 
     // Mark this question as completed
@@ -148,12 +177,25 @@ function App() {
     }
   }
 
-  const handleRestart = () => {
+  const handleFinish = () => {
+    setCurrentQuestionIndex(currentQuestions.length)
+    setSelectedAnswer(null)
+    setShowResult(false)
+  }
+
+  const handleRetestMissed = () => {
+    const questionsToRetest = missedQuestions.map(mq => mq.question)
+    setCurrentQuestions(questionsToRetest)
     setCurrentQuestionIndex(0)
     setSelectedAnswer(null)
     setShowResult(false)
     setScore(0)
     setCompletedQuestions(new Set())
+    setMissedQuestions([])
+  }
+
+  const handleRetestAll = () => {
+    handleQuizChange(selectedQuiz)
   }
 
   // Keyboard shortcuts for answering and navigation
@@ -176,12 +218,12 @@ function App() {
           handleSubmit()
         }
       } else {
-        // Space moves to the next question or restarts after the last question
+        // Space moves to the next question or finishes after the last question
         if (e.key === ' ' || e.code === 'Space') {
           if (currentQuestionIndex < currentQuestions.length - 1) {
             handleNext()
           } else {
-            handleRestart()
+            handleFinish()
           }
         }
       }
@@ -307,7 +349,7 @@ function App() {
                     ) : (
                       <button
                         className="nav-button success"
-                        onClick={handleRestart}
+                        onClick={handleFinish}
                       >
                         Finish Quiz
                       </button>
@@ -323,11 +365,19 @@ function App() {
                 {Math.round((score / currentQuestions.length) * 100)}%
               </div>
               <div className="navigation">
+                {missedQuestions.length > 0 && (
+                  <button
+                    className="nav-button primary"
+                    onClick={handleRetestMissed}
+                  >
+                    Retest Missed Questions
+                  </button>
+                )}
                 <button
                   className="nav-button primary"
-                  onClick={handleRestart}
+                  onClick={handleRetestAll}
                 >
-                  Restart Quiz
+                  Retest All Questions
                 </button>
               </div>
             </div>
