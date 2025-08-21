@@ -161,23 +161,23 @@ function App() {
   }
 
   const handleFinish = () => {
-    if (missedQuestions.length > 0) {
-      const questionsToRetest = missedQuestions.map(mq => mq.question)
-      setCurrentQuestions(questionsToRetest)
-      setCurrentQuestionIndex(0)
-      setSelectedAnswer(null)
-      setShowResult(false)
-      setScore(0)
-      setCompletedQuestions(new Set())
-      setMissedQuestions([])
-    } else {
-      setCurrentQuestionIndex(currentQuestions.length)
-      setSelectedAnswer(null)
-      setShowResult(false)
-    }
+    setCurrentQuestionIndex(currentQuestions.length)
+    setSelectedAnswer(null)
+    setShowResult(false)
   }
 
-  const handleRestart = () => {
+  const handleRetestMissed = () => {
+    const questionsToRetest = missedQuestions.map(mq => mq.question)
+    setCurrentQuestions(questionsToRetest)
+    setCurrentQuestionIndex(0)
+    setSelectedAnswer(null)
+    setShowResult(false)
+    setScore(0)
+    setCompletedQuestions(new Set())
+    setMissedQuestions([])
+  }
+
+  const handleRetestAll = () => {
     handleQuizChange(selectedQuiz)
   }
 
@@ -348,11 +348,19 @@ function App() {
                 {Math.round((score / currentQuestions.length) * 100)}%
               </div>
               <div className="navigation">
+                {missedQuestions.length > 0 && (
+                  <button
+                    className="nav-button primary"
+                    onClick={handleRetestMissed}
+                  >
+                    Retest Missed Questions
+                  </button>
+                )}
                 <button
                   className="nav-button primary"
-                  onClick={handleRestart}
+                  onClick={handleRetestAll}
                 >
-                  Restart Quiz
+                  Retest All Questions
                 </button>
               </div>
             </div>
