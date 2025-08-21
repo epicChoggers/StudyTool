@@ -156,8 +156,43 @@ function App() {
     setCompletedQuestions(new Set())
   }
 
+  // Keyboard shortcuts for answering and navigation
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      // Prevent default space scrolling when used for navigation
+      if (e.key === ' ' || e.code === 'Space') {
+        e.preventDefault()
+      }
+
+      if (!showResult) {
+        // Allow number keys 1-4 to select answers
+        const num = parseInt(e.key, 10)
+        if (num >= 1 && num <= 4) {
+          handleAnswerSelect(num - 1)
+        }
+
+        // Space submits the current answer if one is selected
+        if ((e.key === ' ' || e.code === 'Space') && selectedAnswer !== null) {
+          handleSubmit()
+        }
+      } else {
+        // Space moves to the next question or restarts after the last question
+        if (e.key === ' ' || e.code === 'Space') {
+          if (currentQuestionIndex < currentQuestions.length - 1) {
+            handleNext()
+          } else {
+            handleRestart()
+          }
+        }
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyDown)
+    return () => window.removeEventListener('keydown', handleKeyDown)
+  }, [showResult, selectedAnswer, currentQuestionIndex, currentQuestions])
+
   // Calculate progress percentage
-  const progressPercentage = currentQuestions.length > 0 
+  const progressPercentage = currentQuestions.length > 0
     ? Math.round((completedQuestions.size / currentQuestions.length) * 100)
     : 0
 
