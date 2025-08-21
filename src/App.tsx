@@ -161,18 +161,24 @@ function App() {
   }
 
   const handleFinish = () => {
-    setCurrentQuestionIndex(currentQuestions.length)
-    setSelectedAnswer(null)
-    setShowResult(false)
+    if (missedQuestions.length > 0) {
+      const questionsToRetest = missedQuestions.map(mq => mq.question)
+      setCurrentQuestions(questionsToRetest)
+      setCurrentQuestionIndex(0)
+      setSelectedAnswer(null)
+      setShowResult(false)
+      setScore(0)
+      setCompletedQuestions(new Set())
+      setMissedQuestions([])
+    } else {
+      setCurrentQuestionIndex(currentQuestions.length)
+      setSelectedAnswer(null)
+      setShowResult(false)
+    }
   }
 
   const handleRestart = () => {
-    setCurrentQuestionIndex(0)
-    setSelectedAnswer(null)
-    setShowResult(false)
-    setScore(0)
-    setCompletedQuestions(new Set())
-    setMissedQuestions([])
+    handleQuizChange(selectedQuiz)
   }
 
   // Keyboard shortcuts for answering and navigation
@@ -341,22 +347,6 @@ function App() {
               <div className="score-percentage">
                 {Math.round((score / currentQuestions.length) * 100)}%
               </div>
-              {missedQuestions.length > 0 && (
-                <div className="review-section">
-                  <h3>Review Missed Questions</h3>
-                  {missedQuestions.map((mq, idx) => (
-                    <div key={idx} className="review-item">
-                      <div className="review-question">{mq.question.text}</div>
-                      <div className="review-answer">
-                        Your answer: {mq.question.options[mq.selectedAnswer]}
-                      </div>
-                      <div className="review-answer">
-                        Correct answer: {mq.question.options[mq.question.correctAnswer]}
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              )}
               <div className="navigation">
                 <button
                   className="nav-button primary"
