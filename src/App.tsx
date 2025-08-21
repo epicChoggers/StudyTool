@@ -2,6 +2,11 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import { loadQuizData, createComprehensiveReview, ProcessedQuestion, QuizBank } from './utils/quizUtils'
 
+interface MissedQuestion {
+  question: ProcessedQuestion
+  selectedAnswer: number
+}
+
 // Local storage keys
 const STORAGE_KEYS = {
   SELECTED_QUIZ: 'studytool_selected_quiz',
@@ -41,12 +46,12 @@ function App() {
     loadFromStorage(STORAGE_KEYS.SELECTED_QUIZ, 'comprehensive')
   )
   const [currentQuestions, setCurrentQuestions] = useState<ProcessedQuestion[]>([])
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(() => 
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(() =>
     loadFromStorage(STORAGE_KEYS.CURRENT_QUESTION_INDEX, 0)
   )
   const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null)
   const [showResult, setShowResult] = useState(false)
-  const [score, setScore] = useState<number>(() => 
+  const [score, setScore] = useState<number>(() =>
     loadFromStorage(STORAGE_KEYS.SCORE, 0)
   )
   const [isLoading, setIsLoading] = useState(true)
@@ -54,6 +59,7 @@ function App() {
     const saved = loadFromStorage(STORAGE_KEYS.COMPLETED_QUESTIONS, [])
     return new Set(saved)
   })
+  const [missedQuestions, setMissedQuestions] = useState<MissedQuestion[]>([])
 
   // Load quiz data on component mount
   useEffect(() => {
@@ -102,6 +108,7 @@ function App() {
     setShowResult(false)
     setScore(0)
     setCompletedQuestions(new Set())
+    setMissedQuestions([])
 
     if (quizId === 'comprehensive') {
       const comprehensiveQuestions = createComprehensiveReview(quizBanksToUse)
@@ -132,6 +139,11 @@ function App() {
 
     if (selectedAnswer === currentQuestion.correctAnswer) {
       setScore(score + 1)
+    } else {
+      setMissedQuestions(prev => [
+        ...prev,
+        { question: currentQuestion, selectedAnswer }
+      ])
     }
 
     // Mark this question as completed
@@ -148,12 +160,19 @@ function App() {
     }
   }
 
+  const handleFinish = () => {
+    setCurrentQuestionIndex(currentQuestions.length)
+    setSelectedAnswer(null)
+    setShowResult(false)
+  }
+
   const handleRestart = () => {
     setCurrentQuestionIndex(0)
     setSelectedAnswer(null)
     setShowResult(false)
     setScore(0)
     setCompletedQuestions(new Set())
+    setMissedQuestions([])
   }
 
   // Keyboard shortcuts for answering and navigation
@@ -176,12 +195,12 @@ function App() {
           handleSubmit()
         }
       } else {
-        // Space moves to the next question or restarts after the last question
+        // Space moves to the next question or finishes after the last question
         if (e.key === ' ' || e.code === 'Space') {
           if (currentQuestionIndex < currentQuestions.length - 1) {
             handleNext()
           } else {
-            handleRestart()
+            handleFinish()
           }
         }
       }
@@ -307,7 +326,7 @@ function App() {
                     ) : (
                       <button
                         className="nav-button success"
-                        onClick={handleRestart}
+                        onClick={handleFinish}
                       >
                         Finish Quiz
                       </button>
@@ -322,6 +341,22 @@ function App() {
               <div className="score-percentage">
                 {Math.round((score / currentQuestions.length) * 100)}%
               </div>
+              {missedQuestions.length > 0 && (
+                <div className="review-section">
+                  <h3>Review Missed Questions</h3>
+                  {missedQuestions.map((mq, idx) => (
+                    <div key={idx} className="review-item">
+                      <div className="review-question">{mq.question.text}</div>
+                      <div className="review-answer">
+                        Your answer: {mq.question.options[mq.selectedAnswer]}
+                      </div>
+                      <div className="review-answer">
+                        Correct answer: {mq.question.options[mq.question.correctAnswer]}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
               <div className="navigation">
                 <button
                   className="nav-button primary"

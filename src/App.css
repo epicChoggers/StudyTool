@@ -252,6 +252,38 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
+/* Review Section */
+.review-section {
+  margin-top: 30px;
+  background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+  border: 1px solid #475569;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.review-section h3 {
+  margin-top: 0;
+  text-align: center;
+  color: #f8fafc;
+}
+
+.review-item {
+  margin-bottom: 20px;
+}
+
+.review-question {
+  font-weight: 600;
+  color: #f8fafc;
+  margin-bottom: 8px;
+}
+
+.review-answer {
+  color: #e2e8f0;
+  font-size: 0.95rem;
+  margin-left: 10px;
+}
+
 /* Loading and Error States */
 .loading, .error {
   text-align: center;
